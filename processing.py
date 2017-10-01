@@ -103,7 +103,7 @@ def save_photos(orientation='front'):
     photos = db.subjects.find({'type': 'marked_photo_{}'.format(orientation), 'region.width': {'$gte': 100}, 'region.height': {'$gte': 100}}).batch_size(10)
     with open(os.path.join('data', 'csv', 'photos-{}-{}.csv'.format(orientation, datetime.now().strftime('%Y%m%d'))), 'wb') as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow(['barcode', 'page', 'page_url', 'crop_filename' 'x', 'y', 'width', 'height'])
+        writer.writerow(['barcode', 'page', 'page_url', 'crop_filename', 'x', 'y', 'width', 'height'])
         for photo in photos:
             im_url = photo['location']['standard']
             print im_url
@@ -137,7 +137,7 @@ def save_prints(print_type='handprint'):
     prints = db.subjects.find({'type': 'marked_{}'.format(print_type), 'region.width': {'$gte': 50}, 'region.height': {'$gte': 50}}).batch_size(10)
     with open(os.path.join('data', 'csv', '{}s-{}.csv'.format(print_type, datetime.now().strftime('%Y%m%d'))), 'wb') as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow(['barcode', 'page', 'page_url', 'crop_filename' 'x', 'y', 'width', 'height'])
+        writer.writerow(['barcode', 'page', 'page_url', 'crop_filename', 'x', 'y', 'width', 'height'])
         for hprint in prints:
             im_url = hprint['location']['standard']
             print im_url
@@ -171,7 +171,7 @@ def save_characters():
     chars = db.subjects.find({'type': 'marked_chinese_characters', 'region.width': {'$gte': 20}, 'region.height': {'$gte': 20}}).batch_size(10)
     with open(os.path.join('data', 'csv', 'characters-{}.csv'.format(datetime.now().strftime('%Y%m%d'))), 'wb') as csv_file:
         writer = csv.writer(csv_file)
-        writer.writerow(['barcode', 'page', 'page_url', 'crop_filename' 'x', 'y', 'width', 'height'])
+        writer.writerow(['barcode', 'page', 'page_url', 'crop_filename', 'x', 'y', 'width', 'height'])
         for char in chars:
             im_url = char['location']['standard']
             print im_url
