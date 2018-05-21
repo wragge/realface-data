@@ -282,5 +282,3 @@ def write_csv_completions(page_type):
                     writer.writerow([page['identifier'], page['page']] + fields)
             else:
                 print page_type
-
-
