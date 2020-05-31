@@ -119,12 +119,12 @@ def save_photos(orientation='front'):
             if not os.path.exists(os.path.join('data', 'photos', filename)):
                 im = Image.open(requests.get(im_url, stream=True).raw)
                 coords = [
-                    photo['region']['x'] + 10,
-                    photo['region']['y'] + 10,
-                    photo['region']['x'] + photo['region']['width'] - 10,
-                    photo['region']['y'] + photo['region']['height'] - 10
+                    int(photo['region']['x']) + 10,
+                    int(photo['region']['y']) + 10,
+                    int(photo['region']['x']) + int(photo['region']['width']) - 10,
+                    int(photo['region']['y']) + int(photo['region']['height']) - 10
                 ]
-                # print coords
+                print coords
                 crop = im.crop(coords)
                 crop.save('data/photos/{}'.format(filename))
             writer.writerow([details.group(1), details.group(2), im_url, filename, photo['region']['x'], photo['region']['y'], photo['region']['width'], photo['region']['height']])
@@ -153,10 +153,10 @@ def save_prints(print_type='handprint'):
             if not os.path.exists(os.path.join('data', 'prints', filename)):
                 im = Image.open(requests.get(im_url, stream=True).raw)
                 coords = [
-                    hprint['region']['x'] + 10,
-                    hprint['region']['y'] + 10,
-                    hprint['region']['x'] + hprint['region']['width'] - 10,
-                    hprint['region']['y'] + hprint['region']['height'] - 10
+                    int(hprint['region']['x']) + 10,
+                    int(hprint['region']['y']) + 10,
+                    int(hprint['region']['x']) + int(hprint['region']['width']) - 10,
+                    int(hprint['region']['y']) + int(hprint['region']['height']) - 10
                 ]
                 # print coords
                 crop = im.crop(coords)
@@ -187,10 +187,10 @@ def save_characters():
             if not os.path.exists(os.path.join('data', 'characters', filename)):
                 im = Image.open(requests.get(im_url, stream=True).raw)
                 coords = [
-                    char['region']['x'] + 10,
-                    char['region']['y'] + 10,
-                    char['region']['x'] + char['region']['width'] - 10,
-                    char['region']['y'] + char['region']['height'] - 10
+                    int(char['region']['x']) + 10,
+                    int(char['region']['y']) + 10,
+                    int(char['region']['x']) + int(char['region']['width']) - 10,
+                    int(char['region']['y']) + int(char['region']['height']) - 10
                 ]
                 # print coords
                 crop = im.crop(coords)
