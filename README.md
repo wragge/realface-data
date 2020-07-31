@@ -23,5 +23,5 @@ Details of portrait photographs, handprints, thumbprints, and Chinese characters
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 <br />
-This work is free of known copyright restrictions.
+The transcribed data created by this project is free of known copyright restrictions.
 </p>
