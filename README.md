@@ -16,3 +16,12 @@ Details of portrait photographs, handprints, thumbprints, and Chinese characters
 * [Photos](https://www.dropbox.com/sh/isznt1z4w1hoqhe/AABW2T2mkdsAj57fjje4xjR5a?dl=0)
 * [Hand and thumb prints](https://www.dropbox.com/sh/5nvv49pvayvkt8s/AADCZ0x6jTrqdhbdF8tZVpowa?dl=0)
 * [Chinese characters](https://www.dropbox.com/sh/78pv94uvbq4tb3p/AAA9GMPc3qz251SxCFhwzL9ba?dl=0)
+
+<p>
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
+<br />
+This work is free of known copyright restrictions.
+</p>
