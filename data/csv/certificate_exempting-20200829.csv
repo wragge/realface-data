@@ -1,0 +1,954 @@
+barcode,page,cedt_book_number,cedt_number,cedt_collector,cedt_state,cedt_name,cedt_period,cedt_date,cedt_nationality,cedt_birthplace,cedt_age,cedt_complexion,cedt_height,cedt_hair,cedt_build,cedt_eyes,cedt_marks,cedt_departure_date,cedt_port_departure,cedt_destination,cedt_ship_departure,cedt_arrival_date,cedt_ship_arrival,cedt_port_arrival
+1731871,1,,,b'John Baxter',b'New South Wales',,,,b'Chinese',,b'33 years',,,,,,,,,b'China',,,,
+7288024,1,b'273',b'011',b'WILLIAM HENRY BARKLEY',b'NEW SOUTH WALES',b'Wing Song',b'THREE YEARS',b'15 Dec 1919',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'15/12/19',b'Sydney',b'China',,,b'Eastern',b'Sydney'
+7288024,3,b'273',b'012',,,,,,,,,,,,b'Medium',b'Brown',,,,,,,,
+7288024,5,,,b'William Henry Barkley',b'New South Wales',,,,b'Chinese',b'Canton',b'36 years',,,b'Dark',b'Medium',b'Brown',b'Mole centre of forehead',,b'Sydney',b'China',b'St Albans',,b'Victoria',b'Sydney'
+7288024,7,,,b'William Henry Barkley',b'New South Wales',b'Ah Ling',,,b'Chinese',b'Canton',b'42 years',,,b'Dark',b'Medium',b'Brown',,b'17/12/19',b'Sydney',,,,,
+7288024,9,,,,,,,,b'Chinese',b'Canton',,,,b'Dark',,,,b'17/12/19',b'Sydney',b'China',,,,b'Sydney'
+7288024,11,,,b'William Henry Barkley',b'New South Wales',,,,b'Chinese',b'Canton',b'59 years',,,b'Dark',b'Medium',b'Brown',,b'17/12/19',b'Sydney',b'China',b'St Albans',,,
+7288060,1,b'276',b'071',,b'New South Wales',b'Charles Joseph Coorey',,b'28 April 1920',b'Syrian',b'Mount Lebanon',b'32 years',,,b'Dark',b'Medium',b'Brown',b'Small scar near corner right eye',,b'Wallaroo',b'France',b'Morea',,,
+7288066,1,b'277',b'031',,,,,,b'Chinese',b'Canton',,,,,b'Medium',,,b'7.6.20',b'Sydney',b'China',,,,
+7288066,3,b'277',b'032',,,b'George Choy',,b'1st June 1920',b'Chinese',b'Canton',b'48 years',,,b'Dark',,b'Brown',b'-',b'7.6.20',b'Sydney',b'China',b'Arafura',,,b'Sydney'
+7288066,5,b'277',b'033',,,,,b'1st June 1920',b'Chinese',b'Canton',b'48 years',,,b'Dark',,b'Brown',b'-',b'7.6.20',b'Sydney',b'China',b'Eastern',,,b'Sydney'
+7288103,1,b'281',b'001',,,,,,b'Chinese',b'Darwin',b'24 years',,,,b'Medium',b'Brown',,,b'Sydney',b'China',b'Eastern',,,b'Sydney'
+7288103,3,b'281',b'002',,,b'Ah Sam',,b'2 Decr 1920',b'Chinese',b'Canton',,,,b'Dark',b'Medium',,,,b'Sydney',b'China',b'Eastern',,,
+7288135,1,b'302',b'021',,b'NEW SOUTH WALES',b'Must Khan',b'THREE YEARS',b'11 Feby 1921',b'Indian',,b'60 years',b'Dark',b'5ft 7 3/4 in in boots',b'Dark',b'Medium',b'Brown',b'mole at left ear',b'12/2/21',b'Sydney',b'India',b'Onuarde',,,
+7288135,3,b'302',b'022',b'George Ernest Hudson ',b'NEW SOUTH WALES',,b'THREE YEARS',b'11 Feby 1921',b'Chinese',b'Canton',b'52 years',,b'5ft 5 3/4 in in Boots',b'Dark',b'Medium',b'Brown',,b'19.2.21',,b'China ',b'Hwah Ping ',,b'Victoria ',b'Sydney'
+7288135,5,b'302',b'023',,,b'King You',b'THREE YEARS',b'11 Feby 1921',b'Chinese',b'Canton',b'41 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+7288135,7,b'302',b'024',,b'NEW SOUTH WALES',b'Charlie Young Shong',,,b'Chinese ',b'Canton',,,b'5ft 4 1/2 in in Boots',b'Dark',b'Medium',b'Brown',b'Scar each side of nose',b'19/2/21',b'Sydney',b'China',,,,b'Sydney'
+7288135,9,b'302',b'025',b'GEORGE ERNEST HUDSON',b'NEW SOUTH WALES',b'Loo Gun',b'THREE YEARS',b'14 FEB 1920',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Scar corner of left eyebrow',b'28/8/12',b'Sydney',,"b's.s. ""St Albans""'",,,
+7288205,1,b'315',b'021',b'William Henry Barkley',b'NEW SOUTH WALES',b'Sun Chong Lee',,,b'Chinese',b'Canton',,,,b'Dark',,,,b'1-10-21',b'Sydney',b'China',b'Victoria',,b'Eastern',b'Sydney'
+7288205,3,b'315',b'022',,,,,,b'Chinese',b'Canton',,,,b'Dark',,,,,b'Sydney',b'China',b'Victoria',,b'Victoria',b'Sydney'
+7288240,1,b'318',b'071',b'William Henry Barkley',b'New South Wales',,,,b'Chinese',,,,,,,,,,,,,,,b'Sydney'
+7288240,3,b'318',b'072',b'William Henry Barkley',,,b'Three years',,b'Chinese',,,,,,,,,,,,,,,b'Sydney'
+7288240,5,b'318',b'073',,b'New South Wales',b'Ah Lung',,b'Feby 3rd 1922',b'Chinese',,,,,,,,,,,,,,,b'Sydney'
+7288240,7,b'318',b'074',,b'New South Wales',b'Low Yuen',,b'Feby 3rd 1922',b'Chinese',,,,,,,,,,,,b'Victoria',,,b'Sydney'
+7288240,9,b'318',b'075',,b'New South Wales',b'Ah Yung (or Young)',,b'Feby 4th 1922',b'Chinese',,,,,,,,,,,,,,,b'Sydney'
+7288240,11,b'318',b'076',,,,,,b'Chinese',,b'42 years',,,b'Dark',b'Medium',b'Brown',,b'15/2/22',b'Sydney',b'China',b'Victoria',,b'Eastern',b'Sydney'
+7288240,13,b'318',b'077',b'William Henry Barkley',b'New South Wales',b'Kum On',b'Three years',,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'15/2/22',b'Sydney',b'China',b'Victoria',,b'Victoria',b'Sydney'
+7288240,15,b'318',b'078',,,b'Thomas Henry Lee',,,b'Chinese',b'Canton',,,,,,,,b'15/2/22',b'Sydney',b'China',,,,
+7288240,17,b'318',b'079',,,,,,,b'Canton',,,,,,,,,b'Sydney',b'China',,,,
+7288256,1,b'330',b'031',,,b'Ah Long',,b'17 March 1922',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'18/3/22',b'Sydney',b'China',,,,
+7288256,3,b'330',,,,b'Allen Hing',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'18/3/22',b'Sydney',b'China',b'St Albans',,,
+7288256,5,,b'033',,,,,b'March 20th 1922',b'Indian',,,,,,,,,,,,,,,b'Sydney'
+7288256,7,b'330',b'034',,,b'Saifali',,,b'Indian',,,,,,,,,,,,,,,
+7288256,9,,,,,,,b'20/3/22',,,,,,,,,,,,,,,,
+7288282,1,b'332',b'091',,,b'Jack Jan',,b'10 July 1922',b'Chinese',b'Canton',b'48 years',,,b'Dark',b'Medium',b'Brown',,b'12/7/22',b'Sydney',b'China',b'Eastern',,b'Tanda',b'Sydney'
+7288292,1,b'333',b'092',,,b'Ah Wine',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,,,,,
+7288360,1,b'352',b'071',,,b'Joseph Choy',,b'14/4/23',b'Chinese',b'Canton',b'42 years',,,,,,,b'14/4/23',,,,,,
+7288360,3,,,,b'New South Wales',,,b'11 April 1923',,,,,,,,,,,,,,,,
+7288558,1,b'379',b'0',b'William Henry Barkley',b'New South Wales',b'Young Yen',,b'5 Sept 1924',b'Chinese',b'Canton',b'47 years',,,b'Dark',,b'Brown',,b'10/9/24',b'Sydney',b'China',b'St Albans',,,b'Sydney'
+7288558,3,b'379',b'1',,b'NEW SOUTH WALES',b'Chong Mow',b'THREE YEARS',b'5 Sept 1924',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'10/9/24',b'Sydney',b'China',,,b'Taiping',
+7288558,5,b'379',b'2',,b'New South Wales',,,b'5 Sept 1924',b'Chinese',b'Canton',b'54 years',,,b'Dark',b'Medium',b'Brown',,b'10/9/24',b'Sydney',b'China',,,,b'Sydney'
+7288558,7,b'379',b'3',,,,,b'5 Sept 1924',b'Chinese',b'Canton',b'52 years',,,b'Dark',,b'Brown',,b'10/9/24',b'Sydney',,,,,b'Sydney'
+7288558,9,b'379',b'4',,,b'Ah Young',,b'6 Sept 1924',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,b'Sydney',b'China',,,,b'Cairns'
+7288558,11,b'379',b'5',,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'10/9/24',b'Sydney',b'China',,,b'Taiping',b'Sydney'
+7288558,13,b'379',b'6',b'William Henry Barkley',b'New South Wales',b'Ah Chong',,b'8 Sept 1924',b'Chinese',b'Canton',b'56 years',,,,b'Medium',,,,b'Sydney',b'China',,,,
+7288558,15,b'379',b'7',,,,,b'8 Sept 1924',b'Chinese',b'Canton',b'53 years',,,,,,,,,,,,,
+7288558,17,,b'8',,,,,,,,,,,,,,,,,,,,,
+7288558,19,b'379',b'9',,,,,,,,,,,,,,,b'10/9/24',,b'China',,,,
+7288558,21,b'379',b'10',,,b'Ah Kong',,,b'Chinese',,b'58 years',,,b'Dark',,b'Brown',,b'10/9/24',b'Sydney',b'China',b'St Albans',,,b'Townsville'
+7288777,1,,b'21',b'John Banks',,,,b'14th February 1927',b'Chinese',b'Canton',b'68 years',b'Dark',,b'Turning grey',b'Medium',b'Brown',b'Nil',,b'Sydney',b'China',b'Taiping',,b'Taiping',b'Sydney'
+7288777,5,b'422',b'23',b'John Banks',b'New South Wales',b'John Young',,,b'Chinese',b'Canton',,b'Dark',,b'Black',b'Medium',b'Brown',,b'19th Feby 1927',b'Sydney',b'China',b'Taiping',,,
+7288823,1,b'426',b'81',,,,,,b'Chinese',b'Sydney',b'39 years',b'Dark',,b'Black',b'Medium',b'Brown',b'Nil',,b'Sydney',b'China',b'Changte',,b'Changte',b'Sydney'
+7288823,3,b'426',b'82',b'William Henry Barkley',b'New South Wales',,,b'18th July 1927',b'Chinese',b'Canton',b'45 years',,,,,,,,b'Sydney',b'China',b'Changte',,,b'Sydney'
+7288823,5,b'426',b'83',,,b'Ah Chin',,b'18th July 1927',b'Chinese',b'Canton',b'44 years',b'Dark',,b'Black',b'Medium',b'Brown',,b'20th July 1927',b'Sydney',b'China',b'Changte',,b'Changte',b'Sydney'
+7288823,7,b'426',b'84',b'William Henry Barkley',b'New South Wales',b'Ah Chew',b'Three years',b'18th July 1927',b'Chinese',b'Canton',b'55 years',b'Dark',,b'Black',b'Medium',b'Brown',b'Scar on forehead over right eye',,b'Sydney',b'China',b'Changte',,,
+7288823,9,b'426',b'85',b'William Henry Barkley',b'New South Wales',b'Chong Moy',,,,b'Canton',b'66 years',b'Dark',,,b'Medium',b'Brown',b'Nil',b'20th July 1927',b'Sydney',b'China',b'Changte',,,b'Sydney'
+7288823,11,b'426',b'86',b'William Henry Barkley',,b'Charlie Wong',,,b'Chinese',b'Canton',b'64 years',b'Dark',,b'Turning grey (Bald)',b'Slight',b'Brown',,,b'Sydney',b'China',b'Changte',,,b'Brisbane'
+7288823,13,b'426',b'87',b'William Henry Barkley',b'New South Wales',,,,,b'Canton',,b'Dark',,b'Turning grey (Bald)',b'Medium',b'Brown',b'Scar above right eyebrow',b'20th July 1927',b'Sydney',b'China',b'Tanda',,b'Tanda',b'Sydney'
+7288823,15,b'426',b'88',,,,,b'19th July 1927',b'Chinese',b'Canton',,b'Dark',,b'Black (Bald)',b'Medium',,b'Nil',,b'Sydney',b'China',,,,
+7288825,1,b'427',b'1',b'William Henry Barkley',,,,,b'Chinese',b'Canton',,,,,,,,,,,,,b'Aki Maru',b'Sydney'
+7288825,3,,,b'William Henry Barkley',,,,b'10/8/27',b'Chinese',b'Canton',,,,,,,,,,,,,b'Changte',b'Sydney'
+7288825,5,,,b'William Henry Barkley',,,,,b'Chinese',b'Canton',,b'Dark',,b'Grey',,,,b'12th August 1927',b'Sydney',,,,,b'Sydney'
+7288825,7,,b'4',,,b'Wong Hing',,,b'Chinese',b'Canton',,b'Dark',,b'Black',,b'Brown',,,b'Sydney',b'China',b'St Albans',,,b'Townsville'
+7288825,9,b'427',b'5',,b'New South Wales',,,,,,b'26 years',b'Dark',,,,,,,b'Sydney',b'China',b'Taiping',,,b'Sydney'
+7288825,11,b'427',b'6',,b'New South Wales',,,,b'Chinese',,,b'Dark',,b'Turning grey',b'Medium',,b'Small lump on bottom eyelid right eye',,b'Sydney',b'China',b'Taiping',,b'Taiping',b'Sydney'
+7288825,13,,,,,b'Willie Young',,,b'Chinese',b'Canton',,b'Dark',,b'Black',b'Medium',b'Brown',,,b'Sydney',,b'China',,,b'Sydney'
+7288828,5,b'427',b'33',,b'New South Wales',b'Gee Sam',,b'20/8/27',b'Chinese',b'Canton',,,,,,,,,,,,,,
+7288828,7,b'427',b'34',b'William Henry Barkley',b'New South Wales',b'Wong Fung Jung or Wong Hung Chong',,b'20/8/27',b'Chinese',b'Canton',,,,,,,,,,,,,,
+7288828,9,b'427',b'35',b'William Henry Barkley',b'New South Wales',,,b'25/8/27',b'Indian',b'Punjab',,,,,,,,,,,,,,b'Sydney'
+7288828,11,b'427',b'36',b'William Henry Barkley',b'New South Wales',b'Buck Gong',,,b'Chinese',b'Canton',b'44 years',b'Dark',,b'Black',,,,,b'Sydney',b'China',,,b'Changte',b'Sydney'
+7288828,13,b'427',b'37',,,b'Ah Lung',,b'2nd September 1927',b'Chinese',b'Canton',b'65 years',b'Dark',,b'Black',b'Medium',b'Brown',b'Left eye blind - mole on chin',b'10th Sept 1927',b'Sydney',b'China',,,,
+7288906,1,b'450',b'11',,b'NEW SOUTH WALES',b'James Gee Way',b'THREE YEARS',,b'Chinese',b'Canton',b'50 years',b'Dark',b'5 ft 6 1/4 ins (Boots)',b'Grey (Bald)',b'Medium ',,,,b'Sydney',b'China',b'20 May 1932',,,
+7288945,1,b'454',b'001',,,,,,b'Canton',,b'51 years',,,,,,,,b'Sydney',b'China',b'Tanda',,,b'Sydney'
+7288990,1,b'470',b'051',,b'New South Wales',,,,,,,,b'-',b'-',,,,,,,,,,
+7288990,3,b'470',b'052',b'William Henry Barkley',,,,,,,,,,,,,,,,,,,,
+7288990,5,b'470',b'053',b'William Henry Barkley',b'New South Wales',b'Ho Yee',,,,,,,,,,,,,,,,,,b'Sydney'
+7288990,7,b'470',b'054',b'William Henry Barkley',b'New South Wales',b'Jong Wah',,,,,,,,,,,,,,,,,,
+7288990,9,b'470',b'055',,,,,,,,,,,,,,,,,,,,,
+7288990,11,b'470',b'056',b'William Henry Barkley',b'New South Wales',,,,,,,,,,,,,,,,,,,
+7288990,13,b'470',b'057',b'William Henry Barkley',b'New South Wales',b'Charlie Gong',,,,,,,,,,,,,,,,,,
+7288990,15,b'470',b'058',,b'New South Wales',,,,,,,,,,,,,,,,,,,b'Sydney'
+7288990,17,b'470',b'059',b'William Henry Barkley',b'New South Wales',,,,,,,,,,,,,,,,,,,
+7288990,19,b'470',b'060',b'William Henry Barkley',b'New South Wales',b'Charlie Sing',,,b'Chinese',b'Canton',b'59 years',b'Dark',,,,b'Brown',,,b'Sydney',b'China',,,b'Changte',
+7461001,1,,,,b'New South Wales',,,,,b'Jamaica',,,,,b'Medium',,b'-',,,b'China and England',,,b'SS Moravian',b'Sydney'
+7461001,3,,,,b'New South Wales',,,b'11 Augst 08',b'West Indian',b'Jamaica',b'38 years',b'Dark',b'-',b'Dark',,b'Brown',b'-',,,,,,,b'Sydney'
+7461001,4,,b'08/452',b'John Baxter',b'New South Wales',b'Ah Cheong',,b'11th August 1908',b'Chinese',b'Canton',,,,,,,,,,,,,b'Empire',b'Sydney'
+7461001,5,,b'08/452',b'John Baxter',b'New South Wales',b'Ah Cheong',,b'11th August 1908',b'Chinese',b'Canton',,,,,,,,,,,,,b'Empire',b'Sydney'
+7461001,6,,b'08/453',b'John Baxter',b'New South Wales',b'Lee Yee',,b'11th August 1908',b'Chinese',b'Canton',,,,,,,,,,,,,b'Empire',b'Sydney'
+7461005,1,,,,,b'Lee Chong',,,,,,,,,,,,,,,,,,
+7461005,23,,b'08/497',,,,,,,,,,,,,,,,,,,,,
+7461012,1,,b'08/541',b'John Baxter',b'New South Wales',b'George Fong',,b'6 Oct 08',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Oct 08',,b'China',b'Changsha',,,
+7461021,1,,b'71',b'John Baxter',b'New South Wales',,,b'18 Nov 08',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Nov 08',,b'China',b'Empire',,b'St Albans',b'Sydney'
+7461021,3,b'11',b'72',b'John Baxter',,,,b'19 Nov 08',b'Chinese',b'Canton',,,,b'Dark turning grey',,,,b'Nov 08',,b'China',b'Empire',,b'Empire',
+7461022,1,b'11',b'81',b'John Baxter',b'New South Wales',b'Ah Hip Lee',b'Three years',b'30 Nov 08',b'Chinese',b'Canton',b'41 years',,,b'Dark',b'Medium',b'Brown',,b'Dec 05',,b'China',,,,
+7461022,3,b'11',b'82',b'John Baxter',,b'Moses Nader',,b'30th November 1908',b'Syrian',,b'54 years',,,,,,,"b""13th August '04""",,b'Syria',b'Orontes',,,b'Sydney'
+7461022,4,b'11',b'83',b'John Baxter',,b'Elias Abood',,b'30th November 1908',b'Syrian',,b'48 years',,,,,,,,,,,,b'Australian',b'Sydney'
+7461022,5,b'11',b'83',b'John Baxter',b'New South Wales',b'Elias Abood',,b'30th November 1908',b'Syrian',,b'48 years',,,,,,,,,,,,b'Australian',b'Sydney'
+7461022,8,b'11',b'85',b'John Baxter',,b'Ah Bin',,b'2 Dec 08',b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',b'Brown',b'Small mole on corner left eyebrow',b'Dec 08',,b'China',,,,b'Sydney'
+7461033,1,b'12',b'91',b'John Baxter',b'New South Wales',,,,,,,,,,,,,,,b'China',,,,b'Sydney'
+7461033,2,b'12',b'91',b'John Baxter',b'New South Wales',b'Lim Wing',,,b'Chinese',b'Canton',,,,,,,,,,,,,,
+7461033,3,b'12',b'92',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Aldenham',b'Sydney'
+7461033,5,b'12',b'92',b'John Baxter',b'New South Wales',,,,,b'Canton',,,,b'Dark',,,,b'Jany 09',,b'China',,,b'Aldenham',
+7461033,8,b'12',b'93',b'John Baxter',b'New South Wales',b'Chong Young',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small scar over right eyebrow',,b'China',,b'Aldenham',,b'Empire',
+7461033,10,b'12',b'93',,b'New South Wales',,,,b'Chinese',,b'30 years',,,b'Dark',,,,,,b'China',,,b'Empire',b'Sydney'
+7461033,14,b'12',b'94',,b'New South Wales',,,,b'Chinese',,b'36 years',,,b'Dark',,,b'Large scar near right temple',,,b'China',b'Aldenham',,,b'Brisbane'
+7461033,18,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'36 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Aldenham',,b'Eastern',b'Brisbane'
+7461033,20,b'12',b'95',b'John Baxter',b'New South Wales',b'We Hing',,,b'Chinese',b'Canton',b'41 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Empire',b'Sydney'
+7461035,1,b'13',,,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',,,,
+7461035,5,b'13',b'11',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,b'Sydney',b'China',b'Aldenham',,b'Aldenham',b'Sydney'
+7461035,7,b'13',,b'John Baxter',b'New South Wales',b'Shu Kee',,b'15 Jany 09',b'Chinese',b'Canton',,,,,,,,,,b'China',,,,b'Sydney'
+7461035,8,b'13',b'12',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,,,,b'China',,,,b'Sydney'
+7461035,9,b'13',b'13',,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,,b'China',,,,b'Sydney'
+7461035,10,,b'13',b'John Baxter',b'New South Wales',,,b'15 Jany 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,,,,,b'Sydney'
+7461035,11,b'13',b'14',b'John Baxter',b'New South Wales',b'Hock Sing',b'three years',b'15 Jany 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,
+7461038,1,b'13',b'51',b'John Baxter',b'New South Wales',,,,,,,,,,,,,,,,,,,
+7461046,1,b'20',b'21',,,,,,,,,,,,,,,,,,,,,
+7461046,3,b'20',b'22',b'John Baxter',b'New South Wales',b'Horace Sung Yee',b'Three years',,,,,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern',,,b'Sydney'
+7461046,4,b'20',,b'John Baxter',b'New South Wales',,,,b'Chinese',,,,,,,b'Brown',,,,b'China',b'Eastern',,,b'Sydney'
+7461046,5,,b'24',,b'New South Wales',,,,b'Chinese',,b'35 years',,,,b'Medium',b'Brown',b'Slight scar over right eyelid',b'March 09',,b'China',b'Eastern',,b'St Albans',b'Sydney'
+7461052,1,b'20',b'81',b'John Baxter',b'New South Wales',,,,b'Armenian',b'Syria',,,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'France',,,,
+7461056,1,b'21',b'21',b'John Baxter',b'New South Wales',b'Tong Sing',b'Three years',b'8 April 09',b'Chinese',b'Canton',b'50 years',,b'5ft 3 1/4',b'Dark',b'Medium',b'Brown',b'-',b'April 09',,b'China',b'Aldenham',,b'Empire',b'Sydney'
+7461056,3,b'21',b'21',b'John Baxter',b'New South Wales',b'Tong Sing',,b'8 April 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'April 09',,b'China',b'Aldenham',,b'Empire',b'Sydney'
+7461056,7,b'21',b'22',b'John Baxter',b'New South Wales',b'Chow Dow',,b'8 April 09',b'Chinese',b'Canton',b'52 years',,,b'Dark',b'Medium',b'Brown',b'-',b'April 09',,b'China',b'Aldenham',,b'Eastern',b'Sydney'
+7461056,9,b'21',b'23',b'John Baxter',b'New South Wales',b'Albert Edward Lee',,b'8 April 09',b'Half Caste Chinese',b'Moree NSW',b'8 years',,,b'Dark',,b'Brown',,b'April 09',,b'China',,,,
+7461056,11,b'21',b'24',b'John Baxter',b'New South Wales',b'Sher Mohamed',b'Three years',b'8 April 09',b'Indian',,b'25 years',,b'5ft 5in in Boots',b'Dark',,b'Brown',,,,b'India',,,,b'Sydney'
+7461056,13,b'21',b'24',b'John Baxter',b'New South Wales',b'Sher Mohamed',,,b'Indian',,b'25 years',,,,,,b'-',b'April 09',,b'India',b'Orient Line',,,b'Sydney'
+7461056,17,b'21',b'25',b'John Baxter',b'New South Wales',,,b'8 April 09',,b'Goa',,,,,,,b'-',b'April 09',,b'Goa',,,,
+7461057,1,,,,,b'Tom Yee Sen',,,,,,,,,,,,b'April 09',,b'China',b'Aldenham',,,
+7461057,3,b'21',b'32',b'John Baxter',b'New South Wales',,,b'8 April 09',,,,b'Dark',,b'Dark',b'Medium',b'Brown',,b'April 09',,b'India',b'Orient Line',,,
+7461057,5,b'21',b'32',,,,,b'8 April 09',b'Indian',,,b'Dark',b'Dark',b'Dark',b'Medium',b'Brown',,,,,,,,
+7461057,9,,b'33',b'John Baxter',,b'Lock You',,b'8 April 09',b'Chinese',b'Canton',b'50 years',,,b'Dark',b'Medium',b'Brown',,b'April 09',,b'China',,,b'Changsha',b'Sydney'
+7461057,11,b'21',,b'John Baxter',b'New South Wales',b'Kum Saw',,,b'Chinese',b'Canton',b'38 years',,,b'Black',,b'Brown',b'Scar left side of chin',,,b'China',,,,b'Sydney'
+7461057,14,b'21',b'34',,,,,,,,b'38 years',,,,,,,,,b'China',,,,
+7461057,18,b'21',b'35',b'John Baxter',b'New South Wales',b'Lee Sing ',,,b'Chinese',b'Canton',,,,,,,,,,,b'Aldenham',,,
+7461057,20,b'21',b'36',b'John Baxter',b'New South Wales',b'Ah Chew',,,,,,,,,,,,b'14th April 1909',,,,,,
+7461057,22,,b'37',,b'New South Wales',,,b'15th April 1909',,,,,,,,,,,,,,,,
+7461057,24,b'21',b'38',,,,b'three years',,,,,,,,,,,,,,,,,
+7461057,26,b'21',b'38',,b'New South Wales',,,,b'Syrian',b'Syria',b'35 years',b'Dark',,b'Black',,,,,,b'Syria',,,,
+7461057,28,b'21',b'39',b'John Baxter',b'New South Wales',,b'three years',,b'Syrian',b'Syria',b'44 years',b'Dark',,b'Black',,,,,,,,,,
+7461057,30,,b'40',b'John Baxter',b'New South Wales',b'Daher Aboud',,,b'Syrian',b'Syria',b'70 years',b'Dark',,b'Grey',b'Medium',,,,,b'Syria',,,b'Konigin Luise',b'Sydney'
+7461057,33,b'21',b'40',,b'New South Wales',,b'three years',,b'Syrian',b'Syria',,b'Dark',,b'Grey',,,,,,b'Syria',,,,b'Sydney'
+7461058,1,b'21',b'41',b'John Baxter',,,b'three years',b'16th April 09',b'Syrian',b'Syria',b'47 years',b'Dark',,b'Black',,b'Grey',,,,b'Syria',,,,b'Sydney'
+7461058,3,,b'41',b'John Baxter',b'New South Wales',,,b'16th April 09',b'Syrian',b'Syria',b'47 years',b'Dark',,b'Black',,b'Grey',,,,b'Syria',,,,b'Sydney'
+7461058,7,b'21',b'42',b'John Baxter',b'New South Wales',,b'Three years',b'19th April 1909',,,b'38 years',,,,b'Slight',,,"b""21st April '09""",,b'New Zealand',,,,b'Sydney'
+7461058,9,b'21',b'42',b'John Baxter',b'New South Wales',,b'Three years',b'19th April 1909',b'Cingalese',b'Ceylon',b'38 years',b'Brown',,b'Black',b'Slight',b'Brown',,"b""21st April '09""",,b'New Zealand',,,,b'Sydney'
+7461058,11,b'21',b'43',b'John Baxter',b'New South Wales',,b'Three years',b'19th April 1909',b'Indian',,b'30 years',b'Brown',,b'Black',b'Medium',b'Brown',b'None visible',,,b'India',,,b'Armand Behic',b'Sydney'
+7461058,13,b'21',b'44',b'John Baxter',b'New South Wales',b'Charlie Yick',,b'22nd April 1909',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Australian',,b'Empire',b'Sydney'
+7461058,14,b'21',b'44',b'John Baxter',b'New South Wales',b'Charlie Yick',,b'22nd April 1909',b'Chinese',,b'42 years',,,,b'Medium',,,,,b'China',b'Australian',,b'Empire',b'Sydney'
+7461058,15,,b'06/163',b'William Bethune',b'New South Wales',,,b'24 April 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Long scar top of forehead near hair',b'May 06',,b'China',b'Australian',,b'Empire',b'Sydney'
+7461058,19,b'21',b'45',,b'New South Wales',b'Ah Chock',b'Three years',b'22nd April 1909',b'Chinese',b'Canton',b'39 years',,,b'Dark',b'Thin',b'Brown',b'Small scar on side of head above right ear and temple',,,b'China',b'Australian',,b'St Albans',b'Sydney'
+7461058,20,b'21',b'46',,b'New South Wales',,,b'23rd April 09',b'Indian',,b'53 years',b'Dark',,,b'Spare',b'Brown',,,,b'India',,,,
+7461058,22,b'21',b'47',,,,b'three years',,b'Indian',,b'35 years',,,,,,,,,b'India',,,,
+7461058,24,b'21',b'48',b'John Baxter',b'New South Wales',,b'Three (3) years',,b'Pacific Islander',,b'about 52 years',b'Brown',,,,b'Brown',,b'28th April 1909',,,b'Pacifique',,b'Pacifique',b'Sydney'
+7461058,26,b'21',b'48',,b'New South Wales',,b'Three (3) years',b'28th April 1909',b'Pacific Islander',,b'about 52 years',b'Brown',,b'Black turning grey',b'Medium',b'Brown',,b'28th April 1909',,,b'Pacifique',,b'Pacifique',
+7461058,29,b'21',b'49',,b'New South Wales',,,b'30 April 09',b'Chinese',,,,,,,,,b'April 09',,,,,b'Aldenham',b'Sydney'
+7461058,31,,,b'John Baxter',b'New South Wales',,,b'30 April 09',b'Chinese',,b'40 years',,,b'Dark',b'Medium',b'Brown',,b'April 09',,b'China',,,,b'Sydney'
+7461059,1,b'21',b'51',b'John Baxter',b'New South Wales ',b'Tong Ling Sing',b'Three years',b'30 April 09',b'Chinese',b'Canton',b'35 years',,b'5ft 5in in Boots',b'Dark',b'Medium',b'Brown',b'Mole under Corner right eyebrow',b'April 09',b'Sydney',b'China',b'Empire',,b'St Albans',b'Sydney'
+7461059,3,b'21',b'51',b'John Baxter',b'New South Wales',b'Fong Ling Sing',b'three years',b'30 April 09',b'Chinese',b'Canton',,,b'5ft 5in in Boots',b'Dark',b'Medium',b'Brown',b'Mole under corner right eyebrow',b'April 09',b'Sydney',b'China',b'Empire',,,b'Sydney'
+7461059,7,b'21',b'52',b'John Baxter',b'New South Wales',b'Jimmy Ah King',,b'4 May 09',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'May 09',b'Sydney',b'China',b'Prinz Waldemar',,b'Prinz Waldemar',b'Sydney'
+7461060,1,b'21',b'61',b'John Baxter',b'New South Wales',,,,,,b'18 years',,,b'Dark',,b'Brown',,b'May 09',,b'China',,,,
+7461065,1,b'22',b'11',b'John Baxter',b'New South Wales',b'Ah Gooey',b'Three years',b'28 May 09',b'Chinese',b'Canton',b'41 years',,,b'Dark',b'Medium',b'Brown',b'Small scar centre of forehead',b'May 09',,b'China',b'Eastern',,b'Aldenham',b'Sydney'
+7461065,3,b'22',b'12',b'John Baxter',b'New South Wales',,,,,,,,,,,,,b'June 09',,,,,b'Aldenham',
+7461065,5,b'22',b'13',b'John Baxter',b'New South Wales',,,b'28 May 09',b'Indian',b'Punjaub',,,,b'Dark',b'Medium',b'Brown',,b'May 09',,b'India',,,,
+7461068,1,b'22',b'41',,b'New South Wales',,,b'2 June 09',,,,,,,,,,b'June 09',b'Sydney',b'China',b'Eastern',,,
+7461068,3,b'22',b'42',,,,,b'2 June 09',,b'Canton',,,,,,,,b'June 09',,b'China',b'Eastern',,b'Empire',
+7461068,24,,,b'John Baxter',b'New South Wales',,,b'2 June 09',,b'Sydney NSW',b'12 years & 8 months',,,b'Dark',b'Medium',b'Brown',b'Like small scar under right eye',b'June 09',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461073,1,b'22',b'91',b'Stephen Mills',b'New South Wales',,,b'17 July 09',b'Indian',,,b'Dark',,b'Dark turning grey',b'Medium',b'Brown',b'Large mole near right eye',b'July 09',b'India',b'India',,,,
+7461073,3,b'22',b'92',b'Stephen Mills',b'New South Wales',,,b'19 July 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,,,,,b'Sydney'
+7461077,1,b'23',b'31',b'Stephen Mills',b'New South Wales',,,,b'Indian',,,b'Dark',,,,,b'USED',,b'Sydney',,b'Currie Line',,,b'Sydney'
+7461077,3,b'23',b'32',b'Stephen Mills',b'New South Wales',,b'-',b'11th August 1909',b'Half caste Chinese',,,,,,,,,,b'Sydney',,,,,
+7461081,1,b'23',b'71',,b'New South Wales',,,,b'Chinese',b'Canton',b'34 years',,,,,,b'Small feet',,,b'China',,,,
+7461081,3,b'23',b'72',,,,,,b'Chinese',b'Canton',,,,,,b'Brown',,b'August 09',,b'China',b'Eastern',,,
+7461081,5,b'23',b'73',b'Stephen Mills',b'New South Wales',,,,b'Chinese',b'Sydney',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,b'Sydney'
+7461081,7,b'23',b'74',b'Stephen Mills',b'New South Wales',b'Amy Denson',,b'27 Augst 09',b'Chinese',b'New South Wales',,,,b'Dark',,b'Brown',,b'Augst 09',,b'China',b'Eastern',,b'Nikko Maru',b'Sydney'
+7461081,9,b'23',b'75',b'Stephen Mills',b'New South Wales',b'Ivy Denson',b'Three years',,b'Chinese',b'New South Wales',,,,b'Dark',,b'Brown',,,,b'China',b'Eastern',,,
+7461081,11,b'23',b'76',b'Stephen Mills',b'New South Wales',,,,b'Chinese',b'New South Wales',,,,b'Dark',,b'Brown',,,,b'China',b'Eastern',,b'St Albans',b'Sydney'
+7461086,3,b'33',b'22',b'Stephen Mills',b'New South Wales',,,,b'Indian',,,b'Dark',,b'Dark',b'Medium',b'Brown',,,,,,,,b'Sydney'
+7461134,1,,b'1',b'William Lawson',b'New South Wales',,,b'23rd April 1910',b'Chinese',,b'42 years',,,b'Dark',b'Medium',b'Brown',,b'27th March 1910',,b'China',b'Aldenham',,,
+7461196,1,b'68',b'021',b'Stephen Mills',b'New South Wales',,,b'2nd March 11',b'Chinese',b'Canton',b'42 years',,,b'Dark',b'Medium',b'Brown',,b'16th March 11',,b'China',,,,b'Sydney'
+7461196,3,b'68',b'022',b'Stephen Mills',b'New South Wales',b'Henry Young',,b'7 March 11',b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Empire',,b'Empire',b'Sydney'
+7461264,2,b'84',b'001',b'William Lawson',,,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Empire',,b'Empire',b'Sydney'
+7461264,4,b'84',b'002',b'William Lawson',b'New South Wales',b'George Pong',,b'29 April 1912',,,,,,,,,,,,,,,,b'Sydney'
+7461264,5,b'84',,b'William Lawson',b'New South Wales',,,b'30 April 12',b'Chinese',b'Canton',,,,,,,,b'8 May 12',,,,,,b'of Sydney'
+7461264,7,b'84',b'006',b'William Lawson',,b'Tommy Ah Hoe',,b'2nd May 12',b'Chinese',b'Canton',b'50 years',,b'5 feet 2 1/4 in in boots',,,,,,,b'China',,,b'Eastern',b'Sydney'
+7461264,9,b'84',b'007',b'William Lawson',,b'Sung Yee',,b'2 May 1912',,,,,,,,,,,,,,,,b'Townsville'
+7461264,10,b'84',b'008',,,b'Ah Sam',b'three years',b'2nd May 12',b'Chinese',b'Canton',b'48 years',,,b'Black',,,,,,b'China',,,b'Empire',b'Sydney'
+7461265,1,b'84',b'011',b'William Lawson',,b'Way Ching',,b'2nd May 12',b'Chinese',b'Canton',,,,b'Black',b'Medium',b'Brown',,b'8th May 12',,b'China',b'SS Empire',,,b'of Sydney'
+7461265,3,b'84',b'012',b'William Lawson',,,,,b'Chinese',b'Canton',,,,b'Black',b'Medium',b'Brown',,b'2nd May 12',,b'China',,,,
+7461265,5,b'84',,b'William Lawson',,,,b'3 May 12',,b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,
+7461265,7,,b'014',b'Stephen Mills',,b'Loo Sing',,b'3 May 12',b'Chinese',b'Canton',,,,b'Black',b'Medium',b'Brown',,b'8th May 12',,b'China',,,b'Empire',b'Sydney'
+7461265,9,b'84',b'015',b'William Lawson',,,,b'3 May 12',b'Chinese',b'Canton',,,,b'Black',b'Medium',b'Brown',b'Scar on face below left eye',b'8 May 12',,b'China',b'Empire',,b'Eastern',b'Sydney'
+7461279,1,b'98',,b'Stephen Mills',b'NEW SOUTH WALES',b'Sam Lee',b'-',b'18 June 1912',,,,,,,,,,,,,,,b'Eastern',
+7461279,2,b'98',,b'Stephen Mills',b'NEW SOUTH WALES',b'Meek Sam',,b'18 June 1912',,,,,,,,,,,,,,,b'Eastern',
+7461279,3,b'98',,b'Stephen Mills',b'NEW SOUTH WALES',b'Loong Choong',,b'18 June 1912',,,,,,,,,,,,,,,b'Eastern',
+7461279,4,b'98',,b'Stephen Mills',b'NEW SOUTH WALES',b'Ah Hoy',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'20 June 12',,b'China',,,,
+7461279,6,b'98',,b'Stephen Mills',,b'Low Chong',,b'19 June 12',b'Chinese',b'Canton',b'52 years',,,,,,,,,b'China',,,b'Eastern',b'Sydney'
+7461306,1,,,b'Stephen Mills',b'New South Wales',,,b'22 Nov 11',b'Chinese',b'Canton',b'43 years',,,,,b'Brown',,,,b'China',b'Empire',,b'Empire',b'Sydney'
+7461504,1,b'149',,b'William Henry Barkley',b'New South Wales',,,,b'Chinese',b'Canton',b'47 years',,,,b'Medium',b'Brown',,,,b'China',,,,
+7461504,3,b'149',b'2',,b'New South Wales',,,,b'Chinese',b'Canton',,b'Dark',,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'Eastern',,b'St Albans',
+7461504,5,,b'3',b'William Henry Barkley',,,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Scar on cheek near left ear',,,b'China',b'Eastern',,,
+7461504,7,b'149',b'4',b'William Henry Barkley',,,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,b'Sydney',,,,,
+7461504,9,b'149',b'5',,,b'Ah Chee',,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,b'Sydney',b'China',,,b'Eastern',
+7461661,1,b'179',b'81',b'William Henry Barkley',b'New South Wales',b'Ling Hoy',,b'27 Jul 1915',b'Chinese',b'Canton',b'45 years',,b'5 ft 6 1/2 in in Boots',b'Dark',b'Medium',b'Brown',,b'31.7.15',b'Sydney',b'China',b'St Albans',,,b'Sydney'
+7461661,3,b'179',b'82',,,,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'St Albans',,,b'Sydney'
+7461661,5,b'179',b'83',,,,,,,b'Canton',,,,b'Dark',,,b'Scar on right eyelid',,b'Sydney',b'China',b'St Albans',,,
+7461661,7,,b'84',,,,,,,b'Canton',,,,b'Dark',b'Medium',,,,b'Sydney',b'China',b'St Albans',,b'S/S Aldenham',b'Sydney'
+7461661,9,b'179',,,,,,,,,,,,b'Dark',b'Medium',,,,,b'China',,,,
+7461661,11,,,,,,,,b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,
+7461679,1,,b'061',b'William Henry Barkley',b'New South Wales',b'Jim Fong',b'THREE YEARS',b'17 SEP 1915',b'Chinese',b'Canton',,,b'5ft 5in in Boots',b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'Eastern',,,
+7461679,3,b'181',b'062',b'William Henry Barkley',b'NEW  SOUTH WALES',,,b'17 SEP 1915',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'-',,b'Sydney',,b'Eastern',,b'SS EASTERN',b'Sydney'
+7461679,5,b'181',b'064',,b'New South Wales',,,,b'Japanese',b'Kobe Japan',b'43 years',,,b'Dark',,b'Brown',,,b'Sydney',b'Japan',b'Hitachi Maru',,,
+7461679,8,,,,,,,,b'Indian',,,b'Dark',,b'Dark',b'Medium',b'Brown',,,b'Sydney',,,,b'Montoro',
+7461679,10,b'181',b'067',b'William Henry Barkley',b'New South Wales',b'Wong ah Fong',,,,,,,,,,,,,,,,,,
+7461679,13,b'181',b'069',b'William Henry Barkley',b'New South Wales',,,,,,,,,,,,,,,,,,,
+7461679,15,b'181',b'070',b'William Henry Barkley',b'New South Wales',b'Loo Sing',,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'30/9/15',b'Sydney',,,,,
+7461757,1,b'206',b'041',,,b'Ah But',,b'9 June 1916',b'Chinese',b'Canton',b'43 Years',,,b'Dark',b'Medium',b'Brown',b'_',,b'Sydney',b'China',b'Eastern',,b'Aki Maru',b'Sydney'
+7461811,1,b'211',b'081',,,,,,b'Chinese',b'Canton',b'42 years',,,b'Dark',,b'Brown',b'-',,b'Sydney',b'China',b'Eastern',,,
+7461811,3,b'082',b'082',,,b'Low Bew',,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,b'Sydney',b'China',,,,
+7461856,1,,b'031',,b'NEW SOUTH WALES',b'Moo Jung',,,b'Chinese',b'Canton',b'67 years',,,b'Dark',,b'Brown',,b'28.9.17',b'Sydney',,,,,b'Sydney'
+7461894,1,,,,b'New South Wales',,,,,,,,,,,,,,,,,,,
+7461894,3,b'242',b'012',,,,,,,,b'56 years',,,,,,,b'28/3/18',b'Sydney',b'China',b'Aki Maru',,b'Victoria',b'Sydney'
+7461913,1,b'244',b'001',,b'New South Wales',b'Ah Gee',,b'17 June 1918',b'Chinese',b'Canton',b'58 years',,,b'Dark',b'Medium',,,b'Sydney',b'Sydney',b'China',,,,
+7461913,3,b'244',b'002',b'William Henry Barkley',,,,,b'Chinese',b'Canton',,,,,b'Medium',,,b'28.6.18',b'Sydney',b'China',b'Aki Maru',,b'St Albans',b'Sydney'
+7461913,5,b'003',b'003',b'William Henry Barkley',,,,,b'Chinese',,,,,,,,,b'28.6.18',b'Sydney',b'China',b'Aki Maru',,b'St Albans',b'Sydney'
+7461913,7,b'244',b'004',,,,,b'20 June 1918',b'Chinese',b'Canton',,,,,,,,,b'Sydney',,,,,
+7461913,9,b'244',b'005',,,,,b'20 June 1918',b'Chinese',b'Canton',,,,,,,,,,b'China',,,,b'Sydney'
+7461936,1,b'246',b'031',b'William Henry Barkley',b'New South Wales',,,,b'Chinese',b'Canton',b'41 years',,,b'Dark',,b'Brown',,b'30/11/1918',b'Sydney',b'China',b'Nikko Maru',,,b'Sydney'
+7473963,1,b'21',,b'Nicholas C Lockyer',b'New South Wales',b'Chun Low',,,b'Chinese',b'Canton',b'48 years',,,b'Dark',b'Medium',b'Brown',b'None visible',,,b'China',,,,
+7473963,3,b'21',b'06/1',,,,b'Two years',,b'Chinese',b'Canton',b'48',,,,,,,,,b'China',,,,b'Brisbane'
+7473964,1,,b'06/11',,b'New South Wales',b'Ah Youie',b'Chinese',,,b'Sydney',b'43 years',,,b'Dark',,b'Brown',,,,,,,,
+7473973,1,,b'06/101',,b'New South Wales',b'Andrew Choy',b'two years',b'14 March 1906',b'Chinese',b'Canton',b'30 years',,,b'Dark',,b'Brown',,b'March 06',,b'China',b'Japanese Line',,,
+7473973,3,,,,b'New South Wales',b'Andrew Choy',,b'14 March 1906',b'Chinese',b'Canton',,,b'5ft 4in in Boots',b'Dark',b'Medium',b'Brown',b'None visible',b'March 06',,b'China',b'Japanese Line',,b'Aldenham',
+7473973,6,,b'06/102',,b'New South Wales',b'Ah Share',b'two years',b'14 March 1906',b'Chinese',b'Canton',b'41 years',,,b'Dark',,b'Brown',,b'March 06',,b'China',,,b'Eastern',
+7473973,8,,b'06/102',,b'New South Wales',b'Ah Share',,b'14 March 1906',b'Chinese',b'Canton',,,b'5ft 5 1/2in in Boots',b'Dark',,b'Brown',,b'March 06',,b'China',,,b'Eastern',
+7473973,10,,b'06/103',,b'New South Wales',b'Ah Gow',,b'14 March 06',b'Chinese',b'Canton',b'35 years',,,b'Dark',b'Medium',b'Brown',b'None visible',,,b'China',,,b'Empire',
+7473979,1,,b'06/161',,b'New South Wales',b'Jimmy Ah Yook',,b'23 April 06',b'Chinese',b'Canton',b'46 years',,,,,,b'Scar just over left eyebrow',b'April 06',,b'China',,,,
+7473979,4,,b'06/162',,b'New South Wales',,b'Three years',b'23 April 06',b'Chinese',b'Canton',b'28 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Japanese Line',,b'Empire',b'Sydney'
+7473979,6,,,,b'New South Wales',,,,b'Chinese',,b'28 years',,,b'Dark',b'Medium',b'Brown',,b'April 06',,b'China',b'Japanese Line',,b'Empire',
+7473979,8,,b'06/163',,,,,,,,b'39 years',,,b'Dark',b'Medium',,,,,b'China',,,,
+7473980,1,,,b'John Baxter',b'New South Wales',b'Loney Won',,b'4 May 06',b'Chinese',b'Canton',,,b'Dark',b'Dark',b'Medium',b'Brown',,b'May 06',,b'China',b'Australian or Changsha',,b'Aldenham',b'Sydney'
+7473981,1,,b'06/181',,,b'Wong Kum',,b'7 May 1906',b'Chinese',b'Canton',,,,,,,,b'May 06',,b'China',b'Australian',,b'Empire',b'Sydney'
+7473981,3,,b'06/181',,b'New South Wales',b'Wong Kum',b'Three years',b'7 May 1906',b'Chinese',b'Canton',b'53 years',,,,b'Medium',b'Brown',b'None visible',b'May 06',,b'China',b'Australian',,b'Empire',b'Sydney'
+7473981,5,,b'06/182',,b'New South Wales',b'Chor Kin',b'Three years',b'7 May 06',b'Chinese',b'Canton',b'32 years',,b'5 ft 5 3/4 in in Boots ',b'Dark',b'Stout',b'Brown',b'None visible',b'May 06',,b'China',b'Australian',,b'Aldenham',b'Townsville'
+7473981,7,,b'06/182',,b'New South Wales',,,,,b'Canton',,,,,,,,b'May 06',,b'China',,,b'Aldenham',b'Townsville'
+7473981,9,,,,b'New South Wales',,,b'7 May 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'May 06',,b'China',b'Australian',,,
+7473981,11,,,,b'New South Wales',b'Charlie Young',,b'8 May 06',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'May 06',,b'China',b'Australian',,b'Eastern',b'Sydney'
+7473981,13,,,,b'New South Wales',b'Charlie Young',,,b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,b'May 06',,,b'Australian',,,b'Sydney'
+7473981,15,,b'06/185',,b'New South Wales',b'George Ah Mow',b'Three years',b'8 May 06',b'Chinese',b'Canton',b'42 years',,,b'Dark',,b'Brown',,b'May 06',,b'China',b'Australian',,,b'Sydney'
+7473981,17,,,,b'New South Wales',,,b'8 May 06',b'Chinese',b'Canton',b'42 years',,,b'Dark',,b'Brown',,b'May 06',,b'China',b'Australian',,,
+7473981,20,,,,b'New South Wales',,,b'9 May 06',,b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'May 06',,b'China',b'Australian',,,
+7473981,22,,,,b'New South Wales',,,b'14 May 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'May 06',,b'China',b'Australian',,,b'Sydney'
+7473981,24,,b'06/187',,b'New South Wales',,,b'14 May 06',b'Chinese',b'Canton',b'30 years',,,b'Dark',b'Medium',b'Brown',,b'May 06',,,b'Australian',,b'Taiyuan',b'Sydney'
+7473981,26,,b'06/188',,b'New South Wales',b'Ah Long',,b'15 May 06',b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',b'Brown',,b'May 06',,b'China',,,b'Kumano Maru',b'Sydney'
+7473986,1,b'08/301',b'08/301',b'John Baxter',b'New South Wales',b'Yee Wing',b'Six months',b'May 1908',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'May 1908',,b'Fiji',b'Suva',,,b'Sydney'
+7473986,3,,b'08/301',b'John Baxter',b'New South Wales',b'Yee Wing',,,b'Chinese',b'Canton',b'46 years',,,b'Dark',b'Medium',b'Brown',,b'May 1908',,,b'Suva',,,b'Sydney'
+7473986,5,,,,b'New South Wales',b'Ah Sam',,,,b'Canton',,,,b'Dark',,b'Brown',,b'May 1908',,b'China',b'Aldenham',,,
+7473986,7,,,,b'New South Wales',,,b'13th May 1908',b'Indian',,,b'Dark',,b'Dark',,b'Brown',,b'May 1908',,b'India',,,,b'Sydney'
+7473999,1,,b'08/431',,b'New South Wales',,,,b'Chinese',,,,,b'Dark',b'Stout',b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+7473999,3,,,b'John Baxter',b'New South Wales',b'Young Joe',,b'30 July 08',b'Chinese',,b'50 years',,,b'Dark',,b'Brown',,,,b'China',,,,b'Sydney'
+7961166,1,b'471',b'061',,,b'Rahmet Ali Khan',,,,,,,,,,,,,,,,,,b'Sydney'
+7961166,3,b'471',b'062',,,b'Munshee',,b'28 AUG. 1929',b'Indian',b'Punjaub',,b'Dark',,b'Black',b'Medium',b'Brown',,b'4 September 29',b'Sydney',b'India',b'Cathay',,b'Commissaire Ramel',b'Sydney'
+7961166,5,b'471',b'063',,b'NEW SOUTH WALES',b'Joseph Ah Joe',,,,b'Rockhampton Qld',,b'Dark',,b'Grey',b'Medium',b'Brown',b'Nil',b'14 September 1929',b'Sydney',b'China',b'Arafura',,b'Tanda',b'Sydney'
+7961166,7,b'471',b'064',,b'New South Wales',b'Ah Wing',,,b'Chinese',b'Canton',b'56 yrs',b'Dark',,b'Black',b'Medium',b'Brown',b'Nil',,b'Sydney',b'China',b'Changte',,,b'Sydney'
+7961166,9,b'471',b'065',b'William Henry Barkley',,b'Kin Lee',,,,,,,,,,,,,,,,,,b'Sydney'
+7961166,11,b'471',b'066',,,b'Wong Dow',,,,,,,,,,,,,,,,,,b'Sydney'
+7961166,13,b'471',b'067',,,,,,b'Chinese',b'Canton',,,,,,,,b'14 September 1929',b'Sydney',b'China',,,b'Taiping',b'Sydney'
+7961166,15,,b'068',,,,,,b'Chinese',,,,,,,,,b'14 September 1929',,b'China',,,,
+7961166,17,b'471',b'069',b'William Henry Barkley',,,,,b'Chinese',b'Canton',,,,,,,,,,b'China',b'Changte',,,b'Sydney'
+7961166,19,b'471',b'070',b'William Henry Barkley',b'New South Wales',b'Ah Lee',,,b'Chinese',b'Canton',,b'Dark',,,,,,b'14 September 1929',b'Sydney',b'China',,,b'Taiping',b'Sydney'
+7961181,1,,b'011',,,,,,,b'Canton',,,,,,,,,b'Sydney',b'China',,,,b'Sydney'
+7961181,3,b'473',b'012',b'WILLIAM HENRY BARKLEY',,,,,b'Chinese',b'Canton',,b'Dark',,b'Grey',b'Medium',b'Brown',,,b'Sydney',b'China',,,,
+7961181,5,b'473',b'013',,,b'Osna Eve',,,b'Indian',,b'51 yrs',b'Dark',,b'Black',,b'Brown',,,b'Sydney',b'India',,,,
+7961181,7,b'473',b'014',,,,,,b'Indian',,b'60 yrs',b'Dark',,b'Black',,b'Brown',,,b'Sydney',b'China',,,,b'Sydney'
+7961181,9,b'473',b'015',,,b'Ranja',,,b'Indian',,,,,,,,,,,,,,,b'Sydney'
+7961181,10,b'473',b'016',,,,b'THREE YEARS',,,,,,,,,,,,,,,,,b'Sydney'
+7961207,1,b'476',b'071',,,,,,,,,b'Dark',,,b'Medium',b'Brown',,,b'Sydney',b'China',,,,b'Sydney'
+7961258,1,b'486',b'081',,,,,,,,,,,,,,,,b'Sydney',b'China',,,,
+7961258,3,b'486',b'082',,,,,,,,,,,,,,,,b'Sydney',b'China',,,,
+7961258,5,b'486',b'083',,,,,,,b'Tamworth NSW',,b'Dark',,b'Black',b'Medium',b'Brown',,,b'Sydney',b'China',,,,b'Sydney'
+7961258,7,b'486',b'084',,,b'Louie Kin Hop',,,b'Chinese',b'Canton',b'46 yrs',,,,,,,b'Sydney',b'Sydney',b'China',,,,
+7961258,9,b'486',b'085',,b'Woy Boy',b'Woy Boy',,,b'Chinese',b'Canton',,,,,,,,,b'Sydney',,,,,
+7961258,11,b'486',b'086',,,,,,b'Canton',b'Canton',,b'Dark',,,b'Medium',b'Brown',,,b'Sydney',,,,,
+7961258,13,b'486',b'087',,,,,,b'Chinese',b'Canton',,b'Dark',,b'Grey',b'Medium',b'Brown',b'Crooked third finger on right hand',,b'Sydney',b'China',,,,b'Sydney'
+7961437,3,b'528',b'72',b'George Finlay Ashton Mitchell',b'New South Wales',,,,b'Indian',b'Punjab',,,,,,,,b'19.1.1927',b'Sydney',b'India',,,,b'Sydney'
+7961437,5,b'528',b'73',b'George Finlay Ashton Mitchell',b'New South Wales',,,b'26th Nov 1935',b'Indian',b'Punjab',,,,,,,,b'19.2.1930',b'Sydney',b'India',,,,b'Sydney'
+7961437,7,b'528',b'74',b'George Finlay Ashton Mitchell',b'New South Wales',b'Sam Fay',,b'26th Nov 1935',b'Chinese',b'Canton',,,,,,,,b'10.3.1928',b'Sydney',b'China',b'Arafura',,,b'Sydney'
+7961450,3,b'530',b'2',,,,,,b'Chinese',,b'58 years',,,,,,,b'4.3.36',,,,,,
+7961450,5,,b'3',,,b'Louie Koo or Loo',,,,,b'56 years',,,,,,b'Scars left side back of head',,,,,,,
+7961450,7,,,,,,,,,,b'19 years',,,,,,,,b'Sydney',,,,,b'Sydney'
+7961450,9,b'530',,,,,,,,,,,,,,,,,,,,,,
+7961450,11,,b'6',,,b'Yet Choo',,,b'Chinese',,b'55 years',,,,,,b'Scar right side of forehead',b'Sydney',b'China',b'China',b'Nellore',,b'Tanda',b'Sydney'
+7961450,13,,b'7',b'GEORGE FINLAY ASHTON MITCHELL',,,,,b'Chinese',b'Canton',b'65 years',b'Dark',,,b'Medium',,b'Small mole front left ear',,,b'China',,,,
+7961450,15,b'530',b'8',,,,b'THREE YEARS',,b'Chinese',b'Mudgee NSW',b'32 years',,,b'Black',b'Medium',b'Brown',b'Two small moles left side of face',,b'Sydney',b'China',,,b'Nankin',b'Sydney'
+7961450,17,b'530',b'9',,,b'George Coon',,,b'Chinese',b'Canton',b'50 years',b'Dark',,b'Black',b'Medium',b'Brown',,,b'Sydney',b'China',,,,b'Sydney'
+7961450,19,b'530',b'10',,,b'But Tiy',b'THREE YEARS',,b'Chinese',b'Canton',,,,,,,,,b'Sydney',b'China',b'Tanda',,b'Tanda',b'Sydney'
+7961493,1,b'540',,,,b'York King',,,b'Chinese',b'Canton',,,,,,,,b'15.2.1936',b'Sydney',b'China',b'Tanda',,,
+7961501,1,b'541',b'11',,,,,,b'Chinese',b'Canton',,,,,,,,,b'Sydney',b'China',b'Arafura',,,b'Sydney'
+7961501,3,b'541',b'12',b'Arthur Henry Wilson',,,,,b'Indian',,,,,,,,,,b'Sydney',b'India',,,,b'Sydney'
+7961501,5,b'541',b'12',b'Arthur Henry Wilson',,,,b'30.4.1937',b'Indian',b'Punjaub',,,,,,,,b'22.8.1929',b'Sydney',b'India',,,,b'Sydney'
+7961555,1,b'549',b'51',,,,,b'6-2-39',b'Indian',b'Punjab',,,,,,,,b'21-11-29',b'India',b'India',b'Nieuw Holland',,,
+7961555,3,,b'52',,,,,,,b'Canton',b'60 years',,,,,,,,,,,,,
+7961555,5,b'549',,,,b'Mew Toy',,,b'Chinese',b'Canton',b'58 years',b'Dark',b'Black',b'Black',,b'Brown',,,,b'China',,,b'Taiping',b'Sydney'
+7961586,1,b'557',,b'George Finlay Ashton Mitchell',b'New South Wales',,,b'11/3/40',b'Chinese',b'Canton',,b'Dark',,,b'Medium',b'Brown',b'Mole left side nose',b'14/3/40',b'Sydney',b'China',,,b'Nankin',b'Sydney'
+7961586,3,b'557',b'062',,,,,b'12/3/1940',b'Chinese',b'Canton',b'69 years',b'Dark',,b'Black',,,,,b'Sydney',b'China',,,,
+7961586,5,b'557',b'063',b'GEORGE FINLAY ASHTON MITCHELL',b'NEW SOUTH WALES',b'Chong Loong',b'THREE YEARS',b'12/3/1940',b'Chinese',b'Canton',,b'Dark',,b'Grey',b'Medium',b'Brown',,b'14/3/40',b'Sydney',b'China',,,,
+7961603,3,b'559',b'032',,,,,,b'Chinese',b'Canton',,,,,,,,,,b'China',b'Eastern',,b'Tanda',b'Sydney'
+7961615,1,b'563',b'051',b'George Finlay Ashton Mitchell',,b'Chun How or Charlie How',,,b'Chinese',b'Canton',,b'Dark',b'5ft 3inches (boots)',b'Black',b'Stout',b'Brown',b'Scar left temple',,b'Sydney',b'China',b'Taiping',,,b'Sydney'
+7961615,3,,b'052',b'George Finlay Ashton Mitchell',,,,,b'Indian',,,,,,,,,b'31.3.1938',b'Sydney',b'India',b'Narkunda',,,
+7961615,5,b'563',b'053',b'George Finlay Ashton Mitchell',,b'Ah Bow',,,b'Chinese',b'Canton',b'60 years',b'Dark',,b'Black (Bald)',b'Medium',b'Brown',,b'4.6.1941',,b'China',b'Taiping',,b'Taiping',
+7961615,7,b'563',b'054',b'George Finlay Ashton Mitchell',,,,,b'Chinese',b'Canton',,,,,,,,b'16/1/40',b'Sydney',b'China',,,,b'Sydney'
+7961615,9,,,b'George Finlay Ashton Mitchell',,b'Yook or Yock Loy',,,b'Chinese',b'Canton',,b'Dark',,b'Grey',b'Medium',b'Brown',b'Small scar on forehead above left eyebrow',,b'Sydney',b'China',b'Taiping',,,
+7961627,1,b'564',b'071',b'GEORGE FINLAY ASHTON MITCHELL',b'NEW SOUTH WALES',b'Suearah or Souearia',b'THREE YEARS',b'14/1/42',b'Indian',b'Punjab',,,,,,,,b'15/5/1935',b'Sydney',b'India',b'Mongolia',,,
+7961627,2,b'564',b'071',b'GEORGE FINLAY ASHTON MITCHELL',b'New South Wales',b'Swarah or Sowaria',b'THREE YEARS',b'14/1/42',b'Indian',b'Punjab',,,,,,,,b'15/5/1935',b'Sydney',b'India',b'Mongolia',,,
+7961627,3,b'564',b'4853',,,b'Peter Noor Bux',,b'4.12.42',b'Indian',b'Punjaub',,,,,,,,,b'Sydney',b'India',,,,
+7961627,4,b'564',b'074',,,,,,,b'Punjab India',,,,,,,,,b'Sydney',,,,,
+7961627,5,b'564',b'075',,,b'Saif Ali',,b'14.6.1943',b'Indian',b'Punjab India',,,,,,,,,,,,,,
+7961627,6,b'564',b'076',,,,,b'9/9/43',b'Indian',b'Punjab',,,,,,,,,b'Sydney',b'India',,,,
+7961627,7,b'564',b'077',,,b'Ghulam Mohammed',,b'28th September',b'Indian',,,,,,,,,b'19/3/1938',b'Sydney',b'India',,,,
+7961627,8,b'564',b'078',b'Frank Terry',,b'Mocktar Ali',b'12 months',,b'Indian',,,,,,,,,b'8th September 1934',b'Sydney',b'India',,,,
+10950205,1,,b'07/322',b'John Baxter',,b'Leslie Ah Chow',,,b'Chinese',b'Sydney',,,,b'Dark',,,,,,,,,,
+10950205,3,,,b'John Baxter',,,,,b'Chinese',b'Sydney',,,,b'Dark',,b'Brown',,,,,,,,
+10950205,4,,,b'John Baxter',,b'Ah Sang',b'Three years',,b'Chinese',,b'39 years',,,b'Dark',,b'Brown',,,,,b'Nikko Maru',,,
+10950205,6,,,b'John Baxter',,,b'Three years',,b'Chinese',,,,,b'Dark',,b'Brown',,b'June 07',,b'China',b'Nikko Maru',,b'Aldenham',b'Sydney'
+10983898,1,,b'471',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Empire',b'Sydney'
+10983898,3,,b'471',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 07',,,,,b'Empire',b'Sydney'
+10983898,5,,,b'John Baxter',,,,,b'Chinese',b'Canton',,,,,b'Medium',b'Brown',,,,b'China',,,,
+10983898,7,,,b'John Baxter',b'New South Wales',b'Ah Sam',,,b'Chinese',b'Canton',b'45 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+10983898,9,,b'473',,b'New South Wales',,,b'4 Nov 07',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 07',,b'China',b'Changsha',,b'Eastern',b'Sydney'
+10983898,11,,,b'John Baxter',b'New South Wales',b'Mow Chong',,b'4 Nov 07',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 07',,b'China',,,b'Empire',b'Sydney'
+11002057,1,,,b'John Baxter',b'New South Wales',b'Willie Wong Sin',,,b'Chinese',b'Canton',b'28 years',,,b'Dark',b'Medium',,,b'March 08',,b'China',b'Empire',,b'Eastern',
+11002057,4,,b'08/151',b'John Baxter',b'New South Wales',,,b'2 March 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'-',b'March 08',,b'China',,,b'Eastern',
+11002057,6,,,b'John Baxter',b'New South Wales',b'Wong Key Leung',,b'2 March 08',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'March 08',,b'China',b'Empire',,b'Empire',
+11002057,10,,b'08/152',b'John Baxter',b'New South Wales',b'Wong Key Leung',,b'2 March 08',b'Chinese',b'Canton',,,b'5ft 8in in Boots',b'Dark',b'Medium',b'Brown',b'Mark like pock mark over right eye',b'March 08',,b'China',b'Empire',,,
+11002057,12,,,b'John Baxter',b'New South Wales',,,b'2 March 08',b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,b'March 08',,b'China',b'Empire',,b'Eastern',
+11002057,14,,b'08/154',b'John Baxter',b'New South Wales',b'William Parera',,b'2 March 08',,b'Colombo',,,b'5ft 5 1/2in in Boots',b'Dark',b'Medium',b'Brown',b'Face slightly pockmarked',b'March 08',,b'Colombo',,,,
+11002057,16,b'21',,b'John Baxter',,,,b'2 March 08',,b'Colombo',b'30 years',b'Dark',b'5ft 5 1/2in in Boots',b'Dark',b'Medium',b'Brown',b'Face slightly pockmarked',b'March 08',,b'Colombo',,,,
+11002057,18,,,b'John Baxter',b'New South Wales',b'Wong Chow',,b'2 March 08',b'Chinese',b'Canton',,,b'5ft 7in in Boots',b'Dark',b'Medium',b'Brown',,b'March 08',,b'China',,,,
+11002057,20,,,b'John Baxter',b'New South Wales',,,b'2 March 08',b'Chinese',,b'38 years',,,b'Dark',,,b'Large scars near left temple',b'March 08',,,b'Empire',,b'Eastern',
+11002057,24,b'21',,b'John Baxter',b'New South Wales',,,b'2 March 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',,,,,b'China',b'Empire',,b'Eastern',
+11002057,26,,b'08/157',b'John Baxter',b'New South Wales',,,b'2 March 08',b'Chinese',b'Canton',,,b'5ft 5in in Boots',b'Dark',b'Medium',b'Brown',,b'March 08',,b'China',,,b'Eastern',
+11002057,28,,b'08/157',b'John Baxter',b'New South Wales',,,b'2 March 08',b'Chinese',b'Canton',,,b'5ft 5in in Boots',b'Dark',b'Medium',b'Brown',b'Scar in front of right ear',b'March 08',,b'China',,,,
+11002057,30,,b'08/158',b'John Baxter',b'New South Wales',b'Ah Nin',,b'2 March 08',b'Chinese',b'Canton',,,b'5ft 5in in Boots',b'Dark',b'Medium',b'Brown',b'Mole over right eyebrow',b'March 08',,b'China',b'Empire',,,
+11002057,32,,b'08/158',b'John Baxter',b'New South Wales',b'Ah Nin',,b'2 March 08',b'Chinese',b'Canton',b'35 Years',,,b'Dark',,,b'Mole over right eyebrow',b'March 08',,b'China',b'Empire',,,
+11002057,34,b'21',b'08/159',b'John Baxter',b'New South Wales',,,b'2 March 08',,,,,,,b'Medium',,,b'March 08',,b'China',b'Eastern',,,
+11002057,36,,,b'John Baxter',b'New South Wales',b'Yee Hook',,b'2 March 08',b'Chinese',b'Canton',b'32 years',,,,b'Medium',,,b'March 08',,,,,b'Eastern',
+11002057,38,b'21',,b'John Baxter',b'New South Wales',,,b'March 08',b'Chinese',,,,,,,,,b'March 08',,,,,,
+11002058,1,,b'08/221',b'John Baxter',b'New South Wales',b'Thomas Henry Lee',,b'4 April 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'-',b'April 08',b'Sydney',b'China',b'Eastern',,b'Changsha',b'Sydney'
+11002058,3,b'21',b'08/221',b'John Baxter',b'New South Wales',b'Thomas Henry Lee',,b'4 April 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'-',b'April 08',,b'China',b'Eastern',,b'Changsha',b'Sydney'
+11002058,7,,,,b'New South Wales',,,b'4 April 08',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,,b'China',b'Eastern',,,b'Sydney'
+11002058,9,,b'08/222',,b'New South Wales',,,,,b'Canton',,,,b'Dark',,b'Brown',,,,b'China',b'Eastern',,,b'Sydney'
+11017340,1,,,,b'New South Wales',b'Choy Hong',,b'5 June 06',b'Chinese',,,,,b'Dark',b'Medium',b'Brown',b'None visible',b'June 06',,b'China',b'Empire',,b'Empire',b'Sydney'
+11017340,3,,,b'Nicholas C Lockyer',b'New South Wales',b'Choy Hong',,b'5 June 06',b'Chinese',b'Canton',b'36 years',,,b'Dark',,b'Brown',b'None visible',b'June 06',,b'China',b'Empire',,b'Empire',b'Sydney'
+11017340,5,,,,b'New South Wales',b'George Sung',,,,b'Canton',b'36 years',,,b'Dark',b'Medium',b'Brown',,b'June 06',,b'China',,,b'Empire',b'Sydney'
+11017341,1,,b'06/231',,b'New South Wales',,b'Three years',b'16 June 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Scars each side of mouth',b'June 06',,b'China',b'Yawata Maru',,b'Aldenham',b'Sydney'
+11017341,3,,b'06/232',,b'New South Wales',b'Mock Hing',,,b'Chinese',,b'44 years',,,,b'Medium',b'Brown',,b'June 06',,b'China',,,,
+11017342,1,,,,b'New South Wales',b'Sadie Howley',,b'2 July 06',,b'Sydney',b'6 years',,,b'Dark',,b'Brown',,b'July 06',,b'Syria',,,,
+11017345,1,,b'06/271',,b'New South Wales',b'Gustav C Petersen',,,,b'New Hebrides',,b'Dark',,b'Dark',b'Medium',b'Brown',,,,,,,,
+11017345,3,,b'06/271',,,,,,,,,b'Dark',,b'Dark',,b'Brown',,,,,,,,
+11017345,4,,b'06/272',,,,,,b'Chinese',b'Canton',,,,,b'Medium',,,,,,,,,
+11017345,6,,b'06/272',,b'New South Wales',,,,,,,,,,b'Medium',,,,,,,,,
+11017345,8,,b'06/273',,b'New South Wales',,,,,b'Canton',,,b'5ft 5 1/4in in Boots',b'Dark',b'Medium',,b'Peculiar right eye',,,b'China',,,,
+11017345,10,,b'06/273',,,b'Fong Lum',,,,,,,,,,b'Brown',b'Peculiar right eye',,,,,,,
+11017345,12,,b'06/274',,,b'Charlie Moo',,,,,,,,,,,,,,,,,,
+11017345,18,,,,,b'Sam Lee',,,,,b'35 years',,,,,,,b'Sept 06',,,,,,
+11017345,20,,,,b'New South Wales',,,,b'Chinese',,b'50 years',,b'5ft 5in in Boots',,,,,,,,,,,
+11017351,1,,,b'Nicholas C Lockyer',b'New South Wales',b'Ah Hop',,b'26 Nov 06',b'Chinese',,,,,,b'Medium',,,b'Nov 06',,b'China',,,b'Eastern',b'Sydney'
+11017351,3,,b'06/381',,b'New South Wales',b'Ah Hop',,b'26 Nov 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',,,b'Eastern',b'Sydney'
+11017351,5,,b'06/382',,b'New South Wales',b'Willie Lee',,b'26 Nov 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Chingtu',,b'Prinz Sigismund',b'Sydney'
+11017356,1,,,,b'New South Wales',,,,,b'Canton',,,,b'Dark',,,,b'Dec 06',,b'China',,,b'Eastern',b'Sydney'
+11017356,3,,,,b'New South Wales',,,b'19 Dec 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Very large scar near left temple',b'Dec 06',,b'China',,,b'Eastern',b'Sydney'
+11017356,5,,,,b'New South Wales',,,,,,,,,,,,,,,,,,,
+11017359,1,,b'07/11',b'John Baxter',b'New South Wales',b'Young Foo',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern',,b'Eastern',b'Sydney'
+11017359,3,b'07/11',,b'John Baxter',b'New South Wales',b'Young Foo',,,b'Chinese',b'Canton',b'34 years',,,b'Dark',,,,,,b'China',b'Eastern',,b'Eastern',b'Sydney'
+11017359,5,b'07/12',b'07/12',b'John Baxter',b'New South Wales',b'George Ack Lee',,,b'Chinese',b'Canton',b'36 years',,,b'Dark',,b'Brown',,b'Jany 07',,b'China',,,b'Eastern',
+11017359,7,,,b'John Baxter',b'New South Wales',b'George Ack Lee',,b'7th January 07',b'Chinese',b'Canton',b'36 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+11017359,9,,b'07/13',,b'New South Wales',,,,b'Chinese',b'Canton',b'32 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern',,b'Eastern',
+11017359,11,,,,b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,,,,b'China',,,b'Eastern',
+11017359,13,,b'07/14',,b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,,,,b'China',,,b'Empire',
+11017359,15,,b'07/14',,b'New South Wales',b'Hong Young',b'Three years',,b'Chinese',,,,,,,,,,,b'China',,,b'Empire',
+11017359,17,,,,b'New South Wales',b'Mow Sing',,,b'Chinese',,b'25 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern',,b'Empire',
+11017362,1,,b'07/101',b'John Baxter',b'New South Wales',b'Tiy Bow',,,b'Chinese',b'Canton',b'38 years',,,,,,b'-',,,b'China',,,b'Eastern',b'Sydney'
+11017362,3,,b'07/101',,b'New South Wales',b'Tiy Bow',b'Three years',b'15 Feby 07',b'Chinese',b'Canton',b'38 years',,,b'Dark',,b'Brown',,b'Feby 07',,b'China',,,b'Eastern',b'Sydney'
+11017362,5,,b'07/102',,b'New South Wales',b'Yet Chong',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,b'Sydney'
+11017366,1,,b'07/141',b'John Baxter',,,,b'4 March 07',b'Chinese',b'Canton',,,,b'Dark',,,,b'March 07',,b'China',b'Empire',,b'Empire',b'Sydney'
+11017366,3,,,b'John Baxter',b'New South Wales',,,b'4 March 07',b'Chinese',b'Canton',,,,,,,,b'March 07',,b'China',b'Empire',,b'Empire',
+11017366,5,,b'07/142',b'John Baxter',b'NEW SOUTH WALES',,,,b'Chinese',,b'33 years',,,,,,,b'March 07',,b'China',b'Empire',,b'Eastern',
+11017366,7,,,b'John Baxter',,,,b'4 March 07',b'Chinese',b'Canton',b'33 years',,,b'Dark',,b'Brown',b'Mole in hair near left ear',b'March 07',,b'China',b'Empire',,b'Eastern',
+11017366,11,,b'07/14',b'John Baxter',b'New South Wales',b'Charlie Sue Son',,b'4 March 07',b'Chinese',b'Canton',b'45 years',,,b'Dark',b'Medium',,,b'March 07',,b'China',b'Empire',,b'Aldenham',
+11017366,13,,,b'John Baxter',,,,,b'Chinese',b'Canton',,,,b'Dark',,,,,,,,,,
+11017366,15,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'38 years',,,b'Dark',,,,,,,b'Empire',,,b'Sydney'
+11045217,1,,b'07/341',b'John Baxter',b'NEW SOUTH WALES',b'Gock Chin',b'Three years',b'9 July 07',b'Chinese',b'Canton',b'32 years',b'5ft 7 in in Boots',,b'Dark',,b'Brown',,b'July 07',,b'China',b'Eastern',,,
+11045217,3,,,b'John Baxter',,,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',,,,,b'China',b'Eastern',,b'Empire',b'Sydney'
+11045217,5,,,b'John Baxter',,,,,b'Chinese',b'Canton',,,,,,,,,,b'China',b'Eastern',,b'Empire',b'Sydney'
+11045217,11,,b'343',b'John Baxter',,b'James Hoon',,b'15 July 07',b'Chinese',b'Canton',b'45 years',,,,,,,b'July 07',,b'China',b'Kumano Maru',,b'Empire',b'Sydney'
+11045217,15,,b'21',,,b'Wong Kee',,,b'Chinese',b'Canton',b'43 years',,,,b'Medium',b'Brown',,,,b'China',,,b'Eastern',b'Brisbane'
+11045217,17,,,,,b'Wong Kee',b'Three years',,b'Chinese',b'Canton',b'43 years',,,b'Dark',b'Medium',b'Brown',,b'July 07',,b'China',,,b'Eastern',b'Brisbane'
+11045217,20,,,,,b'Ah Tack',,b'15 July 07',b'Chinese',b'Canton',b'41 years',,,b'Dark',b'Medium',b'Brown',,b'July 07',,b'China',,,b'Eastern',b'Sydney'
+11045217,22,b'21',,b'John Baxter',,b'Ah Tack',,,b'Chinese',b'Canton',b'41 years',,,,,b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+11045217,24,,,,,,,,b'Chinese',b'Canton',b'45 years',,,,b'Medium',b'Brown',,,,b'China',,,,
+11045219,1,,b'08/41',,b'New South Wales',b'Paul Wong',,b'24 Jany 08',b'Chinese',b'Canton',,,b'5ft 5in in Boots',b'Dark',b'Medium',,b'Scar left side under lower lip',b'Feby 08',,b'Fiji',b'Atua',,,b'Sydney'
+11045219,3,,b'08/42',,,,,b'24 Jany 08',b'Chinese',b'Canton',,,b'5ft 8in in Boots',b'Dark',b'Medium',b'Brown',,b'Feby 08',,b'Fiji',b'Atua',,,b'Sydney'
+11045219,5,,b'08/42',,b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,,,,,,,,b'Sydney'
+11045219,9,,b'08/43',,,,,,b'Chinese',b'Canton',,,,b'Dark',,,,,,b'China',,,b'Eastern',b'Sydney'
+11045219,11,,,,b'New South Wales',b'Kong Sing',,,b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,b'January 08',,b'China',,,b'Eastern',b'Sydney'
+11045219,13,,b'08/44',b'John Baxter',b'New South Wales',,,b'24 Jany 08',b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+11076228,1,,,b'John Baxter',b'New South Wales',b'Ho Hi',,b'Chinese',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'Eastern',,b'Eastern',b'Sydney'
+11076228,3,,,,,b'Ho Hi',,,b'Chinese',,,,,,,,,,,,,,b'Eastern',b'Sydney'
+11076228,5,,b'07/452',,b'New South Wales',b'Ack Foon',,,b'Chinese',,,,,b'Dark',,b'Brown',b'-',b'Oct 07',,b'China',b'Aldenham',,,b'Sydney'
+11099075,2,,,,b'New South Wales',,,b'2 April 08',b'Chinese',b'Canton',,,,b'Dark',,,,b'April 08',b'Sydney',b'China',b'Eastern',,b'Aldenham',b'Sydney'
+11099075,6,,,,b'New South Wales',,,b'2 April 08',b'Chinese',b'Canton',,,,b'Dark',b'Thin',b'Brown',,b'April 08',,b'China',b'Eastern',,,
+11512779,1,,,b'John Baxter',,,,,b'Chinese',b'Canton',,,,,b'Medium',,b'-',,,b'China',,,b'Eastern',b'Sydney'
+11512779,3,,,b'John Baxter',,,b'Three years',,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Empire',b'Sydney'
+11512779,5,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'33 years',,,b'Dark',,b'Brown',,b'April 07',,b'China',,,b'Empire',b'Sydney'
+11512779,7,,b'07/243',b'John Baxter',b'New South Wales',b'George Han',b'Three years',b'18 April 07',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small scar on point of nose',b'Apl 07',,b'China',,,b'Eastern',b'Sydney'
+11512779,9,,,b'John Baxter',b'New South Wales',b'George Han',b'Three years',,b'Chinese',b'Canton',b'42 years',,,b'Dark',,,,,,,,,b'Eastern',b'Sydney'
+11512779,11,,b'07/244',b'John Baxter',b'New South Wales',b'Lee Mew',,b'19 April 07',b'Chinese',,b'40 years',,,b'Dark',b'Medium',b'Brown',,b'April 07',,,,,,b'Sydney'
+11512779,13,,b'07/244',b'John Baxter',b'New South Wales',b'Lee Mew',,,b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',,,,,b'China',,,,b'Sydney'
+11512779,15,,,b'John Baxter',b'New South Wales',b'Pang Lock',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Large scar above left ear',,,,,,b'Empire',b'Sydney'
+11512779,17,,,b'John Baxter',b'New South Wales',b'Pang Lock',,,b'Chinese',b'Canton',b'38 years',,,b'Dark',,b'Brown',,b'April 07',,b'China',,,b'Empire',b'Sydney'
+11512779,19,,b'07/246',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+11513099,1,,b'07/161',,,,,,,,,,,,,,,b'March 07',,,b'Taryuan',,,
+11513099,3,,b'07/161',b'John Baxter',b'New South Wales',b'Duck Tooy',,b'15 March 07',b'Chinese',b'Canton',,,b'5ft 7in in Boots',b'Dark',b'Medium',b'Brown',,b'March 07',,b'China',,,b'Empire',b'Sydney'
+11513099,5,,b'07/162',b'John Baxter',b'New South Wales',b'Yee Jong',,b'16 March 07',b'Chinese',b'Canton',,,b'5ft 7in in Boots',b'Dark',b'Medium',b'Brown',,b'March 07',,b'China',,,b'Empire',b'Sydney'
+11513099,7,,b'07/162',b'John Baxter',b'New South Wales',,,b'16 March 07',,b'Canton',,,,b'Dark',,b'Brown',,b'March 07',,b'China',,,b'Empire',b'Sydney'
+11513099,9,,,b'John Baxter',b'New South Wales',b'Jimmy Way',b'Three years',b'18 March 07',b'Chinese',b'Canton',b'36 years',,,b'Dark',b'Medium',,,b'March 07',,b'China',,,b'Eastern',b'Sydney'
+11614207,1,,,b'John Baxter',b'New South Wales',b'Choy Poon',b'Three (3) years',,b'Chinese',b'Canton',b'40 years',,b'5ft 3 1/4 in Boots',b'Black',b'Stout',b'Brown',"b'Flat nose, slight scar nose over right nostril'",b'16 May 09',,b'China',b'Aldenham',,,
+11614207,3,,b'07/272',b'John Baxter',b'New South Wales',b'George Wing Ah Sing',b'Two years',b'15th May 07',b'Chinese',b'Canton',b'33 years',,,b'Dark',b'Slight',b'Brown',b'Scar on right and left cheek in a line with mouth',b'16 May 09',,b'China',b'Aldenham',,,
+11614207,5,,b'07/273',b'John Baxter',b'New South Wales',,,b'15 May 07',b'Chinese',b'Canton',b'49 years',,,b'Dark',b'Stout',b'Brown',b'Large scar under left eye ',,,b'China',b'Aldenham',,b'SS St Albans',b'of Sydney'
+11614207,7,,b'07/274',b'John Baxter',b'New South Wales',,,b'16th May 09',b'Chinese',,b'48 Years',,,b'Black',b'Medium',b'Brown',,,,b'China',b'Changsha',,b'Empire',b'Sydney'
+11614207,9,,b'07/274',b'John Baxter',b'New South Wales',b'Ah Kwong',,b'16 May 07',b'Chinese',b'Canton',b'48 Years',,,b'Black',b'Medium',b'Brown',b'faint scar middle of forehead',,,b'China',b'Changsha',,b'Empire',b'Sydney'
+11614207,11,,b'07/275',b'John Baxter',b'New South Wales',,,,b'Chinese',,b'38 Years',,,b'Black',b'Slight',b'Brown',,,,b'China',b'Eastern',,b'Empire',b'Sydney'
+11614207,13,,b'07/275',b'John Baxter',b'New South Wales',,,,,,,,,,b'Slight',b'Brown',,,,b'China',b'Eastern',,b'Empire',b'Sydney'
+11614207,15,,,,b'New South Wales',b'Ah Chong',,,,,,,,,,,,,,,,,,
+11998113,1,,b'21',,,,,,,,,,,,,,,,,,,,,
+12027177,1,,b'07/291',b'John Baxter',,b'Wah Gee',b'Three years',b'1st June 07',b'Chinese',b'Canton',b'39 years',,,b'Dark',,b'Brown',,b'June 07',,b'China',b'Empire',,b'Nikko Maru',b'Sydney'
+12035841,1,,b'08/51',b'John Baxter',b'New South Wales',b'Fong Lee',b'three years',b'28 Jany 08',b'Chinese',b'Canton',b'38 years',,,b'Dark',b'Medium',b'Brown',,b'Jany 08',,b'China',b'Yawata Maru',,b'Empire',b'Sydney'
+12035841,3,,,,b'New South Wales',b'Fong Lee',b'Three years',b'28 Jany 08',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Jany 08',,b'China',b'Empire',,,
+12035843,1,,b'08/111',,,,,,,,,,,,b'Medium',b'Brown',,,,b'China',,,,
+12089430,1,b'21.',b'08/261',b'John Baxter',b'New South Wales',b'Ah Tong',b'Three years',b'1 May 08',b'Chinese',b'41 years',,,b'5ft 4 1/2 in in Boots',b'Dark',b'Medium',b'Brown',b'Small scar on Throat',b'May 08',,b'China',b'Aldenham',,b'Eastern',b'Sydney'
+12089430,5,,b'08/261',b'John Baxter',b'New South Wales',b'Ah Tong',b'Three Years',b'1st May 08',b'Chinese',b'Canton',b'41 years',,b'5ft 4 1/2 in in Boots',b'Dark',b'Medium',b'Brown',b'Small scar on throat',b'May 08',,b'China',b'Aldenham',,b'Eastern',b'Sydney'
+12089430,7,b'21',b'08/262',b'John Baxter',b'New South Wales',b'Charlie Jung',b'Three years',b'Chinese',b'Chinese',b'Canton',b'30 years',,b'5ft 6 3/4 in in Boots',b'Dark',b'Medium',b'Brown',b'Small scar under left eye',b'May 08',,b'China',b'Aldenham',,b'Empire',b'Sydney'
+12089430,11,b'21',b'08/262',b'John Baxter',b'New South Wales',b'Charlie Jung',b'Three years',b'1st May 08',b'Chinese',b'Canton',b'30 Years',,b'5ft 6 3/4 in in Boots',b'Dark',b'Medium',b'Brown',b'Small scar under left eye ',b'May 08',,b'China',b'Aldenham',,b'Empire',b'Sydney'
+12089430,13,,b'08/263',b'John Baxter',b'New South Wales',b'Lap Dick',b'Three years',b'1 May 08',b'Chinese',b'Canton',b'32 years',,,b'Dark',b'Medium',b'Brown',,b'May 08',,b'China',b'Aldenham',,b'SS Aldenham ',b'Brisbane'
+12089430,17,b'21',b'263',b'John Baxter',b'New South Wales',b'Lap Dick',,b'1 May 08',,b'Canton',b'32 Years',,b'5ft 6 in in Boots',b'Dark',b'Medium',b'Brown',,b'May 08',,b'China',,,b'Aldenham',b'Brisbane'
+12089430,19,b'08/264',b'08/264',b'John Baxter',b'New South Wales',b'Tommy Hop Lee',,b'Chinese',b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',b'Brown',,b'May 08',,b'China',b'Aldenham',,b'St Albans',b'Sydney'
+12089430,21,,b'08/265',b'John Baxter',b'New South Wales',b'Mun Hung',b'Three years',b'Chinese',b'Chinese',b'Canton',b'30 years',,b'5ft 4 1/2 in in Boots',b'Dark',b'Medium',b'Brown',,b'May 08',,b'China',b'Aldenham',,b'Empire',b'Sydney'
+12089430,25,,b'08/265',b'John Baxter',b'New South Wales',b'Mun Hung',b'Three years',b'1 May 08',b'Chinese',b'Canton',b'30 years',,b'5ft 4 1/2 in in Boots',b'Dark',b'Medium',b'Brown',"b'Cut scar centre of forehead, scar large above right temple'",b'May 08',,b'China ',b'Aldenham ',,b'Empire ',b'Sydney '
+12089430,27,b'08/266',b'08/266',b'John Baxter',b'New South Wales',,b'Three years',b'4 May 08',b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Stout',,,,,,,,b'Aldenham ',b'Sydney'
+12089430,29,b'21',b'08/267',b'John Baxter',b'New South Wales',,b'Three years',b'4 May 08',b'Chinese',b'Canton',,,b'5ft 8in in Boots',b'Dark',b'Medium',b'Brown',,b'May 08',,b'China ',b'Aldenham ',,b'Prinz Sigismund ',b'Sydney '
+12089430,32,,b'08/267',b'John Baxter',b'New South Wales',b'Jimmy King',b'Three years',b'4 May 08',b'Chinese',b'Canton',b'32 years',,b'5ft 8in in Boots',b'Dark',b'Medium',b'Brown',,b'May 08',,b'China',b'Aldenham',,b'Prinz Sigismund ',b'Sydney '
+12089430,34,b'21',b'268',,b'New South Wales',b'Fong Hen',,b'5 May 08',b'Chinese',b'Canton',b'30 Years',,b'Dark',b'Dark',b'Medium',b'Brown',,b'May 08',,b'China',,,b'St Albans',b'Sydney'
+12147716,1,,b'08/251',b'John Baxter',,,,,,,,,,b'Dark',,,,,,,,,,
+12147716,3,,,b'John Baxter',b'New South Wales',,,b'Chinese',b'Chinese',b'Canton',b'30 years',,,,,,,,,,,,,
+12147716,5,,b'08/253',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'April 08',,b'China',,,b'Empire',b'Sydney'
+7288046,1,b'275',b'21',,b'New South Wales',b'Yee Wou',b'Three Years',b'9 March 1920',b'Chinese',b'Canton',b'52 years',,b'5ft 7 1/4 in in Boots',b'Dark',b'Medium',b'Brown',,b'17.3.20',b'Sydney',b'China',b'St Albans',,,
+7288046,3,,b'032',b'William Henry Barkley',b'New South Wales',b'Wong Choon',,b'9 March 1920',b'Chinese',b'Canton',b'54 years',,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'St Albans',,,
+7288046,5,b'275',b'034',b'William Henry Barkley',b'New South Wales',b'Wong Soung',,b'9 March 1920',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'St Albans',,,
+7288046,7,b'275',b'035',b'William Henry Barkley',b'New South Wales',b'George Long',,b'9 March 1920',b'Chinese',b'Canton',b'53 years',,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'St Albans',,b'Eastern',b'Sydney'
+7288046,9,b'275',b'036',b'William Henry Barkley',b'New South Wales',,,b'9 March 1920',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'St Albans',,b'Victoria',b'Sydney'
+7288046,11,b'275',,,,,,b'9 March 1920',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'17.3.20',b'Sydney',b'China',b'Eastern',,b'Eastern',b'Sydney'
+7288046,13,b'275',b'038',,,b'J Wah Gow',,b'10 March 1920',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'St Albans',,b'Hwah Ping',b'Sydney'
+7288146,1,b'303',,b'Geo. E Hudson',b'New South Wales',,,,,,,,,b'Dark',,b'Brown',,,,,,,,
+7288146,3,,,,,,,,b'Indian',,,,,,,,,,,,,,,b'Sydney'
+7288146,5,b'303',,,,,,,,,,,,,,,,,,,,,,
+7288146,7,b'303',b'035',,,,,,,,b'55 years',,,,,,,,,,,,,b'Sydney'
+7288146,9,b'303',b'73',,,,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'Victoria',,,
+7288146,11,b'303',b'037',,,b'Chew Duck Lung',,b'15 March 1921',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Scar on each temple',,b'Sydney',b'China',,,b'Victoria',
+7288146,13,b'303',b'038',,,,,b'March 17th 1921',b'Chinese',,,,,,,,,,,,,,,b'Sydney'
+7288146,14,b'303',,,,,,b'March 17th 1921',b'Chinese',,,,,,,,,,,,,,,b'Sydney'
+7288146,16,b'303',b'040',,,b'Wong Ching',,,,,,,,,,,,,,,,,,
+7288690,1,b'401',,,b'Eng Tiy',,,,b'Chinese',b'Canton',b'62 years',b'Dark',,b'Black',b'Medium',b'Brown',,b'14th April 1926',b'Sydney',b'China',,,,
+7288963,1,b'455',b'081',,b'NEW SOUTH WALES',b'Sue Chong',,b'13th March 1929',b'Chinese',b'Canton',b'56 Years',b'Dark',,b'Black',,b'Brown',b'Nil',b'20th March 1929',b'Sydney',b'China',b'Changte',,,
+7461006,1,,,,,,,,,,,,,,,b'Brown',,b'Sept 08',,b'China',b'Eastern',,b'Aldenham',b'Sydney'
+7461006,3,,,b'John Baxter',b'New South Wales',,,,b'Chinese',,,,,,,,,b'Sept 08',,b'China',,,,
+7461006,5,b'08/502',b'08/502',,,,,b'17 Sept 08',,,,,,,b'Medium',,,,,,,,,
+7461006,8,,,,,,,b'17 Sept 08',b'Chinese',,,,,,,,b'Earring hole in left ear',b'26 Sept 08',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461006,10,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',,,,b'Sept 08',,b'China',,,,
+7461010,1,,b'John Baxter',b'New South Wales',,,b'Three years',b'22 Sept 08',b'Chinese',b'Canton',b'29 years',,,b'Dark',b'Medium',b'Brown',b'Sept 08',b'Sept 08',b'Sydney',b'China',b'Eastern',,b'Eastern',
+7461013,1,,b'551',b'John Baxter',b'New South Wales',b'Ah Tim',,b'Oct 08',b'Chinese',b'Canton',,,,,,,,,b'Sydney',b'China',,,,b'Sydney'
+7461013,2,,,b'John Baxter',b'New South Wales',b'Ah Tim',,b'Oct 08',b'Chinese',,,,,,,,,,,b'China',b'Aldenham',,b'Aldenham',b'Sydney'
+7461013,3,,b'552',b'John Baxter',b'New South Wales',b'Young Hoy',b'Three years',b'13 Oct 08',b'Chinese',b'Canton',,,,,,,,,,b'China',,,,b'Sydney'
+7461013,4,,b'552',b'John Baxter',b'New South Wales',b'Young Hoy',b'Three years',,b'Chinese',b'Canton',,,,,,,,,,b'China',,,,b'Sydney'
+7461013,5,,b'553',b'John Baxter',b'New South Wales',,b'Three years',,,b'Canton',b'46 years',,,b'Dark',b'Medium',b'Brown',,b'Oct 08',,b'China',,,b'Empire',b'Sydney'
+7461013,9,,b'553',,b'New South Wales',b'Ah War',,b'13 Oct 08',b'Chinese',b'Canton',,,,,,,,b'Oct 08',,b'China',,,b'Empire',b'Sydney'
+7461013,11,,b'08/554',b'John Baxter',b'New South Wales',b'Ah For',,b'13 Oct 08',b'Chinese',b'Canton',,,,,,,,b'Oct 08',,b'China',,,b'Eastern',b'Sydney'
+7461015,1,b'11',b'11',b'John Baxter',b'New South Wales',b'Ah See',,,b'Chinese',,b'30 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern 16/2/10',,,
+7461015,4,b'11',b'12',b'John Baxter',,,,b'5th November 1908',b'Chinese',b'Canton',,,,,,,,,,,,,b'Empire',b'Sydney'
+7461015,6,b'11',b'12',b'John Baxter',b'New South Wales',,,b'5th November 1908',b'Chinese',b'Canton',,,,,,,,,,,,,b'Empire',b'Sydney'
+7461016,1,,,b'John Baxter',,b'John Baxter',,,b'Chinese',b'Canton',b'60 years',,,,,,,,,b'China',b'Taiyuan',,,b'Sydney'
+7461017,1,b'11',b'31',b'John Baxter',b'New South Wales',,,b'13 Nov 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 08',b'Sydney',b'China',b'Empire',,b'Empire',b'Sydney'
+7461017,3,b'11',b'32',b'John Baxter',b'New South Wales',b'Lee Gee',,b'13 Nov 08',b'Chinese',b'Canton',,,b'5ft 4 3/4in in Boots',b'Dark',b'Medium',,b'Large scar in hair above right temple & ear',b'Nov 08',,b'China',b'Empire',,b'Empire',b'Sydney'
+7461017,5,b'11',b'32',b'John Baxter',b'New South Wales',b'Lee Gee',,b'13 Nov 08',b'Chinese',b'Canton',b'32 years',,,b'Dark',b'Medium',b'Brown',,b'Nov 08',,b'China',b'Empire',,b'Empire',b'Sydney'
+7461017,6,b'11',b'32',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 08',,b'China',b'Empire',,b'Empire',b'Sydney'
+7461017,10,b'11',b'33',b'John Baxter',,b'Low Tin Yet',b'three years',b'12 Nov 08',b'Chinese',b'Canton',b'45 years',,,b'Dark',b'Medium',b'Brown',,b'Nov 08',,,,,b'Empire',b'Sydney'
+7461017,11,b'11',b'33',b'John Baxter',b'New South Wales',,,b'12 Nov 08',b'Chinese',b'Canton',b'45 years',,,b'Dark',b'Medium',b'Brown',,b'Nov 08',,b'China',,,b'Empire',b'Sydney'
+7461017,13,b'11',b'33',b'John Baxter',b'New South Wales',,b'three years',b'12 Nov 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 08',,b'China',,,,b'Sydney'
+7461017,15,b'11',b'34',b'John Baxter',b'New South Wales',,,b'13 Nov 08',b'Chinese',b'Canton',,,b'5ft 5in in Boots',b'Dark',b'Medium',b'Brown',b'Scar under left eye',b'Nov 08',,b'China',b'Empire',,b'St Albans',b'Sydney'
+7461017,17,b'11',b'35',b'John Baxter',b'New South Wales',,b'three years',b'13 Nov 08',b'Chinese',b'Canton',b'35 years',,,b'Dark',b'Medium',b'Brown',,b'Nov 08',,b'China',,,,b'Sydney NSW'
+7461017,19,b'11',b'36',b'John Baxter',b'New South Wales',b'Yep Lee',,b'13 Nov 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',,,b'Nov 08',,b'China',b'Empire',,b'St Albans',b'Sydney'
+7461017,21,b'11',b'37',b'John Baxter',b'New South Wales',,,b'13 Nov 08',b'Chinese',b'Canton',,,,b'Dark',,,,b'Nov 08',,b'China',b'Empire',,b'Prinz Sigismund',b'Sydney'
+7461017,22,b'11',b'37',,b'New South Wales',,b'Three years',b'13 Nov 08',b'Chinese',b'Canton',b'39 years',,,b'Dark',b'Medium',b'Brown',,b'Nov 08',,b'China',b'Empire',,b'Prinz Sigismund',b'Sydney'
+7461018,1,b'11',b'41',b'John Baxter',b'New South Wales',b'Sue Hoy',,b'13 Nov 08',b'Chinese',b'Canton',b'44 years',b'-',,b'Dark',b'Medium',b'Brown',,b'Nov 08',b'Sydney',b'China',b'Empire',,b'Empire',
+7461020,1,b'11',,,,,,,,,,,,,,,,,,,,,,
+7461023,1,b'11',b'91',b'John Baxter',b'New South Wales',b'Hoo Chan',b'three years',b'10 Dec 08',b'Chinese',b'Canton',b'35 years',,,b'Dark',,b'Brown',,b'Dec 08',,b'China',b'Eastern',,b'Changsha',b'Sydney'
+7461023,3,b'11',,b'John Baxter',b'New South Wales',b'Hoo Chan',,b'10 Dec 08',b'Chinese',b'Canton',,,b'5ft 7 3/4in in Boots',b'Dark',,b'Brown',,b'Dec 08',,b'China',,,b'Changsha',b'Sydney'
+7461023,7,b'11',b'92',b'John Baxter',b'New South Wales',,b'Three Years',,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Dec 08',,b'China',b'Eastern',,b'Aldenham',b'Sydney'
+7461023,9,b'11',,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Dec 08',,b'China',b'Eastern',,b'Aldenham',b'Sydney'
+7461023,13,b'11',b'93',b'John Baxter',b'New South Wales',,,b'10 Dec 08',b'Chinese',b'Canton',,,b'5ft 6in in Boots',b'Dark',,b'Brown',,b'Dec 08',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461023,15,,b'93',b'John Baxter',b'New South Wales',,,,b'Chinese',,,,b'5ft 6in in Boots',b'Dark',b'Medium',b'Brown',b'Long scar right side of neck',b'Dec 08',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461023,19,b'11',b'94',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'28 years',,,b'Dark',b'Medium',b'Brown',b'Face slightly pockmarked',b'Dec 08',,b'China',b'Eastern',,b'Empire',
+7461023,21,b'11',b'94',b'John Baxter',b'New South Wales',,,b'10 Dec 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Dec 08',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461023,25,,,,b'New South Wales',,,b'10 Dec 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Dec 08',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461023,27,b'11',,b'John Baxter',b'New South Wales',,,b'10 Dec 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Dec 08',,b'China',,,b'Empire',b'Sydney'
+7461023,31,b'11',b'96',b'John Baxter',b'New South Wales',b'Ah Chang',,b'10 Dec 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Mole right side of chin',b'Dec 08',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461025,1,b'12',b'11',b'John Baxter',b'New South Wales',,,b'14 Dec 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Scar just under left eyebrow',b'Dec 08',b'Sydney',b'China',b'Aldenham',,b'Aldenham',b'Sydney'
+7461025,3,b'12',b'11',b'John Baxter',b'New South Wales',b'Lum Chong',,b'14 Dec 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern',,,b'Sydney'
+7461025,13,b'12',b'13',b'John Baxter',b'New South Wales',b'Ah Long',,b'15 Dec 08',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',b'Mark like two holes corner right eye',,,b'China',b'Eastern',,,
+7461025,15,b'12',b'14',b'John Baxter',b'New South Wales',,,b'15 Dec 08',b'Chinese',b'Canton',b'47 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,b'of Sydney'
+7461025,17,b'12',b'15',b'John Baxter',b'New South Wales',b'Low See',,,b'Chinese',b'Canton',b'41 years',,,,b'medium',,b'Face appears slightly pockmarked',,,b'China',b'Empire',,,b'Sydney'
+7461027,1,b'12',b'31',b'John Baxter',b'New South Wales',,,b'17 Dec 08',b'Chinese',b'Canton',,,b'5ft 9 3/4',b'Dark',b'Medium',b'Brown',b'Mole near left temple',b'Dec 08',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461028,1,b'12',b'41',b'John Baxter',b'New South Wales',b'Ah Loo',b'Three years',b'17 Dec 08',b'Chinese',b'Canton',b'36 years',,,,,,,b'Dec 08',,b'China',b'Eastern',,,b'Sydney '
+7461028,3,b'12',b'41',b'John Baxter',b'New South Wales',b'Ah Loo',,b'17 Dec 08',b'Chinese',b'Canton',b'36 years',,,b'Dark',b'Medium',b'Brown',b'Shows top teeth',b'Dec 08',,b'China',b'Eastern',,b'Empire',
+7461028,7,b'12',b'42',b'John Baxter',b'New South Wales',,,b'17 Dec 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Dec 08',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461028,9,b'12',b'42',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Dec 08',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461030,1,,b'61',b'John Baxter',b'New South Wales',b'Lee Tim',,b'29 Dec 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Dec 08',,b'China',b'Changsha',,b'Empire',b'Sydney'
+7461030,3,b'12',,b'John Baxter',b'New South Wales',b'Lee Tim',,b'29 Dec 08',b'Chinese',b'Canton',,,,,,,,b'Dec 08',,b'China',,,b'Empire',b'Sydney'
+7461030,7,b'12',b'62',b'John Baxter',b'New South Wales',b'Lee Nim',,b'29 Dec 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Scars on side of head above left ear',b'Dec 08',,b'China',b'Changsha',,b'Eastern',
+7461031,1,,,b'John Baxter',b'New South Wales',,b'Three years',,,b'Canton',,,,b'Dark',,b'Brown',,,,b'China',,,,
+7461031,3,b'12',b'72',b'John Baxter',b'New South Wales',b'Ah Sam',,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+7461036,1,b'13',b'21',,b'New South Wales',,,,,,b'39 years',,,b'Dark',,b'Brown',,b'Jany 09',,b'China',,,b'Empire',b'Sydney'
+7461039,1,b'13',b'41',b'John Baxter',b'New South Wales',b'Quong Sing',b'Three years',b'27 Jany 09',b'Chinese',b'Canton',b'45 years',,,,b'Medium',,b'Small scar back of neck left side',b'Jany 09',,b'China',b'Taiyuan',,,
+7461039,3,b'13',b'42',b'John Baxter',b'New South Wales',,b'Three years',b'27 Jany 09',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Jany 09',,b'China',b'Taiyuan',,b'Taiyuan',b'Sydney'
+7461039,5,b'13',b'43',b'John Baxter',,b'Mee Wong',b'Three years',,b'Chinese',b'Canton',b'52 years',,,b'Dark',b'medium',b'Brown',,,,b'China',b'Taiyuan',,,
+7461039,7,b'13',b'44',b'John Baxter',b'New South Wales',,b'Three years',,b'Chinese',b'Canton',b'43 years',,,b'Dark',b'Medium',b'Brown',,b'Jany 09',,b'China',b'Empire',,,b'of Sydney'
+7461041,1,b'13',b'71',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',b'Empire',,b'Empire',b'Sydney'
+7461045,1,,b'11',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'28 years',,,,,,,,,b'China',b'Empire',,b'St Albans',b'Sydney'
+7461047,1,,,b'John Baxter',,,,,b'Chinese',b'Canton',b'34 years',,b'5ft 3 1/4in in Boots',b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461047,3,b'20',,b'John Baxter',b'New South Wales',,,b'5 March 09',b'Chinese',b'Canton',b'34 years',,b'5ft 3 1/4in in Boots',b'Dark',b'Medium',b'Brown',b'Scar corner of mouth right side',b'March 09',,b'China',b'Eastern',,b'Empire',
+7461047,7,b'20',b'32',b'John Baxter',b'New South Wales',b'James Ah Won',,b'6 March 09',,b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Changsha',,b'Coblenz',b'Sydney'
+7461047,9,b'20',b'33',b'John Baxter',b'New South Wales',b'Yee Tie',,b'8 March 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Changsha',,b'St Albans',b'Sydney'
+7461047,11,b'20',b'33',b'John Baxter',b'New South Wales',b'Yee Tie',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Changsha',,b'St Albans',b'Sydney'
+7461047,15,b'20',b'34',b'John Baxter',b'New South Wales',b'Mow Choy',,b'8 March 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',,,,b'Sydney'
+7461047,17,b'20',b'35',b'John Baxter',b'New South Wales',,b'Three years',,b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',b'Brown',b'Large mole left side of mouth',b'March 09',,b'China',b'Changsha',,b'Empire',b'Sydney'
+7461047,19,b'20',b'35',b'John Baxter',b'New South Wales',b'Long Chong',,b'8 March 09',b'Chinese',b'Canton',b'40 years',,b'5ft 4in in Boots',b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',,,b'Empire',b'Sydney'
+7461047,23,b'20',b'36',b'John Baxter',b'New South Wales',b'Wong Sing',,b'8 March 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Changsha',,b'Empire',b'Sydney'
+7461047,25,b'20',b'36',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',b'Brown',,,,,,,b'Empire',b'Sydney'
+7461047,29,b'20',b'37',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'36 years',,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Eastern',,b'Eastern',
+7461047,31,b'20',b'37',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'36 years',,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461047,35,b'20',b'38',b'John Baxter',b'New South Wales',,,b'8 March 09',b'Chinese',b'Canton',b'30 years',,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461047,37,b'20',b'38',b'John Baxter',b'New South Wales',,,b'8 March 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461047,41,b'20',b'39',b'John Baxter',b'New South Wales',,,b'8 March 09',b'Chinese',b'Canton',b'48 years',,,b'Dark',b'Medium',,,b'March 09',,b'China',b'Eastern',,,
+7461047,43,b'20',b'40',b'John Baxter',b'New South Wales',,,b'8 March 09',b'Chinese',b'Canton',b'44 years',,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461047,45,b'20',b'40',b'John Baxter',b'New South Wales',,,b'8 March 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Face very pockmarked',b'March 09',,b'China',,,b'Empire',b'Sydney'
+7461049,1,b'20',b'51',b'John Baxter ',,b'Lum Sing',b'9 March 09',b'9 March 09',b'Chinese',b'Canton',b'48 Years',,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461049,3,b'20',b'51',b'John Baxter',b'New South Wales',b'Lum Sing',b'9 March 09',b'9 March 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'March 09',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461049,7,b'20',b'52',b'John Baxter',b'New South Wales',b'Lee Hoo',b'Three years',b'9 March 09',b'Chinese',b'Canton',b'34 years',,,,b'Medium',b'Brown',b'Small mole under lower lip',b'March 09',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461049,9,b'20',b'52',b'John Baxter',b'New South Wales',b'Lee Hoo',,b'9 March 09',b'Chinese',b'Canton',b'34 years',,,b'Dark',,b'Brown',,b'March 09',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7461054,1,b'21',b'1',b'John Baxter',b'New South Wales',b'King Hoy',,b'5 April 09',b'Chinese',b'Canton',,,,,,,,b'April 09',b'Sydney',b'China',,,b'Empire',
+7461054,4,b'21',b'1',b'John Baxter',b'New South Wales',b'King Hoy',,b'5 April 09',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'April 09',,b'China',b'Aldenham',,b'Empire',b'Sydney'
+7461054,6,b'21',b'2',b'John Baxter',b'New South Wales',,b'Three years',b'5 April 09',b'Chinese',b'Canton',b'30 years',,,b'Dark',,b'Brown',,,b'Sydney',b'China',b'Empire',,,
+7461054,10,,,,b'New South Wales',,,b'5 April 09',b'Chinese',,b'30 years',,,b'Dark',,b'Brown',,b'April 09',b'Sydney',b'China',b'Empire',,,
+7461055,1,b'21',b'11',b'John Baxter',b'New South Wales',,,b'6 April 09',b'Chinese',b'Canton',,,,b'Dark',,,,,,,,,,
+7461063,1,b'21',,b'John Baxter',b'New South Wales',,,b'6 May 09',b'Chinese',b'Canton',b'34 years',,,b'Dark',,b'Brown',b'-',b'May 09',,b'China',b'Empire',,b'St Albans',
+7461063,5,b'21',b'92',b'John Baxter',b'New South Wales',,,,b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,b'July 06',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461063,6,b'21',b'92',b'John Baxter',b'New South Wales',,,b'7 May 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',,,b'July 06',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461063,7,,,,b'New South Wales',b'Ah Chong',,b'10 July 06',b'Chinese',b'Canton',b'40 years',,,b'Dark',,b'Brown',,,,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461066,1,b'22',b'21',b'John Baxter',b'New South Wales',,,b'31 May 09',b'Chinese',b'Canton',b'37 Years',,b'5ft 3 in in boots',b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern',,b'Empire ',
+7461074,1,b'23',b'1',b'Stephen Mills',b'New South Wales',,,b'26 July 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'July 09',,b'China',b'Empire',,b'Sydney',b'Sydney'
+7461074,3,b'23',b'2',b'Stephen Mills',b'New South Wales',b'Bow Lee',,b'26 July 09',b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',b'Brown',,b'July 09',,b'China',b'Empire',,,b'Sydney'
+7461075,1,b'23',b'11',b'Stephen Mills',b'New South Wales',b'Jimmy Aug',b'Three years',b'27 July 09',b'Chinese',b'Canton',b'48 years',,,b'Dark',,b'Brown',,b'July 09',,b'China',b'Empire',,b'Kumano Maru',b'of Sydney'
+7461075,3,b'23',b'12',b'Stephen Mills',b'New South Wales',b'Ah Hong',,b'27 July 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Aldenham',
+7461076,1,b'23',b'21',b'Stephen Mills',b'New South Wales',,b'Three years',,b'Indian',b'Punjaub',b'30 years',b'Dark',b'5ft 7in in Boots',b'Dark',b'Medium',b'Brown',b'Scar slight under right eye',,,b'India',,,,b'of Sydney'
+7461076,3,b'23',b'22',b'Stephen Mills',b'New South Wales',b'Ram Chund',b'Three years',,b'Indian',,b'29 years',b'Dark',,b'Dark',,b'Brown',,b'Augst 09',,b'India',,,,b'Sydney'
+7461076,5,b'23',b'23',b'Stephen Mills',b'New South Wales',,,,b'Indian',b'Punjaub',,,,b'Dark',b'Medium',b'Brown',,,,b'India',b'Currie Line',,b'Caledonien',b'Sydney'
+7461076,7,b'23',b'24',b'Stephen Mills',b'New South Wales',b'Sundra',,,b'Indian',,b'34 years',b'Dark',b'5ft 9in in Boots',b'Dark',,b'Brown',,,,b'India',,,,b'Sydney'
+7461076,9,b'23',b'26',b'Stephen Mills',,,b'Three years',,b'Indian',b'Punjaub',b'30 years',,,b'Dark',,b'Brown',,,,b'India',,,,b'Sydney'
+7461076,12,b'28',b'28',b'Stephen Mills',,,,,b'Indian',,b'35 years',b'Dark',,b'Dark',,,b'-',,,b'India',,,b'Caledonien',b'Sydney'
+7461076,16,b'23',b'29',b'Stephen Mills',,,,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Augst 09',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461076,17,b'23',,b'Stephen Mills',b'New South Wales',b'Tong',,b'11 Augst 09',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7461076,21,b'23',b'30',b'Stephen Mills',b'New South Wales',,,,,,,,,,,,,,,,,,,
+7461080,1,b'23',b'61',b'Stephen Mills',b'New South Wales',,,,b'Chinese',,,,,,,b'Brown',,,,,b'Eastern',,b'Eastern',b'Sydney'
+7461080,3,b'23',b'62',b'Stephen Mills',,,,,b'Chinese',b'Canton',,,,b'Dark',,,b'Scar like hole centre of forehead',,,b'China',,,,
+7461080,5,b'23',b'63',,,b'Sue Chong',,,,b'Chinese',,,,b'Dark',b'Medium',b'Brown',b'Scar on each cheek result of a burn',,,b'China',,,,b'Sydney'
+7461082,1,b'23',b'81',b'Stephen Mills',b'New South Wales',,,b'20 Sept 09',b'Chinese',,b'45 years',,,b'Dark',b'Medium',b'Brown',,b'Sept 09',,b'China',,,,
+7461083,1,,b'91',b'Stephen Mills',b'New South Wales',,,,b'Chinese',b'Canton',,,b'5ft 5 3/4in in Boots',b'Dark',b'Medium',b'Brown',,b'Sept 09',,b'China',,,,b'Sydney'
+7461083,3,b'23',b'92',b'Stephen Mills',b'New South Wales',b'Ah Loong',,b'21 Sept 09',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small scar near inside corner each eyebrow',b'Sept 09',b'Brisbane',b'China',,,b'Empire',
+7461130,1,b'37',b'61',,,,,,,,,,,,,,,,,b'China',b'Empire',,b'Victoria',b'Sydney'
+7461130,3,b'37',b'62',b'William Lawson',b'Beg Sing',b'Beg Sing',,,b'Chinese',,,,,,b'Medium',,,,,b'China',b'Empire',,b'Empire',b'Sydney'
+7461130,5,b'37',,b'William Lawson',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'April 10',,b'China',b'Empire',,b'JTT Donohoe',b'Sydney'
+7461130,9,b'37',b'63',b'William Lawson',b'New South Wales',b'Sam Lee',,b'11 April 10',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Empire',,b'Eastern',b'Sydney'
+7461130,11,b'37',,b'William Lawson',b'New South Wales',b'Hoon Yow',,,b'Chinese',b'Canton',,,,,,b'Brown',,b'April 10',,b'China',b'Empire',,b'Eastern',b'Sydney'
+7461130,13,b'37',b'65',,b'New South Wales',b'Lee Man Chin',,,b'Chinese',b'Canton',,,,,,,,b'April 10',,b'China',b'Empire',,b'St Albans',b'Sydney'
+7461178,1,b'48',b'41',b'Stephen Mills',b'New South Wales',b'Chan Hing',b'Three years',b'16 Decr 10',b'Chinese',b'Canton',b'50 years',,b'5ft 4 1/2in in Boots',b'Dark',b'Medium',b'Brown',,b'Decr 10',,b'China',,,b'Empire',b'Sydney'
+7461178,3,,b'42',b'Stephen Mills',b'New South Wales',,,,b'Chinese',b'Canton',,,b'5 ft 3 1/2 in in Boots',b'Dark',b'Medium',b'Brown ',,b'Dec 10 ',,b'China ',b'Empire ',,b'Sydney',b'Sydney'
+7461178,5,b'48',b'43',b'Stephen Mills',b'New South Wales',,b'Three Years',,b'Chinese',b'Canton',,,b'5ft 3 1/4 in in Boots',b'Dark',,b'Brown',,b'Decr 10',,b'China',b'Taiyuan',,b'Empire',b'Sydney'
+7461178,7,b'48.',b'44',b'Stephen Mills',b'New South Wales',b'Chong Sam',b'Three (3) years',b'16th Dec 1910',b'Chinese ',b'Canton ',b'38 years ',,,,,,,"b""Dec '07""",,b'China ',b'Japanese Line ',,b'St Albans ',b'Sydney '
+7461178,9,b'48',b'45',b'Stephen Mills',b'New South Wales',b'Can Dock',b'Three (3) years',b'17th Dec 1910',b'Chinese',b'Canton',b'48 years',,,,,,,"b""Oct '05""",,b'China',b'E & A Co or China Co.',,b'Empire',b'Sydney'
+7461178,11,b'48',b'46',b'William Lawson',b'New South Wales',b'Hing Lay',b'Three years',,b'Chinese',b'Canton',b'40 years',,b'5ft 8in in Boots',b'Dark',b'Medium',b'Brown',,b'Dec 10',,b'Fiji',,,b'Tofua',
+7461178,13,b'48',b'47',b'William Lawson',b'New South Wales',b'George Gay',,,b'Chinese',b'Canton',b'38 years',,b'5ft 7 1/2 in in Boots',b'Dark',b'Medium',b'Brown',,,,b'Fiji',b'SS Suva',,b'Levuka',b'Sydney'
+7461221,1,,,b'Stephen Mills',,,,b'3 July 11',,,,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,
+7461221,3,,b'072',b'Stephen Mills',b'New South Wales',,,b'3 July 11',b'Chinese',b'Canton',,,,b'Dark',b'Medium',,b'Large scar on left wrist',b'5 July 11',,b'China',b'SS St Albans',,b'Eastern',
+7461270,1,b'84',b'061',b'William Lawson',,,,b'14th May 12',b'Chinese',b'Canton',b'38 years',,,b'Black',b'Medium',b'Brown',,,b'Sydney',b'China',,,b'St Albans',b'Sydney'
+7461270,3,,,,,,,,b'Chinese',b'Canton',,,,b'Black',b'Medium',b'Brown',,,,b'China',,,,
+7461270,5,,,b'William Lawson',,b'William Williams',,b'17 May 1912',,,,,,,,,,,,,,,b'Tofua',b'Sydney'
+7461270,6,,,b'William Lawson',,,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,
+7461270,8,,,b'William Lawson',,b'Utcher Singh',,,b'Indian',,,b'Dark',,b'Dark',b'Medium',,,b'24 May 12',,b'India',,,,b'Sydney'
+7461270,10,b'84',b'067',b'William Lawson',b'New South Wales',,,b'23 May 12',b'Indian',,,b'Dark',,b'Dark',b'Medium',b'Brown',,b'24 May 12',,b'India',b'Janus',,,
+7461270,12,b'84',b'068',b'William Lawson',,b'Mee Fook',,,b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Empire',b'Sydney'
+7461270,14,,,b'William Lawson',b'New South Wales',,,b'28 May 12',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'1st June 12',,b'China',b'Changsha',,b'Empire',b'Sydney'
+7461270,16,,,b'William Lawson',b'New South Wales',b'Sue Chung',,,b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Prinz Waldemar',,b'Empire',b'Sydney'
+7461318,1,b'80',b'041',b'Stephen Mills',b'New South Wales',b'Hakam Singh',,b'27th Dec 1911',b'Indian',b'India',,,,,,,,,,,,,,b'Sydney'
+7461318,3,b'80',b'042',b'Stephen Mills ',b'New South Wales ',,,b'27th Dec 1911',b'Indian',b'India',,,,,,,,,,,,,,b'Sydney'
+7461318,5,b'80',b'043',b'Stephen Mills',b'New South Wales',b'Jalal Deen',,b'27th Dec 1911',b'Indian',b'India',,,,,,,,,,,,,,b'Sydney'
+7461318,7,b'80',b'044',b'Stephen Mills',b'New South Wales',,b'Three years',,b'Chinese',b'Canton',b'50 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Changsha',,,b'Sydney '
+7461318,9,b'80',b'045',b'Stephen Mills',b'New South Wales',,,b'30th Dec 1911',b'Chinese',b'China',,,,,,,,,,,,,,
+7461318,11,b'80',b'046',,b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,,,,b'China',b'Empire',,,
+7461318,13,b'80',b'047',,,b'Charlie Mong Chong',,b'2nd Jany 1912',,,,,,,,,,,,,,,b'Eastern',b'Sydney'
+7461318,15,b'80',b'048',,b'New South Wales',b'William Lowe',,,b'Chinese',,,,b'5ft 6in in Boots',b'Dark',b'Medium',b'Brown',,b'6 Jany 12',,b'China',b'Aldenham',,b'Empire',b'Sydney'
+7461318,17,b'80',b'049',b'William Lawson',b'New South Wales',,,,b'Indian',,,,,,,,,,,,,,,
+7461318,19,b'80',b'050',,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',,,b'Eastern',
+7461329,1,b'81',b'051',b'Stephen Mills',b'New South Wales',b'Harry Young',,,b'Chinese',b'Canton',b'30 Years',,,b'Black',b'Medium',b'Brown',b'Scar right side of chin',,,b'China',,,,
+7461329,3,b'81',b'052',b'Stephen Mills',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Black',b'Stout',b'Brown',b'Mouth twisted to left side of face',b'31st Jany 12',,b'China',,,,
+7461418,1,b'119',,,,,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',,,,,b'China',b'St Albans',,b'St Albans',b'Sydney'
+7461418,3,,,,b'New South Wales',,,,,,,,,b'Dark',b'Medium',b'Brown',,,,,b'Levuka',,b'S/S Levuka',
+7461418,5,b'119',b'043',,,,,b'6 May 13',,,,,,b'Dark',,,,,,,,,,
+7461418,7,b'119',,,,,,b'6 May 13',b'Chinese',b'Canton',b'50 years',,,b'Dark',,b'Brown',,b'7 May 13',,b'China',,,b'Empire',
+7461427,1,b'120',b'031',b'William Lawson',,,,b'2 June 13',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,b'Eastern',,,,,
+7461427,3,b'120',b'032',b'William Lawson',,b'Ah Woon',,b'2 June 13',b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,
+7461427,5,b'120',b'033',b'William Lawson',,b'Jimmy Young',,b'2 June 13',b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,b'11 June 13',,b'China',,,b'St Albans',
+7461427,7,b'120',,,,,,,b'Chinese',b'Canton',,,,,,,,,,b'China',,,b'Nikko Maru',
+7461427,9,,,b'William Lawson',b'New South Wales',,,b'3 June 13',b'Chinese',b'Canton',,,,b'Dark',b'Medium',,,b'7 June 13',,b'China',,,,
+7461427,11,,b'036',b'William Lawson',b'New South Wales',b'Mahomed Ali',,,,,,,,,,,,,,,,,b'Armand Behic',b'Sydney'
+7461529,1,b'153',b'53',b'William Henry Barkley',,,,,b'Chinese',b'Canton',b'36 Years',,,b'Dark',,b'Brown',b'-',,,b'China',,,b'Empire',
+7461529,3,b'153',b'52',,b'New South Wales',,,,b'Chinese',b'Canton',,,,,,b'medium',,,,,,,,b'Sydney'
+7461529,5,b'153',b'54',,,b'Ah Lee',,,b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,b'5 May 14',,b'China',,,,b'Sydney'
+7461529,7,b'153',b'55',b'William Henry Barkley',,,,,b'Chinese',b'Canton',,,b'Dark',b'Dark',b'Medium',b'Brown',,b'5 May 14',,b'China',b'Changsha',,b'Empire',b'Sydney'
+7461529,9,b'153',b'56',b'William Henry Barkley',,,,,b'Chinese',b'Canton',,,b'Dark',,b'Medium',b'Brown',,b'5 May 14',,b'China',b'Changsha',,b'St Albans',
+7461529,11,b'153',b'57',b'William Henry Barkley',,,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'5 May 14',,b'China',,,,b'Sydney'
+7461529,13,b'153',b'58',,,b'Hep Jak',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,b'Sydney'
+7461529,15,b'153',b'59',,,b'Chun Mang',,,b'Chinese',b'Canton',,,,,b'Medium',b'Brown',,b'5 May 14',,b'China',,,b'St Albans',b'Sydney'
+7461529,17,b'153',b'60',b'William Henry Barkley',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'5 May 14',,b'China',b'Changsha',,b'Eastern',b'Sydney'
+7461744,1,b'199',b'011',b'WILLIAM HENRY BARKLEY',,b'Ah Wong',b'THREE YEARS',b'19 April 16',b'Chinese',b'Canton',,,b'5ft 4 1/2 in in Boots',b'Dark',,b'Brown',b'Scar side of head about left ear',,b'Sydney',b'China',b'St Albans',,b'Tango Maru',
+7461744,3,,,,,b'Sue Chong',,b'19 April 16',b'Chinese',,b'40 years',,,b'Dark',,,,b'20/4/16',b'Sydney',b'China',b'St Albans',,,
+7461744,5,,,,,,,b'19 April 16',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'20/4/16',b'Sydney',b'China',b'St Albans',,,
+7461744,7,b'199',b'014',,,,,b'19 April 16',b'Chinese',b'Canton',,,,b'Dark',,,,b'20/4/16',b'Sydney',b'China',b'St Albans',,,
+7461744,9,,,,,,,,,,b'53 years',,,,b'Medium',b'Brown',,b'20/4/16',b'Sydney',b'China',b'St Albans',,b'Nikko Maru',
+7461744,11,b'199',b'016',,,,,,,,b'37 years',,,,b'Medium',b'Brown',,,b'Sydney',b'China',,,,
+7461755,1,b'206',b'021',b'William Henry Barkley',b'New South Wales',b'Ah Sin',b'three years',b'8 June 1916',b'Chinese',b'Canton',b'50 years',,,b'Dark',,b'Brown',,,b'Sydney',b'China',b'Eastern',,,b'Brisbane'
+7461755,3,b'206',b'022',b'William Henry Barkley',b'New South Wales',,b'three years',,b'Chinese',b'Canton',b'39 years',,,b'Dark',,b'Brown',,b'10.6.16',b'Sydney',b'China',b'Eastern',,b'St Albans',
+7461755,5,b'206',b'023',,b'New South Wales',b'Ah Sow',,b'8 June 1916',b'Chinese',b'Canton',b'37 years',,,b'Dark',,b'Brown',,b'10-6-16',b'Sydney',b'China',b'Eastern',,,
+7473967,1,b'21.',b'06/41',b'Nicholas C Lockyer',b'New South Wales',b'Kin Choy',,b'20 Febry 1906',b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',b'Brown',b'Mole left Side of Chin',b'Febry 1906',b'Sydney',b'China',b'Chingtu',,b'Changsha',b'Sydney'
+7473969,3,b'06/61',,,b'New South Wales',,,b'2nd March 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',,,,,b'China',b'Empire',,,
+7473969,5,,,,,,,,b'Chinese',b'Canton',b'32 years',,,,,b'Brown',,b'March 06',,,b'Empire',,b'Eastern',b'Sydney'
+7473969,7,,b'06/62',b'Lockyer',b'New South Wales',,,b'2 March 1906',,,,,,,,b'Brown',,b'March 06',,b'China',b'Empire',,b'Eastern',b'Sydney'
+7473974,1,,b'06/111',,b'New South Wales',b'Hoon Kai',b'Two years',b'20 March 06',,,b'36 years',,,,b'Medium',b'Brown',,b'March 06',,b'China',,,,b'Sydney'
+7473974,3,b'21',,,b'New South Wales',,,b'20 March 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'March 06',,b'China',,,b'SS Empire',b'Sydney'
+7473976,1,,b'06/131',,b'New South Wales',,,b'2 April 06',b'Chinese',b'Canton',b'35 years',,,b'Dark',,b'Brown',,b'April 06',,b'China',,,b'Empire',b'Sydney'
+7473976,3,,,b'William Bethune',b'New South Wales',b'Florence Wheatley',,b'2 April 06',b'Half Caste Islander',,b'11 years',b'Dark',,b'Dark',b'Medium',,,b'March 1905',,,,,,
+7473976,4,,,,b'New South Wales',,,b'4th April 06',,b'Canton',b'45 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern',,b'Empire',b'Sydney'
+7473977,1,b'Form No. 21.',,,b'New South Wales',b'Sun Loy',,,b'Chinese',,b'39 Years',,,b'Dark',b'Medium',b'Brown',,b'April 06',,b'China',b'Eastern',,,
+7473977,3,,,,b'New South Wales',b'Sun Loy',,,,,,,,,,,,,,,,,,
+7473977,5,,,,,,b'Two years',,,,b'29 years',,,b'Dark',b'Medium',b'Brown',b'Mark like small hole point of chin',b'April 06',,b'China',b'Eastern',,b'Aldenham',
+7473977,7,,,,b'New South Wales',,,,,,,,,,,,,,,,b'Eastern',,,
+7473977,9,,b'06/143',,b'New South Wales',,,,b'Chinese',,,,,b'Dark',,,,,,,,,,
+7473977,11,,b'06/144',,,,b'Two years ',,,,,,,b'Dark',b'Medium',,,b'April 06',,b'China',,,,
+7473977,13,,,,b'New South Wales',,,,b'Chinese',b'Canton',,,,,b'Medium',b'Brown',,b'April 06',,b'China',b'E & A Company',,,
+7473977,15,,,,,,,,,,,,,b'Dark',,,,,,,b'E & A Company',,,
+7473977,17,,,,b'New South Wales',,,,,,,,,,,,,b'April 06',,b'China ',,,b'Eastern',
+7473982,1,,,b'Nicholas C Lockyer',b'New South Wales',,,b'17 May 06',b'Chinese',b'Canton',b'35 years',,b'Dark',,b'Medium',b'Brown',b'Small scar above right temple',b'May 06',,b'China',b'Japanese Line',,b'Eastern',b'Sydney'
+7473982,3,,b'06/191',b'Nicholas C Lockyer',b'New South Wales',b'Yee Kee',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small scar above right temple',b'May 06',,,b'Eastern',,,
+7473984,1,,b'08/281',b'John Baxter',b'New South Wales',b'Ah Toy',,b'8 May 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'May 08',,b'China',b'Aldenham',,b'Changsha',b'Sydney'
+7473984,3,,,b'John Baxter',b'New South Wales',b'Ah Toy',,,,b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'May 08',,b'China',b'Aldenham',,b'Changsha',b'Sydney'
+7473984,5,,,b'John Baxter',b'New South Wales',,,b'8 May 08',b'Chinese',,,,,b'Dark',b'Medium',b'Brown',b'Pockmarks each side of face',b'May 08',,b'China',b'Aldenham',,b'Eastern',b'Sydney'
+7473984,8,,b'08/282',b'John Baxter',b'New South Wales',b'Ah Yick',,b'8 May 08',b'Chinese',b'Canton',b'32 years',,,b'Dark',b'Medium',b'Brown',,b'May 08',,b'China',,,b'Eastern',b'Sydney'
+7473987,1,,b'08/311',b'John Baxter',b'New South Wales',b'Charles Hee',b'Three years',,b'Chinese',b'Canton',b'34 years',,,b'Dark',,b'Brown',,b'April 03',,b'China',,,,b'Sydney'
+7473987,2,,b'08/311',b'John Baxter',b'New South Wales',,,b'16 May 08',b'Chinese',b'Canton',b'34 years',,,b'Dark',,b'Brown',,b'April 03',,b'China',b'Empire',,b'Empire',b'Sydney'
+7473987,3,,b'312',b'John Baxter ',b'New South Wales ',,,b'16 May 08 ',b'Chinese',b'Canton',,,,,,,,,,b'China',,,b'Empire',b'Sydney'
+7473987,4,,b'312',,b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,,,,b'China',,,b'Empire',b'Sydney'
+7473987,5,,b'08/313',b'John Baxter',b'New South Wales',,b'Three years',b'16 May 08',b'Chinese',b'Canton',,,,,,,,,,b'China',,,b'Empire',b'Sydney'
+7473989,1,,b'08/331',b'John Baxter',b'New South Wales',b'Ah Wong',b'Three years',b'29 May 08',b'Chinese',b'Canton',b'42 years',,b'5ft 3 1/2 in in Boots',b'Dark',b'Medium',b'Brown',,b'May 08',,b'China',b'Changsha',,,
+7473989,3,b'21',b'08/332',b'John Baxter',b'New South Wales',b'Wong How',,b'2 June 08',b'Chinese',b'Canton',b'46 years',,,b'Dark',b'Medium',b'Brown',,b'June 08',,b'China',b'Empire',,,b'Sydney'
+7473989,5,b'21',b'08/333',b'John Baxter',b'New South Wales',,,b'2 June 08',b'Chinese',b'Canton',b'36 years',,b'Dark',b'Dark',b'Medium',b'Brown',b'Large scar near right temple',b'June 08',,b'China',b'Empire',,b'Eastern',b'Sydney'
+7473989,9,,,b'John Baxter',b'New South Wales',,,b'2 June 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Large scar near right temple',b'June 08',,b'China',b'Empire',,b'Eastern',b'Sydney'
+7473989,11,,b'08/335',b'John Baxter',b'New South Wales',,b'Three years',b'3 June 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'June 08',,b'China',b'Empire',,b'Eastern',b'Sydney'
+7473989,13,,b'08/335',,b'New South Wales',b'Low Hin',,,,,b'46 years',,,b'Dark',,,,b'June 08',,b'China',,,b'Eastern',b'Sydney'
+7473989,16,b'08/336',,b'John Baxter',b'New South Wales',,,b'3 June 08',b'Chinese',,b'44 years',,,b'Dark',,,,b'June 08',,b'China',b'Empire',,,b'Sydney'
+7473989,18,,b'08/336',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'44 years',,,b'Dark',b'Medium',b'Brown',b'Mark like thin scar corner right eyebrow',b'June 08',,b'China',b'Empire',,b'Aldenham',b'Sydney'
+7473989,20,,,b'John Baxter',b'New South Wales',,,b'3 June 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small mole right side of throat',b'June 08',,b'China',b'Empire',,b'Eastern',b'Sydney'
+7473989,22,,b'08/337',b'John Baxter',b'New South Wales',,,b'3 June 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small mole right side of throat',b'June 08',,b'China',b'Empire',,b'Eastern',b'Sydney'
+7473989,26,,b'08/338',b'John Baxter',b'New South Wales',b'Sam Bow',,,b'Chinese',b'Canton',b'44 years',,,,b'Medium',b'Brown',,b'June 08',,b'China',b'Empire',,,b'Sydney'
+7473991,1,,b'08/351',b'John Baxter',b'New South Wales',b'Ah Hou',b'Three years',b'5 June 08',b'Chinese',b'Canton',b'36 years',,b'5 ft 6 in in Boots',b'Dark',b'Medium',b'Brown',,b'June 08',,b'China',b'Empire',,b'St Albans',b'Sydney'
+7473991,5,,b'08/351',b'John Baxter',b'New South Wales',b'Ah Hon',b'Three Years',b'5 June 08',b'Chinese',b'Canton',b'36 years',,b'5 ft 6 in in Boots',b'Dark',b'Medium',b'Brown',,b'June 08',,b'China',b'Empire',,b'St Albans',b'Sydney'
+7473991,7,,b'352',b'John Baxter',b'New South Wales',b'Kum Lee',b'Three years',b'5 June 08',b'Chinese',b'Canton',b'37 years',,,b'Dark',b'Medium',b'Brown',b'Small lump or mole left side of nose',b'June 08',,b'China',b'Empire',,b'Aldenham',b'Newcastle'
+7473991,9,,b'08/353',b'John Baxter',b'New South Wales',b'Loon Yow',b'Three years',b'5 June 08',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'June 08',,b'China',b'Empire',,b'Aldenham',b'Sydney'
+7473991,11,,b'08/353',b'John Baxter',b'New South Wales',b'Loon Yow',,b'5 June 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'June 08',,b'China',b'Empire',,,b'Sydney'
+7473991,13,,b'354',b'John Baxter',b'New South Wales',,,b'5 June 08',b'Chinese',b'Canton',b'50 years',,,b'Dark',,,,b'June 08',,b'China',b'Empire',,b'St Albans',b'Sydney'
+7473991,15,,b'354',b'John Baxter',b'New South Wales',b'Ah Tick',,b'5 June 08',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'June 08',,b'China',b'Empire',,b'St Albans',
+7473992,1,,b'08/361',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,,,,,,,b'Eastern',b'Sydney'
+7473995,1,b'21',,b'John Baxter',b'New South Wales',b'Suey Ted',,,b'Chinese',b'Canton',b'49 years',,,b'Dark',b'Medium',b'Brown',,b'July 08',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7473995,4,,b'08/391',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'49 years',,,b'Dark',b'Medium',b'Brown',,b'July 08',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+7473995,7,,b'08/392',b'John Baxter',b'New South Wales',b'Young Duck',,b'1st July 08',b'Chinese',b'Canton',b'49 years',,,b'Dark',b'Medium',b'Brown',,b'July 08',,b'China',b'Eastern',,b'Eastern',b'Cairns'
+7473996,1,,,b'John Baxter',b'New South Wales',,,b'2 July 08',b'Chinese',b'Canton',,,,,,,,b'July 08',,b'China',,,,b'Sydney'
+7473996,3,,b'08/401',b'John Baxter',b'New South Wales',b'Young Wing',,,,,,,,,,,,,,,,,,b'Sydney'
+7473996,5,,,,,,,,,,,,,,,,,b'July 08',,b'China',b'Eastern',,b'Empire',b'Sydney'
+7473997,1,,b'08/411',,b'New South Wales',b'Ah Chow',,b'20 July 08',b'Chinese',,,,,,,,,,,b'China',,,,
+7474000,1,,b'08/441',b'John Baxter',b'New South Wales',,b'three years',b'5 Augst 08',b'Chinese',b'Canton',,,b'5ft 8in in Boots',b'Dark',b'Medium',b'Brown',b'-',,,b'China',b'Changsha',,,b'Sydney'
+7530121,3,,b'07/81',,b'New South Wales',b'Ah Chung',b'Three years',,b'Chinese',b'Canton',b'36 years',,,b'Dark',b'Medium',b'Brown',,b'Jany 07',,b'China',b'Kumano Maru',,b'Empire',b'Sydney'
+7530121,5,,,b'John Baxter',b'New South Wales',b'Ah Lock',,b'29 Jany 07',b'Chinese',b'Canton',b'39 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Empire',b'Sydney'
+7530121,7,,,b'John Baxter',b'New South Wales',b'Ah Lock',,b'29 Jany 07',b'Chinese',b'Canton',,,b'5ft 8in in Boots',b'Dark',b'Medium',b'Brown',,b'Jany 07',,b'China',b'Kumano Maru',,b'Empire',b'Sydney'
+7530121,9,,b'07/83',b'John Baxter',b'New South Wales',b'Tick Fong',b'Three years',,b'Chinese',b'Canton',,,,,b'Medium',b'Brown',b'Scar corner right eyebrow',,,b'China',b'Kumano Maru',,b'Eastern',b'Sydney'
+7530121,11,,,b'John Baxter',b'New South Wales',b'Tick Fong',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Kumano Maru',,b'Eastern',b'Sydney'
+7530121,13,,b'07/84',b'John Baxter',,,,,b'Chinese',b'Canton',,,,,b'Medium',b'Brown',b'Small black spot or mole in right eyebrow',,,b'China',,,b'St Albans',b'Brisbane'
+7530121,15,b'44',b'63',b'William Lawson',b'New South Wales',,,b'23 May 10',b'Chinese',b'Canton',,,,,,,,,,b'China',,,b'St Albans',b'Brisbane'
+7961221,1,b'483',b'011',,b'New South Wales',,,,b'Chinese',b'Canton',b'49 years',,,b'Black',b'Brown',b'Brown',,,b'Sydney',b'China',,,,b'Sydney'
+7961263,3,b'487',b'032',,,,,,b'Chinese',b'Canton',b'54 years',b'Dark',,b'Black',b'Medium',b'Brown',b'Small mole below right ear',,,b'China',,,b'Tanda',b'Sydney'
+7961263,5,b'487',b'033',b'William Henry Barkley',b'New South Wales',b'Ah Young',,b'11 Feb 1931',b'Chinese',b'Canton',,b'Dark',,,b'Medium',b'Brown',b'Nil',b'11 Feb 1931',,b'China',,,,
+7961263,7,b'487',b'034',,b'New South Wales',,,b'13th Feby 1931',b'Chinese',b'Canton',,b'Dark',,,b'Slight',,,b'21/2/1931',b'Sydney',b'China',b'Taiping',,,b'Sydney'
+7961263,9,,,,,b'Louey Chong',,,b'Chinese',b'Canton',b'60 years',b'Dark',,,,b'Brown',b'Scar right temple',,b'Sydney',b'China',b'Taiping',,b'Changte',
+7961263,11,b'487',b'036',b'WILLIAM HENRY BARKLEY',,,,b'18.2.31',b'Chinese',,,,,,,,,b'21.2.31',b'Sydney',b'China',,,,
+7961263,13,b'487',b'037',,,,,,b'Chinese',b'Canton',b'59 years',b'Dark',,b'Black',b'Medium',b'Brown',,,b'Sydney',b'China',,,,b'Sydney'
+7961263,15,b'487',b'038',b'WILLIAM HENRY BARKLEY',b'NEW SOUTH WALES',b'Chu Len',b'THREE YEARS',b'18.2.31',b'Chinese',b'Canton',b'49 years',b'Dark',,b'Black',,b'Brown',,,b'Sydney',b'China',,,b'Nankin',b'Sydney'
+7961263,17,b'487',b'040',,,b'Young Kee',,,b'Chinese',b'Canton',b'59 years',b'Dark',,b'Black',,b'Brown',,b'21 FEB 1931',b'Sydney',b'China',b'Taiping',,,
+7961362,1,b'510',b'021',,b'New South Wales',b'Ah Loo',,b'7.12.33',b'Chinese',b'Canton',,,,,,,,b'11.1.30',b'Sydney',b'China',b'Tanda',,b'Taiping',b'Sydney'
+7961523,1,b'543',b'21',b'George Finlay Ashton Mitchell',b'New South Wales',b'Ah Yen',,,b'Chinese',b'Canton',b'44 years',b'Dark',,b'Black',b'Medium',b'Brown',,,b'Sydney',b'China',,,,b'Sydney'
+7961634,1,b'565',b'41',,,,,b'10/5/1946',b'Chinese',b'Canton',,,,,,,,b'13/8/1940',b'Sydney',b'China',b'Nankin',,b'Taiping',b'Sydney'
+7961634,3,b'565',b'42',,,,,b'10/5/1946',b'Chinese',b'Canton',,,,,,,,,,,,,,
+7961634,6,,b'44',,,,,,b'Chinese',b'Canton',,,,,,,,,,,,,,
+7961662,1,,,,,,b'THREE YEARS',,,,,,,,,,,,,,,,,
+7961662,3,b'571',b'22',,,,,b'13 DEC 1946',b'Chinese',b'Canton',,,,,,,b'Mole on chin',,,,,,,
+7961662,5,,,b'Thomas Davis Carroll',,b'Ah Gow',,,b'Chinese',b'Canton',,,,,,,,,b'Sydney',,,,,
+7961662,7,b'571',b'24',,,,,,,,,,,,b'slight',,,,b'Sydney',,,,,
+7961662,9,,,,,,,,,,b'62 years ',,,,,,,,,b'China',,,,
+7961662,12,,,,,,,,b'Chinese',b'Canton',,,b'5 ft 4 1/2 in (Boots)',,,,,,,,,,,
+7961662,16,,,,,,b'THREE YEARS',b'14 DEC 1946',b'Chinese',,,b'Dark',,b'Grey',b'Medium',b'Brown',,,,,,,,
+7961662,18,,,,,,,,,,,,,,,,b'Mole right cheek ',b'18.12.46',b'Sydney ',b'China ',,,,
+7961662,20,,,,,,,,b'Chinese',b'Canton',,,,,b'Medium',b'Brown',b'Small scar above right eyebrow',,b'Sydney',b'China',,,,b'Sydney'
+11002059,1,,b'18/241',b'John Baxter',b'New South Wales',b'Paug Sam',,b'13 April 08',b'Chinese',b'Canton',b'34 years',,,b'Dark',b'Medium',b'Brown',b'Mark like scar on nose',b'April 08',,b'China',,,,b'Sydney'
+11002059,5,,,b'John Baxter',,,,,b'Chinese',,b'34 years',,,b'Dark',b'Medium',b'Brown',b'mark like scar on nose',b'April 08',,b'China',,,,b'Sydney'
+11009610,1,,b'07/561',b'John Baxter',b'New South Wales',b'Charles See Ling',,,b'Chinese',b'Canton',b'28 years',,,b'Dark',b'Medium',b'Brown',,b'Dec 07',,b'China',b'Kumano Maru',,b'Aldenham',
+11017343,4,,,b'Lockyer',b'New South Wales',b'Maroon Joseph',b'Three years',b'13th July 06',b'Assyrian',b'Assyria',,,,b'Dark',b'Medium',b'Brown',,b'14th July 06',,b'Syria',,,,b'Sydney'
+11017343,7,,,,,,,,,,b'28 years',,,b'Dark',b'Medium',b'Brown',,,,b'Syria',b'Orontes',,,
+11017343,9,,b'06/252',b'Nicholas C Lockyer',b'New South Wales',,,b'13th July 06',b'Assyrian',b'Assyria',b'34 years',b'Dark',,b'Black',b'Medium',b'Brown',,b'14th July 06',,b'Syria',,,,b'Sydney'
+11017343,11,,,,b'New South Wales',b'Ah Gee',,b'17 July 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'July 06',,b'China',b'Nikko Maru',,b'Eastern',b'Sydney'
+11017343,13,,,,b'New South Wales',,,b'17 July 06',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'July 06',,b'China',b'Nikko Maru',,b'Eastern',b'Sydney'
+11017344,1,,,,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,,,,,
+11017344,3,,b'06/262',,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Augst 06',,,b'Empire',,,b'Sydney'
+11017344,5,,b'06/263',b'Nicholas C Lockyer',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,,b'China',b'Australian',,b'Eastern',b'Sydney'
+11017344,9,,b'06/265',b'Nicholas C Lockyer',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Australian',,b'Eastern',b'Sydney'
+11017347,1,,b'06/291',b'John Baxter',b'New South Wales',,b'3 Sept 06',b'3 Sept 06',b'Chinese',b'Canton',b'46 years',,,b'Dark',b'Thin',b'Brown',,,,b'China',b'Empire',,b'Eastern',b'Sydney'
+11017347,3,,b'06/291',,,,b'Three years',,b'Chinese',b'Canton',,,b'5ft 7 1/4in in Boots',b'Dark',b'Thin',b'Brown',,b'Sept 06',b'China',b'China',b'Empire',,b'Eastern',b'Sydney'
+11017347,5,,b'06/292',b'John Baxter',b'New South Wales',b'Ah Kegg',b'Three Years',b'4 Sept 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Empire',,,
+11017347,7,b'B 06/3324',b'06/292',b'John Baxter',b'New South Wales',b'Ah Kegg',,b'4 Sept 06',b'Chinese',b'Canton',,,,,,,,b'Sept 06',,b'China',b'Empire',,,
+11017347,9,,b'06/293',b'John Baxter',,,,,b'Chinese',b'Canton',b'44 years',,,,b'Medium',b'Brown',b'None visible',b'Sept 06',,b'China',b'Empire',,b'Aldenham',b'Sydney'
+11017347,11,,,b'John Baxter',,,,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Sept 06',,b'China',b'Empire',,b'Aldenham',
+11017347,13,,,b'John Baxter',b'New South Wales',,b'Three years',b'5 Sept 06',b'Chinese',b'Canton',,,,b'Dark',b'Thin',b'Brown',b'Scar on right temple',b'Sept 06',b'China',b'China',b'Empire',,b'Eastern',b'Sydney'
+11017347,15,,b'06/294',b'John Baxter',b'New South Wales',,,b'5 Sept 06',,b'Canton',b'37 years',,,b'Dark',b'Thin',b'Brown',,b'Sept 06',,b'China',b'Empire',,b'Eastern',b'Sydney'
+11017347,18,,,b'John Baxter',b'New South Wales',b'Hee War',,b'5 Sept 06',b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,b'Sept 06',,b'China',b'Empire',,,b'Sydney'
+11017352,1,b'21',b'06/391',,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Empire',,b'Eastern',
+11017353,1,,b'06/321',b'Nicholas C Lockyer',b'New South Wales',,b'three years',b'5 Oct 06',b'Chinese',b'Canton',b'31 years',,,b'Dark',b'Medium',b'Brown',,b'Oct 06',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+11017353,3,,,,b'New South Wales',,b'three years',b'5 Oct 06',b'Chinese',b'Canton',b'31 years',,,b'Dark',b'Medium',b'Brown',,b'Oct 06',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+11017353,5,,,b'Nicholas C Lockyer',b'New South Wales',b'Lim Dun',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Scars under right jaw',b'Oct 06',,b'China',b'Eastern',,b'Eastern',
+11017353,15,,b'06/325',,b'New South Wales',b'Antony Saleh',,b'5th Oct 1906',b'Turk',,b'34 years',,,,,b'Brown',,b'Oct 06',,,,,,
+11017354,1,,,,,,,,b'Chinese',,,,,,,,,,b'Sydney',,,,,
+11017355,1,,b'06/421',b'Lockyer',b'New South Wales',b'Ah Hook',b'Three years',b'14 Dec 06',b'Chinese',b'Canton',b'30 years ',,b'5 ft 5 1/2 in in Boots',b'Dark',b'Medium',b'Brown',,b'Dec 06',,b'China',,,b'Eastern',b'Sydney'
+11017355,3,,,,b'New South Wales',b'Ah Hook',,b'14 Dec 06',b'Chinese',b'Canton',b'30 years',,,b'Dark',b'Medium',,b'Small black spot like mole between eyebrows',b'Dec 06',,,,,b'Eastern',b'Sydney'
+11017355,5,,,b'Nicholas C Lockyer',b'New South Wales',,,b'17 Dec 06',b'Chinese',b'Canton',b'34 years',,,b'Dark',b'Medium',b'Brown',,b'Dec 06',,b'China',,,b'Eastern',b'Sydney'
+11017357,1,,b'06/311',b'John Baxter',b'New South Wales',b'Jan Nap',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Oct 06',,b'China',b'Eastern',,b'Empire',b'Sydney'
+11017357,3,,b'06/312',b'John Baxter',b'New South Wales',b'Ah Lock',,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Oct 06',,b'China',,,,b'Sydney'
+11017357,5,b'21',,,,,,,,,,,,,,,,b'Oct 06',,b'China',b'Eastern',,b'Aldenham',b'Sydney'
+11017357,7,,b'06/313',b'John Baxter',b'New South Wales',b'Ching Hoy',,b'4 Oct 06',b'Chinese',b'Canton',,,,,,,,b'Oct 06',,b'China',,,,b'Sydney'
+11017358,1,,b'07/2',,b'New South Wales',,,,b'Chinese',,,,,,,,,,,b'China',,,b'Aldenham',b'Sydney'
+11017358,2,,,,b'New South Wales',b'Ah Sue',,,b'Chinese',b'Canton',,,,,,,,b'Dec 03',,,,,b'Aldenham',b'Sydney'
+11017358,3,,b'07/3',,b'New South Wales',,,,b'Chinese',,b'41 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern',,,b'Sydney'
+11017363,1,,,b'John Baxter',b'New South Wales',,,,b'Syrian',b'Syria',b'30 years',,,b'Dark',,b'Brown',,,,b'Syria',,,,b'Sydney'
+11017363,4,,,,b'New South Wales',,b'Three years',,b'Syrian',b'Syria',,,,b'Dark',,b'Brown',,,,b'Syria',,,b'Konigin Luise',b'Sydney'
+11017363,6,,b'07/112',,,b'Mary Saleba',b'Three years',,b'Syrian',b'Syria',b'25 years',,,b'Dark',,b'Brown',b'Tattoo mark back of left hand',b'Feby 07',,b'Syria',,,,b'Sydney'
+11017363,10,,b'07/112',b'John Baxter',b'New South Wales',,,b'20 Feby 07',b'Syrian',b'Syria',,,,b'Dark',b'Medium',b'Brown',b'Tattoo mark back of left hand',b'Feby 07',,b'Syria',b'Orontes',,,b'Sydney'
+11017364,1,,,,,b'John Baxter',,,b'Chinese',b'Canton',b'36 years',,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'China',,,b'Eastern',b'Sydney'
+11017367,1,,,b'John Baxter',b'New South Wales',b'Lock Hee',b'Three years',b'5 March 07',b'Chinese',b'Canton',b'32 years',,,,b'Medium',,,b'March 07',,b'China',b'Empire',,b'Aldenham',b'Sydney'
+11017367,3,,,b'John Baxter',,b'Lock Hee',,,b'Chinese',b'Canton',b'32 years',,,,,,,,,b'China',b'Empire',,b'Aldenham',b'Sydney'
+11017367,5,,,,,,,,b'Chinese',b'Canton',b'42 years',,,b'Dark',,b'Brown',,,,b'China',b'Empire',,b'Changsha',b'Sydney'
+11017367,7,,,b'John Baxter',,,,,b'Chinese',b'Canton',b'42 years',,,b'Dark',,b'Brown',,,,b'China',b'Empire',,b'Changsha',b'Sydney'
+11017369,1,,,b'John Baxter',b'New South Wales',,,b'20 March 07',b'Chinese',b'Canton',,,,,b'Medium',b'Brown',,,,b'China',,,,b'Sydney'
+11017369,3,,,,,,,,,,,,,b'Dark',,,,b'March 07',,b'China',,,,
+11017370,3,,b'07/252',b'John Baxter',b'New South Wales',b'Lee Foon',,,,b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern',,b'Eastern',b'Sydney'
+11017371,1,,b'07/281',b'John Baxter',b'New South Wales',,,b'22 May 07',b'Chinese',,,,b'5ft 8 1/4in in Boots',b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+11017371,3,,b'07/281',b'John Baxter',b'New South Wales',b'Andrew Charley Chum',,,b'Chinese',b'Canton',,,,,,,,,,b'China',,,b'Eastern',b'Sydney'
+11017371,6,,,b'John Baxter',b'New South Wales',,,b'29 May 07',b'Syrian',,b'27 years',,,b'Dark',,b'Brown',,,b'Sydney',b'Syria',b'Zieten',,,
+11017371,8,,b'07/284',b'John Baxter',,,,b'29 May 07',b'Syrian',b'Mount Lebanon',b'27 years',,,b'Dark',b'Medium',b'Brown',,,b'Sydney',b'Syria',,,b'Zieten',
+11017371,10,,,b'John Baxter',,,,,b'Chinese',b'Canton',b'30 years',,b'5ft 6in in Boots',b'Dark',b'Medium',b'Brown',,,,,b'Empire',,,b'Sydney'
+11017371,12,,,b'John Baxter',b'New South Wales',b'Wong Fook',,,b'Chinese',b'Canton',b'30 years',,b'5ft 6in in Boots',b'Dark',,,,,,b'China',b'Empire',,,b'Sydney'
+11017371,14,,b'07/286',b'John Baxter',b'New South Wales',b'Sam Lee',,b'29 May 07',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'June 07',,b'China',b'Empire',,b'Eastern',b'Sydney'
+11017371,18,,,b'John Baxter',b'New South Wales',b'Sam Lee',,,b'Chinese',b'Canton',b'46 years',,b'5ft 6in in Boots',b'Dark',,b'Brown',,b'June 07',,b'China',b'Empire',,b'Eastern',b'Sydney'
+11017371,20,,b'07/287',,b'New South Wales',,b'three years',b'29 May 07',b'Chinese',b'Canton',,,,b'Dark',b'Stout',b'Brown',,b'June 07',,b'China',b'Empire',,b'Empire',b'Sydney'
+11017371,22,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Stout',b'Brown',,,,b'China',b'Empire',,b'Empire',b'Sydney'
+11019740,1,,,,b'New South Wales',,,b'9-9-08',b'Chinese',b'Canton',,,,,,b'Brown',b'Mole on forehead over right eyebrow',,b'Sydney',b'China',,,,
+11019740,3,,,b'John Baxter',b'New South Wales',b'Ah Sun',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Kumano Maru',,b'Eastern',b'Sydney'
+11019740,5,,b'07/62',b'John Baxter',b'New South Wales',,,,,b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small mole near corner left eye',,,b'China',b'Kumano Maru',,b'Eastern',b'Sydney'
+11019740,7,,,b'John Baxter',,b'Ah Chong',b'Three years',b'25 Jany 07',b'Chinese',b'Canton',b'45 years',,,,b'Medium',b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+11019740,9,,b'07/63',b'John Baxter',b'New South Wales',,,b'25 Jany 07',b'Chinese',b'Canton',,,b'5ft 7in in Boots',b'Dark',b'Medium',,,b'Jany 07',,b'China',b'Kumano Maru',,b'Eastern',b'Sydney'
+11019740,11,,b'07/63',b'John Baxter',b'New South Wales',b'Duck Foon',,b'25 Jany 07',b'Chinese',b'Canton',,,b'5ft 7in in Boots',b'Dark',b'Medium',b'Brown',,b'Jany 07',,b'China',b'Kumano Maru',,b'Eastern',b'Sydney'
+11019740,13,,b'07/64',b'John Baxter',b'New South Wales',b'Ah Lun',b'Three years',,b'Chinese',b'Canton',b'37 years',,,b'Dark',b'Stout',b'Brown',,,,b'China',,,,b'Sydney'
+11019740,15,,b'07/64',b'John Baxter',b'New South Wales',b'Ah Lun',,b'25 Jany 07',b'Chinese',b'Canton',b'37 years',,,b'Dark',b'Stout',b'Brown',b'Long scar under right eye',,,,b'Kumano Maru',,,b'Sydney'
+11019740,17,,,b'John Baxter',b'New South Wales',,,,b'Indian',b'Goa',b'50 years',b'Dark',,b'Dark',,,,,,b'Goa',,,b'Oceanien',b'Sydney'
+11019740,19,,b'07/65',b'John Baxter',b'New South Wales',,b'Three years',,b'Indian',b'Goa',,b'Dark',,b'Dark',b'Medium',b'Brown',,,,b'Goa',,,,b'Sydney'
+11045218,1,,b'08/21',b'John Baxter',b'New South Wales',b'Tommy Poy',b'Three years',b'7 Jany 08',b'Chinese',b'Canton',b'37 years',,b'5ft 2in in Boots',b'Dark',b'Medium',b'Brown',b'Small mark or scar each side of mouth',b'Jany 08',,b'China',b'Eastern',,b'Aldenham',b'Sydney'
+11045218,7,,b'08/22',b'John Baxter',b'New South Wales',b'Sheer Singh',b'Three years',,b'Indian',b'Punjaub',b'35 years',b'Dark',b'5ft 6 1/2 in in Boots',b'Dark',b'Medium',b'Brown',b'Small round scar left forearm near elbow',b'11 Jany 08',,b'India',b'Orient Line',,b'RMS Orontes',b'Sydney'
+11045218,9,,b'08/23',b'John Baxter',b'New South Wales',b'Kurram Khan',,b'7 Jany 08',b'Indian',b'Punjaub',b'45 years',b'Dark',,b'Dark',b'Medium',b'Brown',b'Face Pockmarked. Right Jaw Broken',b'Jany 08',,b'India',b'Orient Line',,,
+11045218,11,,b'08/24',b'John Baxter',b'New South Wales',b'Jungah Khan',b'Three years',b'7 Jany 08',b'Indian',b'Punjaub',,b'Dark',,b'Dark',b'Medium',b'Brown',,b'Jany 08',,b'India',b'Orient Line',,,b'Sydney'
+11045218,15,,b'08/24',b'John Baxter',b'New South Wales',b'Jungah Khan',b'Three Years',b'7 Jany 08',b'Indian',b'Punjaub',b'37 Years',b'Dark',b'5ft 8 1/2 in in Boots',b'Dark',b'Medium',b'Brown',,b'Jany 08',,b'India',b'Orient Line',,,b'Sydney'
+11045218,17,,b'08/25',b'John Baxter',b'New South Wales',b'Ah How',,b'7th Jany 08',b'Chinese',b'Canton',b'42 Years',,b'5ft 1 1/4 in in Boots',b'Dark',b'Medium',b'Brown',,b'Jany 08',,b'China',b'Eastern',,b'Empire',b'Sydney'
+11045218,19,,b'08/25',b'John Baxter',b'New South Wales',b'Ah How',b'Three years',b'7 Jany 08',b'Chinese',b'Canton',b'42 years',,b'5ft 1 1/4in in Boots',b'Dark',b'Medium',b'Brown',,b'Jany 08',,b'China',b'Eastern',,b'Empire',b'Sydney'
+11045221,1,b'08',,b'John Baxter',b'New South Wales',b'Quan Chock',b'Three years',,b'Chinese',b'Canton',b'29 years',,b'5ft 8 1/4 in in boots',b'Dark',b'Medium',,b'Small scar in hair above left temple',b'Feby 08',,b'China',,,b'Empire',b'Sydney'
+11050507,1,,,b'John Baxter',b'New South Wales',b'King Hoe',,b'26 March 07',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,b'Sydney',b'China',b'Nikko Maru',,b'Eastern',b'Sydney'
+11052106,1,,,,,b'John Baxter',,,b'Chinese',,b'50 years',,,b'Dark',,b'Brown',,,,b'China',b'Tsinan',,,
+11052106,3,,,b'John Baxter',b'New South Wales',b'Charlie Loy',,,b'Chinese',b'Canton',b'43 years',,,b'Dark',b'Slight',b'Brown',,,,b'China',b'Aldenham',,b'Eastern',b'Sydney'
+11052106,5,b'21',,,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'16 May 07',,b'China',b'Aldenham',,b'Eastern',
+11063292,1,,b'08/101',b'John Baxter',b'New South Wales',b'Ah Shee',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Face pockmarked',,b'Sydney',b'China',b'Empire',,b'Empire',
+11063293,1,,b'Form No. 21.',b'John Baxter',b'New South Wales',b'Hom Chong',b'Three years',b'14 March 08',b'Chinese',b'Canton',b'41 years',,b'5 ft 6 1/2 in in Boots',b'Dark',,b'Brown',b'Small mark like growth front of left ear',b'March 08',,b'China',b'Eastern',,b'Changsha',b'Sydney'
+11063293,4,,b'From No.  21.',b'John Baxter actg',b'New South Wales',b'Hom Chong',b'Three years',b'14 March 08',b'Chinese',b'Canton',b'41 Years',,,b'Dark',b'Medium',b'Brown',b'Small mark like growth front of left ear',b'March 08',,b'China',,,b'Changsha',b'Sydney'
+11063293,6,b'21',b'08/172',b'John Baxter',b'New South Wales',b'Charles Skype',b'Three years',b'16 Mar 08',b'Syrian',b'Mt Lebanon',,,b'5ft 10in in Boots',b'Dark',b'Medium',b'Brown',,b'Mar 08',,b'Syria',b'Orient Line',,,
+11063293,8,,b'08/174',b'John Baxter',b'New South Wales',b'King Lee',b'Three Years',b'16 Mar 08',b'Chinese',b'Canton',,,b'5ft 7 3/4 in in Boots',b'Dark',b'Medium',b'Brown',b'Peculiar scar between eyebrows',b'Mar 08',,b'China',,,b'Empire',
+11063293,10,,b'08/174',b'John Baxter',b'New South Wales',,b'Three years',b'16 March 08',b'Chinese',b'Canton',b'38 years',,,b'Dark',b'Medium',b'Brown',b'Peculiar scar between eyebrows',b'Mar 08',,b'China',b'Kumano Maru',,b'Empire',b'Sydney'
+11063293,12,,b'08/175',b'John Baxter actg',b'New South Wales',,,b'16 Mar 08',b'Chinese',b'Canton',b'39 Years',,,b'Dark',b'Medium',b'Brown',"b'Scar on left ear, Knuckle 2nd finger left hand injured'",b'Mar 08',,b'China',b'Kumano Maru',,b'Eastern',b'Sydney'
+11063293,16,,b'08/175',b'John Baxter',b'New South Wales',b'Leing Sinn ',b'Three years',b'16 Mar 08',b'Chinese',b'Canton',b'39 years',,,b'Dark',b'Medium',b'Brown',"b'Scar on left ear, Knuckle 2nd finger left hand injured'",b'Mar 08',,b'China',b'Kumano Maru',,b'Eastern',b'Sydney'
+11063293,18,,b'08/176',b'John Baxter',b'New South Wales',,b'Three years',b'18 Mar 08',b'Chinese',b'Canton',,,b'5 ft - 4 1/2 in in Boots ',b'Dark',b'Medium',b'Brown',,b'Mar 08',,b'China',b'Kumano Maru',,b'St Albans',b'Sydney'
+11063293,20,,b'21',b'John Baxter',b'New South Wales',b'Ah Dung',,b'18 Mar 08',b'Chinese',b'Canton',b'24 Years',,b'5ft 4 1/4 in in Boots',b'Dark',b'Medium',b'Brown',,b'Mar 08',,b'China',b'Kumano Maru',,b'Changsha',b'Sydney'
+11063293,22,,,b'John Baxter',b'New South Wales',,b'Three years',b'18 Mar 08',b'Chinese',b'Canton',,,,,,b'Brown',,b'Mar 08',,b'China',,,b'Changsha',b'Sydney'
+11063293,24,,b'08/178',b'John Baxter',b'New South Wales',b'John Hock',,b'18 Mar 08',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,,b'China',b'Changsha',,,b'Sydney'
+11063293,28,,b'08/178',b'John Baxter',b'New South Wales',b'John Hock',,b'18 Mar 08',b'Chinese',,,,,b'Dark',,b'Brown',,,,b'China',,,,b'Sydney'
+11082854,1,b'08/132',b'08/132',b'John Baxter',b'New South Wales',b'William Mark Joe',,,b'Chinese',b'Sydney 22/9/02',,,,b'Dark',,b'Brown',,,,b'China',,,,
+11082854,3,,b'08/133',b'John Baxter',b'New South Wales',b'Lizzie Mark Joe',,,b'Chinese',,,,,b'Dark',,b'Brown',,,,b'China',,,,
+11082854,5,,b'08/134',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Nikko Maru',,,b'Sydney'
+11082854,7,b'08/134',b'08/134',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,,b'China',,,b'Aldenham',b'Sydney'
+11082854,9,,b'08/135',b'John Baxter',b'New South Wales',b'Boo She',,,,,,,b'Dark',,,,,,,b'China',,,b'St Albans',b'Sydney'
+11082854,11,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'42 years',,,b'Dark',b'Medium',b'Brown',,,,,,,b'St Albans',b'Sydney'
+11085778,1,,,b'John Baxter',b'New South Wales',b'See Sing',,,b'Chinese',,b'29 years',,b'5ft 7in in Boots',b'Dark',,b'Brown',,,,b'China',,,,
+11085778,3,,,b'John Baxter',b'New South Wales',b'See Sing',,b'25 September 07',b'Chinese',b'Canton',,,,b'Dark',b'Slight',b'Brown',,,,b'China',,,b'Aldenham',b'Sydney'
+11085778,5,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',b'35 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Empire',b'Sydney'
+11085778,7,,,b'John Baxter',b'New South Wales',b'Wing Sing',b'Three years',,b'Chinese',b'Canton',b'35 years',,,b'Dark',b'Medium',b'Brown',b'Scar corner right eyebrow',,,b'China',,,b'Empire',b'Sydney'
+11085778,9,,,b'John Baxter',b'New South Wales',,,,,,,,,,,,,,,,,,,
+11085779,1,,b'07/411',b'John Baxter',b'New South Wales',b'Young Chong',,b'1st Oct 07',b'Chinese',b'Canton',,,,b'Dark',b'Thin',b'Brown',,b'Oct 07',b'Sydney',b'China',,,,b'Sydney'
+11085779,3,,,b'John Baxter',b'New South Wales',b'Young Chong',,,b'Chinese',b'Canton',,,,,,,,,,b'China',b'Kumano Maru',,,b'Sydney'
+11085779,5,,b'07/412',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',,,,,,b'China',b'Kumano Maru',,,b'Brisbane'
+11085779,7,,,,b'New South Wales',,,,b'Chinese',,b'32 years',,,b'Dark',,b'Brown',b'-',b'Oct 07',,b'China',b'Kumano Maru',,b'Empire',b'Sydney'
+11085779,9,,,b'John Baxter',b'New South Wales',b'Mew Joe',,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,,b'China',,,b'Empire',b'Sydney'
+11087618,1,b'21',,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,b'-',,b'Dark',b'Medium',b'Brown',,b'Jany 07',,b'China',b'Eastern',,b'Eastern',b'Sydney'
+11087619,1,,,b'John Baxter',,b'John Baxter',,b'2 April 07',b'Indian',,,,,b'Dark',,,b'Small scar corner right eyebrow',b'April 07',b'Sydney',b'India',b'Orsova',,,b'Sydney'
+11087619,4,,,b'John Baxter',b'New South Wales',,,,,,,,,,,,,,,,,,,
+11087620,2,b'21',,,,,b'three years',,,,,,,,,,,,,,,,,
+11096401,1,,b'07/381',b'John Baxter',b'New South Wales',b'Ching Long',b'Two years',b'29th August 1907',b'Chinese',b'Canton',,,,,,,,,,,,,,
+11096401,2,,b'07/382',b'John Baxter',b'New South Wales',,,b'30 August 07',b'Chinese',b'Canton',b'44 years',,b'5ft 9 1/2 in in Boots',b'Dark',b'Stout',b'Brown',,b'Augst 07',,b'China',b'Empire',,b'Empire',b'Sydney'
+11096401,4,,b'07/382',b'John Baxter',b'New South Wales',b'Three Years',b'Three Years',,b'Canton',b'Canton',b'44 years ',,,b'Dark',,b'Brown',,,,b'China',b'Empire',,b'Empire',b'Sydney'
+11096401,6,,b'07/383',b'John Baxter',b'New South Wales',,b'Three years',b'30 Augst 07',b'Chinese',b'Canton',b'50 Years',,b'5ft 6in in Boots',b'Dark',b'Stout',b'Brown',,,,b'China',b'Empire',,b'Empire',b'Sydney'
+11096401,8,,,b'John Baxter',,,,,b'Chinese',,b'50 years',,,b'Dark',b'Stout',b'Brown',b'Small mole just under left eye',,,,b'Empire',,b'Empire',b'Sydney'
+11096401,10,,,b'John Baxter',b'New South Wales',b'Ah You',,,b'Chinese',,b'52 years',,,b'Dark',b'Medium',b'Brown',,b'Sept 07',,b'China',b'Empire',,b'Eastern',b'Sydney'
+11096401,12,,,b'John Baxter',b'New South Wales',b'Ah You',,b'30 August 07',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Empire',,b'Eastern',b'Sydney'
+11096401,16,,,b'John Baxter',b'New South Wales',b'Chung Fong',,b'2 Sept 07',b'Chinese',b'Canton',b'36 years',,,b'Dark',,,,,,b'China',b'Empire',,b'Eastern',b'Sydney'
+11096401,18,,b'07/385',b'John Baxter',b'New South Wales',b'Chung Fong',b'Three years',,b'Chinese',b'Canton',b'36 years',,,,b'Medium',b'Brown',b'Mole on right eyelid',,,b'China',b'Empire',,b'Eastern',b'Sydney'
+11096401,20,,,,b'New South Wales',,,,b'Chinese',b'Canton',b'35 years',,,,b'Medium',b'Brown',,,,b'China',b'Empire',,b'Eastern',b'Sydney'
+11096401,22,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Empire',,b'Eastern',
+11096401,24,,b'07/387',,b'New South Wales',b'Ah Yee',,b'2 Sept 07',b'Chinese',b'Canton',b'45 years',,,b'Dark',b'Medium',b'Brown',b'-',,,b'China',,,,
+11096401,26,,b'07/388',,b'New South Wales',b'Ah Kum',,,b'Chinese',b'Canton',b'45 years',,,b'Dark',b'Medium',b'Brown',b'Two small moles under left eyebrow',,,b'China',,,b'Empire',b'Sydney'
+11098384,1,b'21',b'06/341',b'Nicholas C Lockyer',b'New South Wales',b'Joe Day',,b'25 Oct 06',b'Chinese',b'Canton',b'42 years',,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',b'Kumano Maru',,,b'Brisbane'
+11098384,3,,b'06/342',b'Nicholas C Lockyer',b'New South Wales',b'Charlie Ah Sing',,b'26 Oct 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small scar on forehead above right eye',b'Nov 06',,b'China',b'Nikko Maru',,b'Empire',b'Sydney'
+11098384,5,b'21',b'06/342',b'Nicholas C Lockyer',b'New South Wales',b'Charlie Ah Sing',b'Three years',b'26 Oct 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small scar on forehead above right eye',b'Nov 06',,b'China',b'Nikko Maru',,b'Empire',b'Sydney'
+11098384,7,b'21',,,b'New South Wales',b'Ack Dan',b'three years',b'26 Oct 06',b'Chinese',b'Canton',b'42 years',,,b'Dark',,b'Brown',,b'Nov 06',,b'China',,,,b'Sydney'
+11098384,9,,,,b'New South Wales',b'Ack Dan',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small round scar in front of right ear',b'Nov 06',,,b'Nikko Maru',,,b'Sydney'
+11098384,11,,,,b'New South Wales',b'Lee Kong',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',,,b'Nov 06',,b'China',,,b'Eastern',b'Sydney'
+11098384,13,,,b'Nicholas C Lockyer',,b'Lee Kong',,b'26 Oct 06',b'Chinese',b'Canton',,b'-',,,,,,,,b'China',,,b'Eastern',b'Sydney'
+11098385,1,b'21',,,b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,,,,,,,,b'Sydney'
+11098385,3,,,,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',,,,
+11098385,5,,,,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Eastern',
+11098385,7,,,,b'New South Wales',b'Lee Chan',,,b'Chinese',b'Canton',b'34 years',,,b'Dark',,b'Brown',,,,b'China',b'Australian',,b'Eastern',b'Sydney'
+11098385,9,,b'06/353',,b'New South Wales',b'Ah Sam',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',,,b'Eastern',b'Sydney'
+11098385,11,,b'06/353',,b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,,b'Nov 06',,,b'Australian',,b'Eastern',b'Sydney'
+11098385,13,,,,b'New South Wales',b'See Jan',,b'2 Nov 06',b'Chinese',,b'30 years',,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',,,b'Eastern',b'Sydney'
+11098385,15,,b'06/354',,b'New South Wales',b'See Jan',,b'2 Nov 06',b'Chinese',b'Canton',,,,,,,,,,b'China',,,b'Eastern',b'Sydney'
+11098385,17,,,,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Slight scar on left temple',b'Nov 06',,b'China',,,b'Eastern',b'Sydney'
+11098385,19,,b'06/355',b'Nicholas C Lockyer',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',b'Australian',,b'Eastern',b'Sydney'
+11098385,21,,b'06/356',,b'New South Wales',,,b'2 Nov 06',b'Chinese',b'Canton',,,,,,,b'Scar near right temple',b'Nov 06',,b'China',,,b'Eastern',b'Sydney'
+11098385,23,,,,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',b'Australian',,b'Eastern',b'Sydney'
+11098385,25,,,b'Nicholas C Lockyer',,,,b'2 Nov 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',b'Australian',,b'Eastern',b'Sydney'
+11098385,27,,,,,,b'Three years',b'2 Nov 06',b'Chinese',b'Canton',,,,,b'Medium',b'Brown',,b'Nov 06',,b'China',b'Australian',,b'Eastern',b'Sydney'
+11098385,29,,,,b'New South Wales',,,b'2 Nov 06',b'Chinese',b'Canton',,,,,b'Medium',b'Brown',,b'Nov 06',,b'China',b'Australian',,b'Eastern',b'Sydney'
+11098385,31,,,,b'New South Wales',,b'Three years',b'2 Nov 06',b'Chinese',b'Canton',b'42 years',,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',b'Australian',,b'Eastern',b'Sydney'
+11098386,1,,b'06/361',b'Nicholas C. Lockyer ',b'New South Wales',b'Sang Lee',b'Three years ',b'6 Nov 06',b'Chinese',b'Canton',b'36 Years',,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',b'Australian',,b'Empire',b'Sydney'
+11098386,3,b'21',b'06/361',b'Nicholas C Lockyer',,b'Sang Lee',b'Three years',b'6 Nov 06',b'Chinese',b'Canton',b'36 years',,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'Australian',b'Australian',,b'Empire',b'Sydney'
+11098386,5,b'21',,,b'New South Wales',b'Ah Man',,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Nov 06',,b'China',,,b'Aldenham',b'Sydney'
+11098386,7,b'21',b'06/362',,b'New South Wales',b'Ah Man',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Australian',,,b'Sydney'
+11098386,9,b'21',,,b'New South Wales',,,,b'Chinese',b'New South Wales',b'24 Years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Australian',,b'Eastern',b'Sydney'
+11098386,12,b'21',b'06/365',,b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,b'Scar in hair above right ear',,,b'China',,,b'Chingtu',b'Sydney'
+11098386,14,b'21',b'06/365',,b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,b'Sydney'
+11098386,16,b'21',b'06/366',,b'New South Wales',b'Ah Chee',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,b'Sydney'
+11098386,18,b'21',b'06/366',b'Nicholas C Lockyer',b'New South Wales',,,b'13 Nov 06',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Nov 06',,b'China',b'Changsha',,b'SS Changsha',b'Sydney'
+11098386,20,b'21',,b'Nicholas C Lockyer',b'New South Wales',b'Sow Lee',b'Three years',,b'Chinese',b'Canton',b'35 years',,,b'Dark',b'Medium',b'Brown',b'Mark like hole centre of forehead',b'Nov 06',,b'China',b'Empire',,b'Empire',
+11098386,22,b'21',b'06/367',b'Nicholas C Lockyer',b'New South Wales',b'Sow Lee',,,b'Chinese',b'Canton',,,b'5ft 4 1/4in in Boots',b'Dark',b'Medium',b'Brown',b'Mark like hole centre of forehead',b'Nov 06',,b'China',b'Empire',,b'Empire',b'Sydney'
+11098386,24,,,,b'New South Wales',b'Ah On',,,b'Chinese',b'Canton',,,,b'Dark',,,,b'Nov 06',,b'China',,,b'Empire',b'Sydney'
+11098386,26,,b'06/368',,b'New South Wales',,,b'15 Nov 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Nov 06',,b'China',b'Changsha',,b'Empire',b'Sydney'
+11098386,28,,b'06/369',,b'New South Wales',b'Lee Soon',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',,,b'Nov 06',,b'China',b'Changsha',,b'Eastern',b'Sydney'
+11098386,30,,b'06/369',b'Nicholas C Lockyer',b'New South Wales',b'Lee Soon',b'three years',b'15 Nov 06',b'Chinese',b'Canton',,,b'5ft 2 1/4in in Boots',b'Dark',,b'Brown',,b'Nov 06',,b'China',b'Changsha',,b'Eastern',b'Sydney'
+11098386,32,,b'06/370',b'Nicholas C Lockyer',b'New South Wales',b'Tommy Shong',,,b'Chinese',b'Canton',,,,b'Dark',b'Stout',b'Brown',,b'Nov 06',,b'China',b'Changsha',,b'Aldenham',b'Sydney'
+11098387,1,,,b'John Baxter',b'New South Wales',,,,b'Indian',,,,,,,,,,,b'India',,,,b'Sydney'
+11098387,3,,,b'John Baxter',b'New South Wales',,,,b'Indian',,,b'Dark',,b'Dark',b'Medium',b'Brown',,,,b'India',b'Orient Line',,,b'Sydney'
+11098387,7,,b'07/42',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,,
+11099073,1,b'21',,,,,,,b'Chinese',b'Canton',b'41 years',,b'5ft 10in in Boots',b'Dark',b'Medium',b'Brown',b'Mole left side of chin',b'July 07',,b'China',b'Eastern',,b'Empire',b'Sydney'
+11099073,3,,,b'John Baxter',,b'George Ah Ping',,b'28 June 07',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Mole left side of chin',,,b'China',b'Eastern',,b'Empire',b'Sydney'
+11099073,5,,b'07/332',,,b'Poy Hey',,b'3 July 07',b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'July 07',,b'China',,,b'Eastern',b'Sydney'
+11099073,7,,,b'John Baxter',,b'Rajmul',,b'4 July 07',b'Indian',b'Punjaub',,b'Dark',,b'Dark',b'Medium',b'Brown',,,,b'India',,,b'Hymettus',b'Sydney'
+11099073,9,,b'07/333',b'John Baxter',b'New South Wales',b'Rajmul',b'Three years',b'4 July 07',b'Indian',b'Punjaub',b'32 years',b'Dark',,b'Dark',b'Medium',b'Brown',b'Earrings in each ear',b'July 07',,b'India',b'Orontes',,b'Hymettus',b'Sydney'
+11099073,11,,b'07/334',b'John Baxter',b'New South Wales',,b'Three years',b'5 July 07',b'Chinese',b'Canton',b'40 years',,,b'Dark',b'Medium',b'Brown',b'Mole left side of mouth',b'July 07',,b'China',b'Eastern',,b'Empire',b'Sydney'
+11099073,13,,b'07/334',b'John Baxter',,b'Wah Fui',,b'5 July 07',b'Chinese',b'Canton',b'40 years',,,b'Dark',,b'Brown',,b'July 07',,,b'Eastern',,b'Empire',b'Sydney'
+11099074,1,,b'08/201',b'John Baxter',b'New South Wales',b'Ping Why',,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,b'Mar 08',,b'China',b'Eastern',,,b'Sydney'
+11512778,1,,b'07/232',,,,,,,,,,,b'Dark',b'Medium',b'Brown',,b'Brisbane',,,,,,
+11512778,3,,,b'John Baxter',b'New South Wales',,,b'9 April 07',b'Chinese',b'Canton',b'46 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Eastern',,,
+11512778,5,,,b'John Baxter',b'New South Wales',,,b'9 April 07',b'Chinese',b'Canton',b'46 years',,,b'Dark',b'Medium',b'Brown',,b'April 07',,b'China',b'Eastern',,,
+11512778,7,,b'07/234',,b'New South Wales',,,b'9 April 07',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,,,,,
+11512778,9,,b'07/235',b'John Baxter',b'New South Wales',,,,b'Chinese',,,,,b'Dark',b'Medium',b'Brown',,b'April 07',,b'China',b'Eastern',,,
+11512778,11,,b'07/235',b'John Baxter',b'New South Wales',b'War Young',,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Small scar right corner of mouth',,,b'China',b'Eastern',,b'Empire',
+11512778,13,,b'07/236',b'John Baxter',b'New South Wales',,b'three years',b'11 April 07',b'Chinese',b'Canton',b'33 years',,,b'Dark',,b'Brown',,,,b'China',,,,
+11512778,15,,b'07/237',b'John Baxter',b'New South Wales',,,b'11 April 07',b'Chinese',b'Canton',b'41 years',,,b'Dark',,b'Brown',,b'April 07',,b'China',,,,
+11609500,1,b'07/461',b'07/461',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+11609500,3,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Eastern',b'Sydney'
+11609500,5,,,,b'New South Wales',,,,,b'Canton',,,,b'Dark',b'Medium',b'Brown',,,,b'China',,,b'Aldenham',b'Sydney'
+11609501,1,,,,,b'John Baxter',,,,,,,,,,,,,,,,,,
+11609502,1,,,b'John Baxter',b'New South Wales',,,b'30 Nov 07',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'Dec 07',b'China',b'Empire',,,b'St Albans',b'Sydney'
+11609502,3,,,b'John Baxter',b'New South Wales',b'Woo Lee',b'Three years',b'30 Nov 07',b'Chinese',b'Canton',b'48 years',,,b'Dark',b'Medium',b'Brown',,b'Dec 07',,,b'Empire',,,b'Sydney'
+11614206,1,b'21',,b'Nicholas C Lockyer',b'New South Wales',,,b'22 May 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'May 06',,b'China',b'Kumano Maru',,b'Empire',b'Sydney'
+11614206,3,,,,,b'Ah Toy',,b'22 May 06',,,,,,b'Dark',b'Medium',b'Brown',,b'May 06',,,b'Kumano Maru',,b'Empire',b'Sydney'
+11614206,5,,b'06/202',b'Nicholas C Lockyer',b'New South Wales',b'Yow Hun',,b'22 May 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'May 06',,b'China',,,b'St Albans',b'Sydney'
+11614206,7,,b'06/203',b'Nicholas C Lockyer',b'New South Wales',,,b'23 May 06',b'Chinese',,b'38 years',,,b'Dark',b'Medium',b'Brown',,b'May 06',,b'China',b'Kumano Maru',,b'Eastern',b'Sydney'
+11614206,11,b'21',,,b'New South Wales',,b'Three years',b'24 May 06',,b'Canton',,,,b'Dark',b'Medium',b'Brown',,b'2 May 06',,b'China',b'Emprise',,b'Eastern',b'Sydney'
+11614206,14,,b'06/206',b'Nicholas C Lockyer',b'New South Wales',b'Lee Yun',,b'26 May 06',b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'None visible',b'May 06',,b'China',,,b'Empire',b'Sydney'
+11998112,1,,,,b'New South Wales',,,,,,,,,,,,,,,,,,,
+12027180,1,,b'07/311',b'John Baxter',,,,b'17 June 07',b'Chinese',b'Canton',b'37 years',,,b'Dark',b'Medium',b'Brown',,b'June 07',,b'China',b'Nikko Maru',,b'Aldenham',b'Sydney'
+12027180,5,,,b'John Baxter',,b'Goon Yee',,b'17 June 07',b'Chinese',b'Canton',b'37 years',,,b'Dark',b'Medium',b'Brown',,b'June 07',,b'China',b'Nikko Maru',,b'Aldenham',b'Sydney'
+12027180,7,,b'07/313',b'John Baxter',b'New South Wales',b'Goon Sew',,b'17 June 07',b'Chinese',b'Canton',b'44 years',,,b'Dark',b'Medium',b'Brown',,b'June 07',,b'China',b'Nikko Maru',,b'Aldenham',b'Sydney'
+12027180,9,,b'07/313',b'John Baxter',b'New South Wales',b'Goon Sew',,b'17 June 07',b'Chinese',b'Canton',b'44 years',,,b'Dark',b'Medium',b'Brown',,b'June 07',,b'China',b'Nikko Maru',,b'Aldenham',b'Sydney'
+12027180,11,,b'07/314',b'John Baxter',b'New South Wales',b'Ah Chong',,b'17 June 07',b'Chinese',b'Canton',b'43 years',,,b'Dark',b'Medium',b'Brown',,,,b'China',b'Nikko Maru',,b'Empire',b'Sydney'
+12027180,13,,,b'John Baxter',,b'Ah Chong',,,b'Chinese',b'Canton',,,b'5ft 4 1/2in in Boots',b'Dark',b'Medium',b'Brown',,b'June 07',,b'China',,,b'Empire',b'Sydney'
+12030698,1,,b'08/31',b'John Baxter',b'New South Wales',,b'Three Years',,,,,,,b'Dark',b'Medium',,,,,,b'Changsha',,,
+12030698,3,,b'08/32',b'John Baxter',b'New South Wales',,,,b'Indian',,b'27 years',b'Dark',,b'Dark',,,,,,b'India',,,,
+12030706,1,,b'07/591',b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',,,,,,,,,b'Aldenham',b'Sydney'
+12030706,3,,,b'John Baxter',,b'Way Hoon',,,b'Chinese',b'Canton',,,,,,,,,,b'China',,,b'Empire',b'Sydney'
+12030706,5,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,b'Dark',b'Medium',b'Brown',b'Mole under chin',,,b'China',,,b'Empire',b'Sydney'
+12030709,1,,,b'John Baxter',b'New South Wales',,,,b'Chinese',b'Canton',,,,,,,,,,b'China',,,,
+12030709,3,,,b'John Baxter',,,,b'27 Dec 07',b'Chinese',b'Canton',b'29 years',,,b'Dark',,,,b'Dec 07',,b'China',,,,b'Sydney'
+12030709,5,,,b'John Baxter',,,,,b'Chinese',b'Canton',,,,b'Dark',,b'Brown',,,,b'China',,,b'Aldenham',b'Sydney'
+12035842,1,,,b'John Baxter',,,,,b'Indian',,,b'Dark',,b'Dark',b'Medium',b'Brown',,,,b'India',,,,b'Sydney'
+12035844,3,,,b'John Baxter',b'New South Wales',,,,,b'Canton',,b'-',,b'Dark',,b'Brown',,,,,b'Nikko Maru',,,b'Sydney'
+12096736,1,b'08/181',b'08/181',b'John Baxter',b'New South Wales',b'Nazel Dadour',,b'18 Mar 08',b'Syrian',,b'38 years',,,b'Dark',b'Medium',b'Brown',b'Mole on throat',,,b'Syria',b'German Lloyds',,b'German Lloyds',b'Sydney'
+12096736,3,,,b'John Baxter',,,,,,,,,,,,,,,b'Sydney',b'Syria',,,,
+12096736,5,,,b'John Baxter',b'New South Wales',b'C Farrah',,b'18 Mar 08',b'Syrian',b'Syria',,,,b'Dark',b'Medium',b'Brown',,,,b'Syria',,,,b'Sydney'

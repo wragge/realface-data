@@ -101,12 +101,12 @@ def save_photos(orientation='front'):
     dbclient = MongoClient(MONGO_URL)
     db = dbclient.get_default_database()
     photos = db.subjects.find({'type': 'marked_photo_{}'.format(orientation), 'region.width': {'$gte': 100}, 'region.height': {'$gte': 100}}).batch_size(10)
-    with open(os.path.join('data', 'csv', 'photos-{}-{}.csv'.format(orientation, datetime.now().strftime('%Y%m%d'))), 'wb') as csv_file:
+    with open(os.path.join('data', 'csv', 'photos-{}-{}.csv'.format(orientation, datetime.now().strftime('%Y%m%d'))), 'w') as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(['barcode', 'page', 'page_url', 'crop_filename', 'x', 'y', 'width', 'height'])
         for photo in photos:
             im_url = photo['location']['standard']
-            print im_url
+            print(im_url)
             details = re.search(r'(\d+)-p(\d+)\.jpg', im_url)
             pid = '{}-{}'.format(details.group(1), details.group(2))
             try:
@@ -124,7 +124,7 @@ def save_photos(orientation='front'):
                     int(photo['region']['x']) + int(photo['region']['width']) - 10,
                     int(photo['region']['y']) + int(photo['region']['height']) - 10
                 ]
-                print coords
+                print(coords)
                 crop = im.crop(coords)
                 crop.save('data/photos/{}'.format(filename))
             writer.writerow([details.group(1), details.group(2), im_url, filename, photo['region']['x'], photo['region']['y'], photo['region']['width'], photo['region']['height']])
@@ -135,12 +135,12 @@ def save_prints(print_type='handprint'):
     dbclient = MongoClient(MONGO_URL)
     db = dbclient.get_default_database()
     prints = db.subjects.find({'type': 'marked_{}'.format(print_type), 'region.width': {'$gte': 50}, 'region.height': {'$gte': 50}}).batch_size(10)
-    with open(os.path.join('data', 'csv', '{}s-{}.csv'.format(print_type, datetime.now().strftime('%Y%m%d'))), 'wb') as csv_file:
+    with open(os.path.join('data', 'csv', '{}s-{}.csv'.format(print_type, datetime.now().strftime('%Y%m%d'))), 'w') as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(['barcode', 'page', 'page_url', 'crop_filename', 'x', 'y', 'width', 'height'])
         for hprint in prints:
             im_url = hprint['location']['standard']
-            print im_url
+            print(im_url)
             details = re.search(r'(\d+)-p(\d+)\.jpg', im_url)
             pid = '{}-{}'.format(details.group(1), details.group(2))
             try:
@@ -169,12 +169,12 @@ def save_characters():
     dbclient = MongoClient(MONGO_URL)
     db = dbclient.get_default_database()
     chars = db.subjects.find({'type': 'marked_chinese_characters', 'region.width': {'$gte': 20}, 'region.height': {'$gte': 20}}).batch_size(10)
-    with open(os.path.join('data', 'csv', 'characters-{}.csv'.format(datetime.now().strftime('%Y%m%d'))), 'wb') as csv_file:
+    with open(os.path.join('data', 'csv', 'characters-{}.csv'.format(datetime.now().strftime('%Y%m%d'))), 'w') as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(['barcode', 'page', 'page_url', 'crop_filename', 'x', 'y', 'width', 'height'])
         for char in chars:
             im_url = char['location']['standard']
-            print im_url
+            print(im_url)
             details = re.search(r'(\d+)-p(\d+)\.jpg', im_url)
             pid = '{}-{}'.format(details.group(1), details.group(2))
             try:
@@ -204,7 +204,7 @@ def list_gender(gender='female'):
     people = db.classifications.find({'task_key': 'pick_photo_gender', 'annotation.value': gender})
     for person in people:
         subject = get_subject(person['subject_id'])
-        print 'http://iabrowse.herokuapp.com/items/{}/pages/{}/'.format(subject['meta_data']['set_key'], subject['meta_data']['page'])
+        print('http://iabrowse.herokuapp.com/items/{}/pages/{}/'.format(subject['meta_data']['set_key'], subject['meta_data']['page']))
     # print list(people)
 
 
@@ -215,7 +215,7 @@ def list_page_types():
     for pick in picks:
         saved = db.completed_tasks.find_one({'_id': pick['_id']})
         if saved is not None:
-            print 'Already saved'
+            print('Already saved')
         else:
             db.completed_tasks.insert_one({'_id': pick['_id']})
             subject = get_subject(pick['subject_id'])
@@ -223,8 +223,8 @@ def list_page_types():
             page = int(subject['meta_data']['page'])
             annotation = {'field': 'pick_page_type', 'value': pick['annotation']['value']}
             db.images.update_one({'identifier': barcode, 'page': page}, {'$addToSet': {'annotations': annotation}})
-            print 'Page: {}, page {}'.format(barcode, page)
-            print 'Annotation: {}\n'.format(annotation)
+            print('Page: {}, page {}'.format(barcode, page))
+            print('Annotation: {}\n'.format(annotation))
 
 
 def list_completions():
@@ -234,7 +234,7 @@ def list_completions():
     for complete in completed:
         saved = db.completions.find_one({'_id': complete['_id']})
         if saved is not None:
-            print 'Already saved'
+            print('Already saved')
         else:
             db.completions.insert_one({'_id': complete['_id']})
             field = complete['type'].replace('transcribed_', '').replace('consensus_', '')
@@ -254,8 +254,8 @@ def list_completions():
             #   pages[page_id] = {'barcode': barcode, 'page': page_number, 'image': root['location']['standard'], 'fields': [{'field': field, 'value': value}]}
             annotation = {'field': field, 'value': value, 'region': complete['region']}
             db.images.update_one({'identifier': barcode, 'page': page}, {'$addToSet': {'annotations': annotation}})
-            print 'Page: {}, page {}'.format(barcode, page)
-            print 'Annotation: {}\n'.format(annotation)
+            print('Page: {}, page {}'.format(barcode, page))
+            print('Annotation: {}\n'.format(annotation))
 
 
 def write_csv_completions(page_type):
@@ -263,7 +263,7 @@ def write_csv_completions(page_type):
     db = dbclient.get_default_database()
     form_fields = FORM_FIELDS[page_type]
     pages = db.images.find({'annotations.value': page_type})
-    with open(os.path.join('data', 'csv', '{}-{}.csv'.format(page_type, datetime.now().strftime('%Y%m%d'))), 'wb') as csv_file:
+    with open(os.path.join('data', 'csv', '{}-{}.csv'.format(page_type, datetime.now().strftime('%Y%m%d'))), 'w') as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(['barcode', 'page'] + form_fields)
         for page in pages:
@@ -281,4 +281,4 @@ def write_csv_completions(page_type):
                 if has_data:
                     writer.writerow([page['identifier'], page['page']] + fields)
             else:
-                print page_type
+                print(page_type)
