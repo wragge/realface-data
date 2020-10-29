@@ -273,7 +273,7 @@ def write_csv_completions(page_type):
             if len(page_type) == 1:
                 for field in form_fields:
                     try:
-                        value = [a['value'].encode('utf-8') for a in page['annotations'] if a['field'] == field][0]
+                        value = [a['value'].encode('utf-8').decode() for a in page['annotations'] if a['field'] == field][0]
                         has_data = True
                     except IndexError:
                         value = None
